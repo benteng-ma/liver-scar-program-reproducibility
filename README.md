@@ -1,8 +1,10 @@
 # Liver scar-program reproducibility benchmark
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22227547.svg)](https://doi.org/10.5281/zenodo.22227547)
+
 Code, frozen analysis specifications, and derived results supporting the manuscript **Scar cell programs show limited reproducibility across human liver fibrosis cohorts despite a recurrent endothelial response**.
 
-Release candidate: v1.0.0 (2026-09-01). The repository is staged privately at https://github.com/benteng-ma/liver-scar-program-reproducibility pending the final public-release and Zenodo checks.
+Release v1.0.0 (2026-09-01) is archived at Zenodo under [doi:10.5281/zenodo.22227547](https://doi.org/10.5281/zenodo.22227547). The GitHub repository is public at https://github.com/benteng-ma/liver-scar-program-reproducibility.
 
 ## What this repository shows
 
@@ -43,7 +45,7 @@ The frozen Phase 2 labels remain 0/19 for within-cell-state replication, pan-cir
 
 ## Citation
 
-Use `CITATION.cff`. Cite the version-specific Zenodo DOI after the v1.0.0 release has been archived.
+Use `CITATION.cff` and cite the version-specific archive at https://doi.org/10.5281/zenodo.22227547. The all-versions concept DOI is https://doi.org/10.5281/zenodo.22227546.
 
 ## License
 

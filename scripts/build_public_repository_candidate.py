@@ -82,8 +82,9 @@ def write_release_documents() -> None:
     )
     (OUT / "README.md").write_text(
         "# Liver scar-program reproducibility benchmark\n\n"
+        "[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22227547.svg)](https://doi.org/10.5281/zenodo.22227547)\n\n"
         f"Code, frozen analysis specifications, and derived results supporting the manuscript **{TITLE}**.\n\n"
-        f"Release candidate: v{VERSION} (2026-09-01). The repository is staged privately at https://github.com/benteng-ma/liver-scar-program-reproducibility pending the final public-release and Zenodo checks.\n\n"
+        f"Release v{VERSION} (2026-09-01) is archived at Zenodo under [doi:10.5281/zenodo.22227547](https://doi.org/10.5281/zenodo.22227547). The GitHub repository is public at https://github.com/benteng-ma/liver-scar-program-reproducibility.\n\n"
         "## What this repository shows\n\n"
         "Nineteen published human liver scar-cell programs were evaluated with independent donors as the inferential unit across six single-cell or single-nucleus cohorts and two spatial resources. Intact programs showed limited cross-cohort reproducibility, while a recurrent endothelial response was detectable at the member-gene, within-state, multicellular-network, and scar-localization levels. The repository does not support a universal diagnostic, prognostic, causal, or treatment-selection claim.\n\n"
         "## Repository contents\n\n"
@@ -108,7 +109,7 @@ def write_release_documents() -> None:
         "```text\npython -m pytest -q\n```\n\n"
         "The frozen Phase 2 labels remain 0/19 for within-cell-state replication, pan-cirrhotic transportability, and assay robustness. Post-lock analyses provide biological localization and prioritization without altering those labels.\n\n"
         "## Citation\n\n"
-        "Use `CITATION.cff`. Cite the version-specific Zenodo DOI after the v1.0.0 release has been archived.\n\n"
+        "Use `CITATION.cff` and cite the version-specific archive at https://doi.org/10.5281/zenodo.22227547. The all-versions concept DOI is https://doi.org/10.5281/zenodo.22227546.\n\n"
         "## License\n\n"
         "Repository code is released under the MIT License; see `LICENSE`. This license does not relicense third-party source data, which remain governed by their original repositories and terms.\n",
         encoding="utf-8",
@@ -140,6 +141,7 @@ def write_release_documents() -> None:
         "title: \"Liver scar-program reproducibility benchmark\"\n"
         f"version: \"{VERSION}\"\n"
         "date-released: 2026-09-01\n"
+        "doi: \"10.5281/zenodo.22227547\"\n"
         "license: MIT\n"
         "repository-code: \"https://github.com/benteng-ma/liver-scar-program-reproducibility\"\n"
         "authors:\n"
@@ -291,7 +293,7 @@ def write_manifest() -> Path:
         rows.append((path.relative_to(OUT).as_posix(), path.stat().st_size, sha256(path)))
     manifest = OUT / "SHA256_manifest.csv"
     with manifest.open("w", newline="", encoding="utf-8") as handle:
-        writer = csv.writer(handle)
+        writer = csv.writer(handle, lineterminator="\n")
         writer.writerow(["path", "bytes", "sha256"])
         writer.writerows(rows)
     return manifest
