@@ -1,0 +1,16 @@
+phase0:
+  minimum_independent_datasets: 3
+  minimum_etiologies: 2
+  minimum_verified_programs: 15
+  approximate_minimum_healthy_donors_per_lineage: 8
+  approximate_minimum_disease_donors_per_lineage: 8
+program_coverage:
+  primary: 0.80
+  evaluable_flagged: 0.60
+  sensitivity_only: 0.40
+pseudobulk:
+  minimum_cells_primary: 30
+  minimum_cells_sensitivity: 20
+spatial:
+  minimum_detected_genes: 5
+  minimum_coverage: 0.20

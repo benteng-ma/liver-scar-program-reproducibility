@@ -1,0 +1,18 @@
+{
+  "dataset": "GSE244832",
+  "cells": 128223,
+  "genes": 27200,
+  "clusters": 18,
+  "donors": 18,
+  "condition_counts": {
+    "NAFL": 4,
+    "NASH": 9,
+    "NORMAL": 5
+  },
+  "matrix_declared_nonzero": 236313523,
+  "matrix_observed_nonzero": 236313523,
+  "matrix_sha256": "1D263C8AA86E70746370C6ECDFDD26DA9078F45FBE17DD18E935B79C75A6A5A7",
+  "metadata_sha256": "46725C6F74A0BCBEC2C90B92267A67844880DEF15ED016A2E62775726F2D0176",
+  "mapping_status": "provisional marker reconstruction; manual freeze required",
+  "author_marker_source": "Kim et al. PMID 39522884 main text Figure 1B-C"
+}

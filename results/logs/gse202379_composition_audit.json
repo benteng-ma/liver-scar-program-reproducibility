@@ -1,0 +1,8 @@
+{
+  "dataset_id": "GSE202379",
+  "donors": 47,
+  "lineages": 3,
+  "strong_score_proportion_tracking_rows": 15,
+  "correlation_rows": 36,
+  "interpretation_boundary": "Correlation with lineage abundance is descriptive; all program effects were estimated inside author-defined lineages and cannot be reduced to cell composition alone."
+}

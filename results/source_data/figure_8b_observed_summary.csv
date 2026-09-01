@@ -1,0 +1,3 @@
+program_id,published_program_genes,eligible_shared_genes,coherent_positive_genes,coherent_positive_fraction,meta_supported_genes,random_coherent_median,random_coherent_95th,random_coherent_99th,empirical_p_coherent_count,above_random_95th
+RAM2019_ENDO_2,45,40,17,0.425,7,4.0,8.0,10.0,9.999000099990002e-05,True
+RAM2019_ENDO_6_SAENDO1,12,11,6,0.5454545454545454,5,1.0,3.0,4.0,0.0012998700129987,True

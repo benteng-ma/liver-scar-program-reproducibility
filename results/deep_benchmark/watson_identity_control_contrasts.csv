@@ -1,0 +1,11 @@
+score_method,outcome,n_healthy,n_fibrosis,healthy_median,fibrosis_median,fibrosis_minus_healthy,hedges_g_fibrosis_vs_healthy,exact_permutation_p_two_sided,interpretation
+singscore,lineage_top_score_accuracy,3,3,1.0,0.3333333333333333,-0.6666666666666667,,0.1,post-result cohort diagnostic; disease and technical context are confounded
+singscore,mean_matched_minus_best_off_margin,3,3,0.7071015797232131,-0.21919983956564004,-0.9117539143433191,-18.820547716994305,0.1,post-result cohort diagnostic; disease and technical context are confounded
+singscore,total_target_cells_or_nuclei,3,3,1120.0,1104.0,-43.33333333333326,-0.12334497064856378,0.9,post-result cohort diagnostic; disease and technical context are confounded
+singscore,median_lineage_library_size,3,3,1499467.0,872161.0,-626495.3333333334,-0.9378553923480563,0.3,post-result cohort diagnostic; disease and technical context are confounded
+singscore,median_lineage_detected_genes,3,3,18685.0,19279.0,198.66666666666424,0.1042378803904719,0.9,post-result cohort diagnostic; disease and technical context are confounded
+standardized_mean,lineage_top_score_accuracy,3,3,1.0,0.3333333333333333,-0.6666666666666667,,0.1,post-result cohort diagnostic; disease and technical context are confounded
+standardized_mean,mean_matched_minus_best_off_margin,3,3,1.6792696438874206,-0.3263463886108203,-2.044577481192997,-32.11420366212915,0.1,post-result cohort diagnostic; disease and technical context are confounded
+standardized_mean,total_target_cells_or_nuclei,3,3,1120.0,1104.0,-43.33333333333326,-0.12334497064856378,0.9,post-result cohort diagnostic; disease and technical context are confounded
+standardized_mean,median_lineage_library_size,3,3,1499467.0,872161.0,-626495.3333333334,-0.9378553923480563,0.3,post-result cohort diagnostic; disease and technical context are confounded
+standardized_mean,median_lineage_detected_genes,3,3,18685.0,19279.0,198.66666666666424,0.1042378803904719,0.9,post-result cohort diagnostic; disease and technical context are confounded

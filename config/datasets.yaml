@@ -1,0 +1,22 @@
+roles:
+  discovery_internal_only:
+    - GSE136103
+  primary_independent_snrna_candidates:
+    - GSE202379
+    - GSE244832
+  primary_independent_scrna_candidate:
+    - GSE290642_human
+  directional_only:
+    - GSE181483_human
+    - GSE210077_Watson6
+  healthy_assay_baseline:
+    - E-MTAB-10553_unique
+    - GSE185477
+  optional_macrophage_hbv:
+    - PRJNA833766_new4
+  prohibited_as_single_cohort:
+    - GSE210077_full_series
+  formal_spatial:
+    enabled: false
+    reason: 0_of_19_frozen_programs_meet_coverage
+

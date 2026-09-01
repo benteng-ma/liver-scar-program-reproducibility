@@ -1,0 +1,26 @@
+{
+  "dataset_id": "GSE202379",
+  "author_object_cells": 99809,
+  "author_object_genes": 31257,
+  "author_object_donors": 47,
+  "target_cells": 18165,
+  "target_donor_lineage_groups": 141,
+  "pseudobulk_nonzero": 2069409,
+  "source_bytes": 2840561837,
+  "source_sha256": "227D5D12CF411359F4E590396EF314AD656E39854DAD1ACD4FD9C58C90BD4592",
+  "unwrapped_bytes": 2891989371,
+  "unwrapped_sha256": "DB70FBAD8C3FA3954F6CFED3D64E19D785CE1E9C7DE52EAB13D7F0F8F56B07AD",
+  "r_version": "R version 4.6.1 (2026-06-24 ucrt)",
+  "SeuratObject_version": "5.4.0",
+  "Matrix_version": "1.7.5",
+  "author_annotations_used": {
+    "Macrophages": "macrophage_monocyte",
+    "Endothelial": "endothelial",
+    "Stellate": "mesenchymal_hsc_myofibroblast"
+  },
+  "primary_cell_gate": 30,
+  "sensitivity_cell_gate": 20,
+  "minimum_donors_per_group": 3,
+  "programs_primary_coverage": 16,
+  "programs_total": 19
+}

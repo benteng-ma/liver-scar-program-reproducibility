@@ -1,0 +1,10 @@
+project_id: cirrhosis-scar-program-transportability
+phase: phase0
+species: Homo sapiens
+biological_unit: donor
+primary_lineages:
+  - macrophage_monocyte
+  - endothelial
+  - mesenchymal_hsc_myofibroblast
+forbid_disease_effects_before_preregistration: true
+created: 2026-08-30

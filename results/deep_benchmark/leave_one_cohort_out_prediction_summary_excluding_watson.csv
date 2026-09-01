@@ -1,0 +1,16 @@
+held_out_dataset,lineage,score_method,n_program_predictions,spearman_rho,predictive_r_squared
+ALL_NON_WATSON,ALL,ALL,90,0.4189241470140346,0.009989907026054734
+GSE181483_human,endothelial,singscore,7,0.6071428571428572,-0.044358707953201515
+GSE181483_human,endothelial,standardized_mean,7,0.6071428571428572,0.5100221923206201
+GSE181483_human,mesenchymal_hsc_myofibroblast,singscore,6,0.14285714285714288,-0.379859872354418
+GSE181483_human,mesenchymal_hsc_myofibroblast,standardized_mean,6,-0.5428571428571429,-1.2041970032940754
+GSE202379,endothelial,singscore,6,0.8857142857142858,0.6081561748168767
+GSE202379,endothelial,standardized_mean,6,0.7142857142857143,0.5058282464895127
+GSE202379,mesenchymal_hsc_myofibroblast,singscore,6,0.48571428571428577,-0.1042715875547191
+GSE202379,mesenchymal_hsc_myofibroblast,standardized_mean,6,-0.4285714285714286,-1.016386204864102
+GSE244832,endothelial,singscore,7,0.5714285714285715,0.07016802446713077
+GSE244832,endothelial,standardized_mean,7,0.6071428571428572,0.607626330442333
+GSE244832,mesenchymal_hsc_myofibroblast,singscore,6,0.7714285714285715,0.6630790098433554
+GSE244832,mesenchymal_hsc_myofibroblast,standardized_mean,6,0.7142857142857143,0.43369791223622023
+GSE290642_human,endothelial,singscore,7,0.5357142857142858,-0.4449478649536538
+GSE290642_human,endothelial,standardized_mean,7,0.39285714285714296,-0.16034338142541538

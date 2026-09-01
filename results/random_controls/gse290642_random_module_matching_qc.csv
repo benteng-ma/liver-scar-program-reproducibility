@@ -1,0 +1,8 @@
+dataset_id,lineage,program_id,measured_module_size,random_modules,exact_bin_match_fraction,expanded_bin_match_fraction,maximum_bin_distance,within_module_replacement
+GSE290642_human,endothelial,RAM2019_ENDO_1,77,1000,1.0,0.0,0,False
+GSE290642_human,endothelial,RAM2019_ENDO_2,43,1000,1.0,0.0,0,False
+GSE290642_human,endothelial,RAM2019_ENDO_3,38,1000,1.0,0.0,0,False
+GSE290642_human,endothelial,RAM2019_ENDO_4,85,1000,1.0,0.0,0,False
+GSE290642_human,endothelial,RAM2019_ENDO_5,47,1000,1.0,0.0,0,False
+GSE290642_human,endothelial,RAM2019_ENDO_6_SAENDO1,12,1000,1.0,0.0,0,False
+GSE290642_human,endothelial,RAM2019_ENDO_7_SAENDO2,56,1000,1.0,0.0,0,False

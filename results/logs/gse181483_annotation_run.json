@@ -1,0 +1,64 @@
+{
+  "dataset": "GSE181483_human",
+  "annotation_role": "reconstructed broad-lineage directional support only",
+  "human_donors": 4,
+  "cells_total": 31845,
+  "cells_retained": 29033,
+  "clusters": 25,
+  "marker_panel_total": 84,
+  "marker_panel_available_all_donors": 84,
+  "clusters_passing_automatic_rule": 22,
+  "provisional_label_counts": {
+    "t_nk": 6,
+    "macrophage_monocyte": 3,
+    "endothelial": 3,
+    "ambiguous": 3,
+    "dendritic": 3,
+    "mesenchymal_hsc_myofibroblast": 2,
+    "neutrophil": 2,
+    "b_plasma": 2,
+    "epithelial": 1
+  },
+  "qc_thresholds": {
+    "min_umi": 500,
+    "min_genes": 200,
+    "max_genes": 6000,
+    "max_mt_fraction": 0.2
+  },
+  "annotation_parameters": {
+    "normalization": "log1p(count / cell_library * 10000), identity markers only",
+    "pca_components": 20,
+    "clustering": "MiniBatchKMeans",
+    "n_clusters": 25,
+    "n_init": 20,
+    "seed": 20260830,
+    "minimum_top_minus_second_score": 0.5,
+    "minimum_anchor_markers": 2,
+    "anchor_z_threshold": 0.5
+  },
+  "marker_config_sha256": "AE447A8A9DDD53BFA6172C1CC0DE408C34131470860A0AD3D0CE70FE7F7CC050",
+  "donor_manifest_sha256": "546FE9EC11B9248C7709119D9A59381BF0C989F3101657E620EEE2894D980BF1",
+  "input_hashes": {
+    "GSM5741404": {
+      "matrix_sha256": "1125EB559650D0A6811CF9D35ED5F901752579FFDECCD00A79F076C644F2D178",
+      "genes_sha256": "3B603A09F1ECB1A975E1A767EDD11F647033369A611CF76F16444AB326749A13",
+      "barcodes_sha256": "4AE1098764A992A46DF196D3519BAC1DDECEC062E21153339AFD28CECB58F64B"
+    },
+    "GSM5741405": {
+      "matrix_sha256": "1CB54A30A3A8A45C78D73A24064D3F1B904378E36A763282E0E0DBEDA5EBA678",
+      "genes_sha256": "3B603A09F1ECB1A975E1A767EDD11F647033369A611CF76F16444AB326749A13",
+      "barcodes_sha256": "A50215727E6E2370C52AE661BBD0675293902897466B05FD1FECBC1E80A2F1E8"
+    },
+    "GSM5741406": {
+      "matrix_sha256": "4D6043847AFE2779952D22894E6260B3B774AF394B9F981B40948781ED332169",
+      "genes_sha256": "3B603A09F1ECB1A975E1A767EDD11F647033369A611CF76F16444AB326749A13",
+      "barcodes_sha256": "D04AFD10D12B80C943BD380B9012A8AFC3FC997FA5406085014CE7636A521436"
+    },
+    "GSM5741407": {
+      "matrix_sha256": "6D2F9114B5B7BB0DA41FCCCE1A3A5080BD3D8D357BBB2539CCEE07C3EBB4021E",
+      "genes_sha256": "3B603A09F1ECB1A975E1A767EDD11F647033369A611CF76F16444AB326749A13",
+      "barcodes_sha256": "BD944CCF53EBA7AF18E92B3D963A1262D77F24FF4B1EE69159BC40B0BA5982C1"
+    }
+  },
+  "mapping_status": "provisional automatic labels; frozen mapping required before aggregation"
+}

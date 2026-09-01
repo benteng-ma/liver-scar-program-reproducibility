@@ -1,0 +1,142 @@
+canonical_donor_id,harmonized_lineage,lineage_nuclei,total_nuclei,lineage_proportion,Disease.status,Fibrosis.score..F0.4.,Age,Gender
+P11,endothelial,41,1058,0.038752362948960305,NASH w/o cirrhosis,3,63,M
+P11,macrophage_monocyte,6,1058,0.005671077504725898,NASH w/o cirrhosis,3,63,M
+P11,mesenchymal_hsc_myofibroblast,13,1058,0.012287334593572778,NASH w/o cirrhosis,3,63,M
+P12,endothelial,39,654,0.05963302752293578,NASH with cirrhosis,4,48,F
+P12,macrophage_monocyte,15,654,0.022935779816513763,NASH with cirrhosis,4,48,F
+P12,mesenchymal_hsc_myofibroblast,26,654,0.039755351681957186,NASH with cirrhosis,4,48,F
+P15,endothelial,33,1074,0.030726256983240222,NASH w/o cirrhosis,3,65,M
+P15,macrophage_monocyte,20,1074,0.0186219739292365,NASH w/o cirrhosis,3,65,M
+P15,mesenchymal_hsc_myofibroblast,21,1074,0.019553072625698324,NASH w/o cirrhosis,3,65,M
+P16,endothelial,107,2450,0.043673469387755105,NASH w/o cirrhosis,3,70,F
+P16,macrophage_monocyte,39,2450,0.015918367346938776,NASH w/o cirrhosis,3,70,F
+P16,mesenchymal_hsc_myofibroblast,58,2450,0.0236734693877551,NASH w/o cirrhosis,3,70,F
+P19,endothelial,66,1538,0.04291287386215865,NASH w/o cirrhosis,3,76,M
+P19,macrophage_monocyte,27,1538,0.017555266579973992,NASH w/o cirrhosis,3,76,M
+P19,mesenchymal_hsc_myofibroblast,35,1538,0.022756827048114433,NASH w/o cirrhosis,3,76,M
+P20,endothelial,460,3606,0.12756516916250693,NASH w/o cirrhosis,3,71,F
+P20,macrophage_monocyte,109,3606,0.030227398779811426,NASH w/o cirrhosis,3,71,F
+P20,mesenchymal_hsc_myofibroblast,140,3606,0.03882418191902385,NASH w/o cirrhosis,3,71,F
+P21,endothelial,526,3898,0.1349409953822473,NASH w/o cirrhosis,2,60,M
+P21,macrophage_monocyte,124,3898,0.03181118522319138,NASH w/o cirrhosis,2,60,M
+P21,mesenchymal_hsc_myofibroblast,209,3898,0.05361723961005644,NASH w/o cirrhosis,2,60,M
+P22,endothelial,141,2314,0.060933448573898014,NASH with cirrhosis,4,55,M
+P22,macrophage_monocyte,10,2314,0.00432152117545376,NASH with cirrhosis,4,55,M
+P22,mesenchymal_hsc_myofibroblast,28,2314,0.012100259291270527,NASH with cirrhosis,4,55,M
+P3,endothelial,28,1531,0.018288700195950358,NASH w/o cirrhosis,1,56,M
+P3,macrophage_monocyte,18,1531,0.011757021554539516,NASH w/o cirrhosis,1,56,M
+P3,mesenchymal_hsc_myofibroblast,20,1531,0.013063357282821686,NASH w/o cirrhosis,1,56,M
+P30,endothelial,74,1068,0.06928838951310862,Healthy control,0,49,M
+P30,macrophage_monocyte,8,1068,0.00749063670411985,Healthy control,0,49,M
+P30,mesenchymal_hsc_myofibroblast,16,1068,0.0149812734082397,Healthy control,0,49,M
+P48,endothelial,33,917,0.03598691384950927,NASH w/o cirrhosis,2,44,F
+P48,macrophage_monocyte,7,917,0.007633587786259542,NASH w/o cirrhosis,2,44,F
+P48,mesenchymal_hsc_myofibroblast,4,917,0.004362050163576881,NASH w/o cirrhosis,2,44,F
+P49,endothelial,139,2211,0.06286748077792854,NASH w/o cirrhosis,2,55,F
+P49,macrophage_monocyte,31,2211,0.014020805065581185,NASH w/o cirrhosis,2,55,F
+P49,mesenchymal_hsc_myofibroblast,23,2211,0.010402532790592492,NASH w/o cirrhosis,2,55,F
+P50,endothelial,281,1632,0.1721813725490196,NASH w/o cirrhosis,2,45,M
+P50,macrophage_monocyte,63,1632,0.03860294117647059,NASH w/o cirrhosis,2,45,M
+P50,mesenchymal_hsc_myofibroblast,97,1632,0.05943627450980392,NASH w/o cirrhosis,2,45,M
+P51,endothelial,345,1734,0.19896193771626297,NAFLD,1,57,M
+P51,macrophage_monocyte,52,1734,0.029988465974625143,NAFLD,1,57,M
+P51,mesenchymal_hsc_myofibroblast,79,1734,0.04555940023068051,NAFLD,1,57,M
+P52,endothelial,133,508,0.2618110236220472,NASH w/o cirrhosis,1,49,M
+P52,macrophage_monocyte,24,508,0.047244094488188976,NASH w/o cirrhosis,1,49,M
+P52,mesenchymal_hsc_myofibroblast,21,508,0.04133858267716536,NASH w/o cirrhosis,1,49,M
+P53,endothelial,144,371,0.3881401617250674,NASH w/o cirrhosis,3,57,M
+P53,macrophage_monocyte,11,371,0.029649595687331536,NASH w/o cirrhosis,3,57,M
+P53,mesenchymal_hsc_myofibroblast,13,371,0.03504043126684636,NASH w/o cirrhosis,3,57,M
+P54,endothelial,155,1375,0.11272727272727273,NASH w/o cirrhosis,2,61,F
+P54,macrophage_monocyte,20,1375,0.014545454545454545,NASH w/o cirrhosis,2,61,F
+P54,mesenchymal_hsc_myofibroblast,37,1375,0.02690909090909091,NASH w/o cirrhosis,2,61,F
+P55,endothelial,222,1119,0.19839142091152814,NAFLD,2,21,M
+P55,macrophage_monocyte,22,1119,0.01966041108132261,NAFLD,2,21,M
+P55,mesenchymal_hsc_myofibroblast,56,1119,0.050044682752457555,NAFLD,2,21,M
+P56,endothelial,348,1242,0.28019323671497587,NAFLD,1,47,F
+P56,macrophage_monocyte,30,1242,0.024154589371980676,NAFLD,1,47,F
+P56,mesenchymal_hsc_myofibroblast,120,1242,0.0966183574879227,NAFLD,1,47,F
+P57,endothelial,254,1357,0.18717759764185704,NASH w/o cirrhosis,2,53,F
+P57,macrophage_monocyte,60,1357,0.04421518054532056,NASH w/o cirrhosis,2,53,F
+P57,mesenchymal_hsc_myofibroblast,98,1357,0.07221812822402358,NASH w/o cirrhosis,2,53,F
+P6,endothelial,394,3427,0.11496936095710535,NAFLD,1,57,M
+P6,macrophage_monocyte,35,3427,0.010213014298220018,NAFLD,1,57,M
+P6,mesenchymal_hsc_myofibroblast,90,3427,0.026262036766851474,NAFLD,1,57,M
+P60,endothelial,132,1121,0.11775200713648529,NAFLD,0,53,M
+P60,macrophage_monocyte,1,1121,0.0008920606601248885,NAFLD,0,53,M
+P60,mesenchymal_hsc_myofibroblast,31,1121,0.027653880463871544,NAFLD,0,53,M
+P62,endothelial,7,442,0.01583710407239819,NASH w/o cirrhosis,3,60,M
+P62,macrophage_monocyte,2,442,0.004524886877828055,NASH w/o cirrhosis,3,60,M
+P62,mesenchymal_hsc_myofibroblast,7,442,0.01583710407239819,NASH w/o cirrhosis,3,60,M
+P64,endothelial,99,1038,0.0953757225433526,NASH w/o cirrhosis,1,55,F
+P64,macrophage_monocyte,11,1038,0.010597302504816955,NASH w/o cirrhosis,1,55,F
+P64,mesenchymal_hsc_myofibroblast,38,1038,0.036608863198458574,NASH w/o cirrhosis,1,55,F
+P67,endothelial,40,1614,0.024783147459727387,NASH w/o cirrhosis,3,67,F
+P67,macrophage_monocyte,3,1614,0.0018587360594795538,NASH w/o cirrhosis,3,67,F
+P67,mesenchymal_hsc_myofibroblast,25,1614,0.015489467162329617,NASH w/o cirrhosis,3,67,F
+P68,endothelial,289,1127,0.25643300798580304,NASH with cirrhosis,4,66,F
+P68,macrophage_monocyte,22,1127,0.019520851818988466,NASH with cirrhosis,4,66,F
+P68,mesenchymal_hsc_myofibroblast,52,1127,0.04614019520851819,NASH with cirrhosis,4,66,F
+P7,endothelial,95,2377,0.03996634413125789,NASH w/o cirrhosis,2,47,M
+P7,macrophage_monocyte,32,2377,0.013462347496844763,NASH w/o cirrhosis,2,47,M
+P7,mesenchymal_hsc_myofibroblast,99,2377,0.041649137568363484,NASH w/o cirrhosis,2,47,M
+P70,endothelial,120,654,0.1834862385321101,NASH w/o cirrhosis,3,59,M
+P70,macrophage_monocyte,29,654,0.04434250764525994,NASH w/o cirrhosis,3,59,M
+P70,mesenchymal_hsc_myofibroblast,25,654,0.0382262996941896,NASH w/o cirrhosis,3,59,M
+P71,endothelial,14,182,0.07692307692307693,NASH w/o cirrhosis,2,32,F
+P71,macrophage_monocyte,4,182,0.02197802197802198,NASH w/o cirrhosis,2,32,F
+P71,mesenchymal_hsc_myofibroblast,1,182,0.005494505494505495,NASH w/o cirrhosis,2,32,F
+P72,endothelial,553,2761,0.2002897500905469,NASH w/o cirrhosis,3,41,M
+P72,macrophage_monocyte,250,2761,0.09054690329590728,NASH w/o cirrhosis,3,41,M
+P72,mesenchymal_hsc_myofibroblast,216,2761,0.07823252444766389,NASH w/o cirrhosis,3,41,M
+P73,endothelial,603,2503,0.24091090691170594,NASH w/o cirrhosis,1,59,F
+P73,macrophage_monocyte,135,2503,0.05393527766679984,NASH w/o cirrhosis,1,59,F
+P73,mesenchymal_hsc_myofibroblast,152,2503,0.060727127447063524,NASH w/o cirrhosis,1,59,F
+P75,endothelial,301,1202,0.2504159733777038,NASH with cirrhosis,4,60,M
+P75,macrophage_monocyte,39,1202,0.0324459234608985,NASH with cirrhosis,4,60,M
+P75,mesenchymal_hsc_myofibroblast,95,1202,0.07903494176372712,NASH with cirrhosis,4,60,M
+P76,endothelial,359,1502,0.23901464713715045,NASH w/o cirrhosis,2,55,M
+P76,macrophage_monocyte,132,1502,0.08788282290279627,NASH w/o cirrhosis,2,55,M
+P76,mesenchymal_hsc_myofibroblast,35,1502,0.02330226364846871,NASH w/o cirrhosis,2,55,M
+P77,endothelial,110,1301,0.08455034588777863,NASH w/o cirrhosis,2,62,F
+P77,macrophage_monocyte,44,1301,0.033820138355111454,NASH w/o cirrhosis,2,62,F
+P77,mesenchymal_hsc_myofibroblast,12,1301,0.009223674096848577,NASH w/o cirrhosis,2,62,F
+P78,endothelial,45,1216,0.03700657894736842,NAFLD,0,53,M
+P78,macrophage_monocyte,5,1216,0.004111842105263158,NAFLD,0,53,M
+P78,mesenchymal_hsc_myofibroblast,5,1216,0.004111842105263158,NAFLD,0,53,M
+P8,endothelial,357,3605,0.09902912621359224,NASH w/o cirrhosis,3,65,M
+P8,macrophage_monocyte,105,3605,0.02912621359223301,NASH w/o cirrhosis,3,65,M
+P8,mesenchymal_hsc_myofibroblast,128,3605,0.03550624133148405,NASH w/o cirrhosis,3,65,M
+P83,endothelial,118,419,0.28162291169451076,NASH w/o cirrhosis,2,56,M
+P83,macrophage_monocyte,5,419,0.011933174224343675,NASH w/o cirrhosis,2,56,M
+P83,mesenchymal_hsc_myofibroblast,9,419,0.021479713603818614,NASH w/o cirrhosis,2,56,M
+P84,endothelial,131,529,0.24763705103969755,NAFLD,3,56,M
+P84,macrophage_monocyte,8,529,0.015122873345935728,NAFLD,3,56,M
+P84,mesenchymal_hsc_myofibroblast,19,529,0.035916824196597356,NAFLD,3,56,M
+P9,endothelial,345,3606,0.0956738768718802,NASH w/o cirrhosis,1,50,M
+P9,macrophage_monocyte,94,3606,0.026067665002773157,NASH w/o cirrhosis,1,50,M
+P9,mesenchymal_hsc_myofibroblast,149,3606,0.04132002218524681,NASH w/o cirrhosis,1,50,M
+P98,endothelial,293,860,0.34069767441860466,Healthy control,1,57,M
+P98,macrophage_monocyte,66,860,0.07674418604651163,Healthy control,1,57,M
+P98,mesenchymal_hsc_myofibroblast,35,860,0.040697674418604654,Healthy control,1,57,M
+PCL103,endothelial,907,4904,0.1849510603588907,end stage,4,59,M
+PCL103,macrophage_monocyte,344,4904,0.0701468189233279,end stage,4,59,M
+PCL103,mesenchymal_hsc_myofibroblast,327,4904,0.06668026101141925,end stage,4,59,M
+PCL104,endothelial,343,2926,0.11722488038277512,end stage,4,59,F
+PCL104,macrophage_monocyte,141,2926,0.04818865345181134,end stage,4,59,F
+PCL104,mesenchymal_hsc_myofibroblast,134,2926,0.04579630895420369,end stage,4,59,F
+PCL16,endothelial,157,7591,0.02068238703728099,end stage,4,63,M
+PCL16,macrophage_monocyte,192,7591,0.02529311026215255,end stage,4,63,M
+PCL16,mesenchymal_hsc_myofibroblast,101,7591,0.013305229877486497,end stage,4,63,M
+PCL17,endothelial,245,5317,0.04607861576076735,end stage,4,72,M
+PCL17,macrophage_monocyte,89,5317,0.016738762460033852,end stage,4,72,M
+PCL17,mesenchymal_hsc_myofibroblast,137,5317,0.025766409629490315,end stage,4,72,M
+PCL18,endothelial,720,10752,0.06696428571428571,end stage,4,68,F
+PCL18,macrophage_monocyte,241,10752,0.022414434523809524,end stage,4,68,F
+PCL18,mesenchymal_hsc_myofibroblast,247,10752,0.02297247023809524,end stage,4,68,F
+PHL1,endothelial,927,3844,0.24115504682622269,Healthy control,0,38,M
+PHL1,macrophage_monocyte,218,3844,0.056711758584807495,Healthy control,0,38,M
+PHL1,mesenchymal_hsc_myofibroblast,252,3844,0.06555671175858481,Healthy control,0,38,M
+PHL2,endothelial,285,1332,0.21396396396396397,Healthy control,0,74,F
+PHL2,macrophage_monocyte,71,1332,0.0533033033033033,Healthy control,0,74,F
+PHL2,mesenchymal_hsc_myofibroblast,58,1332,0.04354354354354354,Healthy control,0,74,F

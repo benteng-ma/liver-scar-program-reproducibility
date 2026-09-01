@@ -1,0 +1,21 @@
+{
+  "effect_rows": 274,
+  "datasets": [
+    "GSE181483_human",
+    "GSE202379",
+    "GSE210077_Watson6",
+    "GSE244832",
+    "GSE290642_human"
+  ],
+  "advanced_endothelial_sensitivity_meta_rows": 12,
+  "programs": 19,
+  "independent_directional_support_programs": 18,
+  "within_cell_state_replicated_programs": 0,
+  "pan_cirrhotic_transportable_programs": 0,
+  "assay_robust_programs": 0,
+  "primary_meta_status": "not run: no endpoint has two comparable author-label formal-primary cohorts",
+  "sensitivity_meta_status": "advanced endothelial only: GSE202379 F3-F4 vs F0 plus reconstructed-label GSE290642 F4 vs F0",
+  "matrix_sha256": "705E32A49D1E45EE293BF213984C04B4BE26557801EF7DDBFEA0DE1AD3A12A79",
+  "meta_sha256": "86BA177BACE72C87C6FFC39D7E750691E5EE489B644665F5E95EFC8C59EDC2D5",
+  "classification_sha256": "00BEEC309B91D5FABFEADC97CB68B52C3BE97C29BE24E7A7A7E1BB11495D026B"
+}

@@ -1,0 +1,14 @@
+source_dataset,source_label,major_lineage,sublineage,published_state,harmonized_state,mapping_status,allowed_use,notes
+GSE136103,SAMΦ(1/2),macrophage_monocyte,macrophage,scar-associated macrophage,scar_associated_macrophage,frozen,internal recovery only,TREM2+CD9+ discovery state
+GSE136103,KC(1/2),macrophage_monocyte,macrophage,Kupffer cell,kupffer_cell,frozen,internal recovery only,do not force TIMD4-negative and positive states together in sensitivity analyses
+GSE136103,TMo,macrophage_monocyte,monocyte,tissue monocyte,tissue_monocyte,frozen,internal recovery only,author label
+GSE136103,SAEndo(1),endothelial,vascular endothelial,PLVAP-positive scar endothelial,scar_endothelial_plvap,frozen,internal recovery only,author state
+GSE136103,SAEndo(2),endothelial,vascular endothelial,ACKR1-positive scar endothelial,scar_endothelial_ackr1,frozen,internal recovery only,author state
+GSE136103,LSEC,endothelial,sinusoidal endothelial,healthy LSEC,lsec,frozen,internal recovery only,author state
+GSE136103,SAMes,mesenchymal_hsc_myofibroblast,myofibroblast,PDGFRA-positive scar mesenchymal,scar_associated_myofibroblast,frozen,internal recovery only,author state
+GSE136103,HSC,mesenchymal_hsc_myofibroblast,stellate cell,hepatic stellate cell,hepatic_stellate_cell,frozen,internal recovery only,author state
+GSE136103,VSMC,mesenchymal_hsc_myofibroblast,smooth muscle,vascular smooth muscle cell,vascular_smooth_muscle,frozen,internal recovery only,author state
+ALL_VALIDATION,author macrophage/monocyte labels,macrophage_monocyte,preserve author subtype,not reassigned from program expression,major-lineage mapping,pending per-object audit,eligible after author-label mapping,reference mapping only as sensitivity
+ALL_VALIDATION,author endothelial labels,endothelial,preserve author subtype,not reassigned from program expression,major-lineage mapping,pending per-object audit,eligible after author-label mapping,no re-clustering to improve replication
+ALL_VALIDATION,author HSC/fibroblast/mesenchymal labels,mesenchymal_hsc_myofibroblast,preserve author subtype,not reassigned from program expression,major-lineage mapping,pending per-object audit,eligible after author-label mapping,do not force etiology-specific subtypes to match
+

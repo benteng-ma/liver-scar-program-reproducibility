@@ -1,0 +1,5 @@
+spatial_study,gene_set_id,requested_genes,measured_genes,coverage_fraction,coverage_gate,coverage_pass,measured_gene_symbols,missing_gene_symbols
+Chung_2022_PMC9426406,Endo2_primary,7,7,1.0,0.8,True,TFF3;TSPAN5;PPDPF;EFEMP1;NTS;ADIRF;LGALS3,
+Chung_2022_PMC9426406,SAEndo1_primary,5,5,1.0,0.8,True,GSN;RBP7;PLPP1;PLVAP;VWA1,
+Chung_2022_PMC9426406,Endo2_secondary,17,17,1.0,0.8,True,TFF3;TSPAN5;PPDPF;EFEMP1;NTS;ADIRF;LGALS3;LAPTM5;TMSB10;S100A6;VIM;S100A10;CALD1;ANXA2;GUK1;C4ORF48;SNCG,
+Chung_2022_PMC9426406,SAEndo1_secondary,6,6,1.0,0.8,True,GSN;RBP7;PLPP1;PLVAP;VWA1;TMEM88,

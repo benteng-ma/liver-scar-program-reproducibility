@@ -1,0 +1,18 @@
+{
+  "datasets": [
+    "GSE202379",
+    "GSE244832",
+    "GSE256398_human"
+  ],
+  "state_score_rows": 12084,
+  "state_abundance_effect_rows": 73,
+  "state_intensity_effect_rows": 368,
+  "decomposition_rows": 112,
+  "state_match_rows": 343,
+  "supported_state_matches": 7,
+  "primary_state_support": {
+    "RAM2019_ENDO_2": "NOT_STATE_SUPPORTED_POST_LOCK",
+    "RAM2019_ENDO_6_SAENDO1": "NOT_STATE_SUPPORTED_POST_LOCK"
+  },
+  "bootstrap_iterations": 10000
+}

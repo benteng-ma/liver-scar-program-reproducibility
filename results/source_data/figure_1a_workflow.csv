@@ -1,0 +1,5 @@
+step,analysis,purpose
+1,Lineage identity positive controls,technical sensitivity
+2,Canonical disease response controls,cohort disease-axis sensitivity
+3,19 frozen scar programs,external transportability
+4,Held-out Core5 + report card,rescue and prioritization

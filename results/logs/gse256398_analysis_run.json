@@ -1,0 +1,16 @@
+{
+  "dataset_id": "GSE256398_human",
+  "normalization": "log2(CPM + 1) within donor-lineage pseudobulk",
+  "score_methods": [
+    "direction-aware singscore",
+    "standardized signed mean"
+  ],
+  "standardization_reference": "all lineage donors passing 20-cell gate; outcome-blind",
+  "binary_effect_rows": 190,
+  "ordinal_trend_rows": 38,
+  "ordinal_permutation": "exact unique 3/4/4 label allocations",
+  "seed": 20260830,
+  "score_sha256": "96AA48CA569751629B63A09523B5BA62112C6D1F59E367FB61745052F36A4936",
+  "effect_sha256": "29FB100E7C757698D0747AC33165A715A4358161FA703719B25F67DDDD0A9811",
+  "trend_sha256": "CF92B0155448BA2DC79A117F3FB60AFDFB38FCAE98E13B56A51A6FC6F3130A74"
+}

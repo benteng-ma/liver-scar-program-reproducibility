@@ -1,0 +1,9 @@
+freeze_date: 2026-08-30
+source: literature/program_inventory.csv
+sha256: CF05D2E589EAB4C5BCAEC4005D868D3E3EB3F9F7E5E7A7D15D8365C2EE88F386
+n_programs: 19
+n_program_gene_rows: 2893
+discovery_dataset: GSE136103
+external_validation_in_discovery_dataset: forbidden
+validation_data_may_modify_membership: false
+

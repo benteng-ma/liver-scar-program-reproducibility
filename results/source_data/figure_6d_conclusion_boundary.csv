@@ -1,0 +1,5 @@
+level,conclusion
+Technical sensitivity,Identity controls pass in GSE202379
+Conditional positive,Matched advanced endpoint: rho 0.69; 91.7% signs
+Remaining failure,Held-out effect magnitude R²≈0; Core5 not random-specific
+Translation boundary,"Not a staging biomarker, mechanism, or treatment target"

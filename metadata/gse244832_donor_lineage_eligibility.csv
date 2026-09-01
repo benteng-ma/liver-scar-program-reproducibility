@@ -1,0 +1,55 @@
+group_id,donor_id,author_donor_id,harmonized_lineage,n_cells,condition,disease_group,etiology,fibrosis_stage,eligible_30,eligible_20
+G0001,JB_288,JB288,endothelial,3059,NORMAL,normal,none,not reported,True,True
+G0002,JB_288,JB288,macrophage_monocyte,250,NORMAL,normal,none,not reported,True,True
+G0003,JB_288,JB288,mesenchymal_hsc_myofibroblast,181,NORMAL,normal,none,not reported,True,True
+G0004,JB_289,JB289,endothelial,480,NAFL,MASL,metabolic,not reported,True,True
+G0005,JB_289,JB289,macrophage_monocyte,247,NAFL,MASL,metabolic,not reported,True,True
+G0006,JB_289,JB289,mesenchymal_hsc_myofibroblast,149,NAFL,MASL,metabolic,not reported,True,True
+G0007,JB_290,JB290,endothelial,1901,NASH,MASH,metabolic,group-level F2-F4 only,True,True
+G0008,JB_290,JB290,macrophage_monocyte,571,NASH,MASH,metabolic,group-level F2-F4 only,True,True
+G0009,JB_290,JB290,mesenchymal_hsc_myofibroblast,1873,NASH,MASH,metabolic,group-level F2-F4 only,True,True
+G0010,JB_303,JB303,endothelial,1767,NORMAL,normal,none,not reported,True,True
+G0011,JB_303,JB303,macrophage_monocyte,486,NORMAL,normal,none,not reported,True,True
+G0012,JB_303,JB303,mesenchymal_hsc_myofibroblast,394,NORMAL,normal,none,not reported,True,True
+G0013,JB_304,JB304,endothelial,989,NAFL,MASL,metabolic,not reported,True,True
+G0014,JB_304,JB304,macrophage_monocyte,145,NAFL,MASL,metabolic,not reported,True,True
+G0015,JB_304,JB304,mesenchymal_hsc_myofibroblast,133,NAFL,MASL,metabolic,not reported,True,True
+G0016,JB_305,JB305,endothelial,638,NASH,MASH,metabolic,group-level F2-F4 only,True,True
+G0017,JB_305,JB305,macrophage_monocyte,241,NASH,MASH,metabolic,group-level F2-F4 only,True,True
+G0018,JB_305,JB305,mesenchymal_hsc_myofibroblast,1305,NASH,MASH,metabolic,group-level F2-F4 only,True,True
+G0019,JB_317,JB317,endothelial,715,NORMAL,normal,none,not reported,True,True
+G0020,JB_317,JB317,macrophage_monocyte,342,NORMAL,normal,none,not reported,True,True
+G0021,JB_317,JB317,mesenchymal_hsc_myofibroblast,318,NORMAL,normal,none,not reported,True,True
+G0022,JB_318,JB318,endothelial,1803,NAFL,MASL,metabolic,not reported,True,True
+G0023,JB_318,JB318,macrophage_monocyte,503,NAFL,MASL,metabolic,not reported,True,True
+G0024,JB_318,JB318,mesenchymal_hsc_myofibroblast,550,NAFL,MASL,metabolic,not reported,True,True
+G0025,JB_319,JB319,endothelial,1256,NASH,MASH,metabolic,group-level F2-F4 only,True,True
+G0026,JB_319,JB319,macrophage_monocyte,232,NASH,MASH,metabolic,group-level F2-F4 only,True,True
+G0027,JB_319,JB319,mesenchymal_hsc_myofibroblast,410,NASH,MASH,metabolic,group-level F2-F4 only,True,True
+G0028,JB_320,JB320,endothelial,1301,NORMAL,normal,none,not reported,True,True
+G0029,JB_320,JB320,macrophage_monocyte,24,NORMAL,normal,none,not reported,False,True
+G0030,JB_320,JB320,mesenchymal_hsc_myofibroblast,150,NORMAL,normal,none,not reported,True,True
+G0031,JB_321,JB321,endothelial,1637,NASH,MASH,metabolic,group-level F2-F4 only,True,True
+G0032,JB_321,JB321,macrophage_monocyte,449,NASH,MASH,metabolic,group-level F2-F4 only,True,True
+G0033,JB_321,JB321,mesenchymal_hsc_myofibroblast,320,NASH,MASH,metabolic,group-level F2-F4 only,True,True
+G0034,JB_322,JB322,endothelial,1746,NASH,MASH,metabolic,group-level F2-F4 only,True,True
+G0035,JB_322,JB322,macrophage_monocyte,352,NASH,MASH,metabolic,group-level F2-F4 only,True,True
+G0036,JB_322,JB322,mesenchymal_hsc_myofibroblast,1457,NASH,MASH,metabolic,group-level F2-F4 only,True,True
+G0037,JB_336,JB336,endothelial,592,NORMAL,normal,none,not reported,True,True
+G0038,JB_336,JB336,macrophage_monocyte,67,NORMAL,normal,none,not reported,True,True
+G0039,JB_336,JB336,mesenchymal_hsc_myofibroblast,343,NORMAL,normal,none,not reported,True,True
+G0040,JB_337,JB337,endothelial,1103,NAFL,MASL,metabolic,not reported,True,True
+G0041,JB_337,JB337,macrophage_monocyte,331,NAFL,MASL,metabolic,not reported,True,True
+G0042,JB_337,JB337,mesenchymal_hsc_myofibroblast,359,NAFL,MASL,metabolic,not reported,True,True
+G0043,JB_338,JB338,endothelial,548,NASH,MASH,metabolic,group-level F2-F4 only,True,True
+G0044,JB_338,JB338,macrophage_monocyte,200,NASH,MASH,metabolic,group-level F2-F4 only,True,True
+G0045,JB_338,JB338,mesenchymal_hsc_myofibroblast,1118,NASH,MASH,metabolic,group-level F2-F4 only,True,True
+G0046,JB_339,JB339,endothelial,2157,NASH,MASH,metabolic,group-level F2-F4 only,True,True
+G0047,JB_339,JB339,macrophage_monocyte,195,NASH,MASH,metabolic,group-level F2-F4 only,True,True
+G0048,JB_339,JB339,mesenchymal_hsc_myofibroblast,869,NASH,MASH,metabolic,group-level F2-F4 only,True,True
+G0049,JB_340,JB340,endothelial,2823,NASH,MASH,metabolic,group-level F2-F4 only,True,True
+G0050,JB_340,JB340,macrophage_monocyte,765,NASH,MASH,metabolic,group-level F2-F4 only,True,True
+G0051,JB_340,JB340,mesenchymal_hsc_myofibroblast,473,NASH,MASH,metabolic,group-level F2-F4 only,True,True
+G0052,JB_341,JB341,endothelial,1251,NASH,MASH,metabolic,group-level F2-F4 only,True,True
+G0053,JB_341,JB341,macrophage_monocyte,343,NASH,MASH,metabolic,group-level F2-F4 only,True,True
+G0054,JB_341,JB341,mesenchymal_hsc_myofibroblast,1462,NASH,MASH,metabolic,group-level F2-F4 only,True,True

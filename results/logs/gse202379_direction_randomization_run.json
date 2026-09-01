@@ -1,0 +1,10 @@
+{
+  "dataset_id": "GSE202379",
+  "seed": 20260830,
+  "randomizations_per_program": 1000,
+  "balanced_sign_assignment": true,
+  "effect_rows": 132,
+  "primary_effect_rows_above_randomized_95th": 1,
+  "detail_sha256": "1647F85B852AB54BD08B0647D5737AD41F13C8F290CF8DD4A832021BE55C37B0",
+  "benchmark_sha256": "59DF439D108BC7DD9C0DBF56167A2630BFFA3E3B5498A7FC55271F5D83C69720"
+}

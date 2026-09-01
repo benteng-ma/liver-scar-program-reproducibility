@@ -1,0 +1,11 @@
+{
+  "dataset_id": "GSE244832",
+  "seed": 20260830,
+  "random_modules_per_program": 1000,
+  "programs_benchmarked": 19,
+  "effect_rows_benchmarked": 38,
+  "effect_rows_above_random_95th": 13,
+  "membership_sha256": "E8D5693EB456AA17C9B05F18702F3E1EEBC6BB8A3058104D2272286F6108884C",
+  "random_effects_sha256": "AC747807E7FF198E55A8B5F4A3111D75BDD198F3AD1A4484FAB57B50754672F0",
+  "benchmark_sha256": "C4D4D0942AC432E1824971B66481E7A3F31400E44CA6D3FF2C6D039505374C72"
+}

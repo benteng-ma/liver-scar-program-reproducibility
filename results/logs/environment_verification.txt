@@ -1,0 +1,8 @@
+python 3.13.11
+numpy 2.5.1
+pandas 2.3.3
+scipy 1.16.3
+h5py 3.15.1
+openpyxl 3.1.5
+phase0_disease_effects FALSE
+environment_scope PHASE0_METADATA_AND_SMOKE_ONLY

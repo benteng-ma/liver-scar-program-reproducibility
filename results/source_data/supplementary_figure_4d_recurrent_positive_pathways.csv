@@ -1,0 +1,16 @@
+lineage,pathway_name,direction,significant_contexts,contexts,median_nes,minimum_absolute_nes
+endothelial,Infection with Enterobacteria,positive,2,GSE256398_human::alcohol_cirrhosis_vs_healthy;GSE256398_human::mash_cirrhosis_vs_healthy,2.1026826680611475,2.0095919362429004
+macrophage_monocyte,FCERI mediated Ca+2 mobilization,positive,2,GSE256398_human::alcohol_cirrhosis_vs_healthy;GSE256398_human::mash_cirrhosis_vs_healthy,2.1105790567481524,2.0760440881354763
+endothelial,Non-integrin membrane-ECM interactions,positive,2,GSE256398_human::alcohol_cirrhosis_vs_healthy;GSE256398_human::mash_cirrhosis_vs_healthy,2.1127980875631995,2.078661347793147
+endothelial,MET activates PTK2 signaling,positive,2,GSE256398_human::alcohol_cirrhosis_vs_healthy;GSE256398_human::mash_cirrhosis_vs_healthy,2.2226419721949533,2.110721014881808
+endothelial,Biofilm formation,positive,2,GSE256398_human::alcohol_cirrhosis_vs_healthy;GSE256398_human::mash_cirrhosis_vs_healthy,2.296609919644608,2.128854054454822
+endothelial,Attachment of bacteria to epithelial cells,positive,2,GSE256398_human::alcohol_cirrhosis_vs_healthy;GSE256398_human::mash_cirrhosis_vs_healthy,2.296609919644608,2.128854054454822
+macrophage_monocyte,Translocation of ZAP-70 to Immunological synapse,positive,2,GSE256398_human::alcohol_cirrhosis_vs_healthy;GSE256398_human::mash_cirrhosis_vs_healthy,2.3110520626671924,2.160884618369168
+macrophage_monocyte,FCERI mediated MAPK activation,positive,2,GSE256398_human::alcohol_cirrhosis_vs_healthy;GSE256398_human::mash_cirrhosis_vs_healthy,2.1882347072338177,2.1677196924932574
+endothelial,ECM proteoglycans,positive,2,GSE256398_human::alcohol_cirrhosis_vs_healthy;GSE256398_human::mash_cirrhosis_vs_healthy,2.204140605289718,2.196435296066016
+macrophage_monocyte,Phosphorylation of CD3 and TCR zeta chains,positive,2,GSE256398_human::alcohol_cirrhosis_vs_healthy;GSE256398_human::mash_cirrhosis_vs_healthy,2.2317024304606337,2.197300780383645
+macrophage_monocyte,Role of phospholipids in phagocytosis,positive,2,GSE256398_human::alcohol_cirrhosis_vs_healthy;GSE256398_human::mash_cirrhosis_vs_healthy,2.2458610463318367,2.2016324140983667
+endothelial,Laminin interactions,positive,2,GSE256398_human::alcohol_cirrhosis_vs_healthy;GSE256398_human::mash_cirrhosis_vs_healthy,2.3763763066465806,2.218845389838678
+macrophage_monocyte,Generation of second messenger molecules,positive,2,GSE256398_human::alcohol_cirrhosis_vs_healthy;GSE256398_human::mash_cirrhosis_vs_healthy,2.341636156086627,2.228361978035803
+macrophage_monocyte,Role of LAT2/NTAL/LAB on calcium mobilization,positive,2,GSE256398_human::alcohol_cirrhosis_vs_healthy;GSE256398_human::mash_cirrhosis_vs_healthy,2.324627302958053,2.2488374897603767
+endothelial,Extracellular matrix organization,positive,2,GSE256398_human::alcohol_cirrhosis_vs_healthy;GSE256398_human::mash_cirrhosis_vs_healthy,2.2839601854260527,2.278376973113477

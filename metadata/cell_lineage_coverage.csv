@@ -1,0 +1,22 @@
+﻿dataset_id,cell_lineage,lineage_available,approximate_healthy_donors,approximate_disease_donors,minimum_30_cells_verified,evidence_basis,phase0_role
+GSE136103,macrophage_monocyte,yes,5,5,yes,author counts/annotations,feasibility only
+GSE136103,endothelial,yes,4,3,yes,author Fig.4,feasibility only
+GSE136103,mesenchymal_hsc_myofibroblast,yes,4,3,yes,author Fig.5,feasibility only
+GSE181483_human,macrophage_monocyte,yes,2,2,pending matrix-level audit,NPC atlas; donor-state counts pending,feasibility only
+GSE181483_human,endothelial,yes,2,2,pending matrix-level audit,NPC atlas; donor-state counts pending,feasibility only
+GSE181483_human,mesenchymal_hsc_myofibroblast,yes,2,2,pending matrix-level audit,NPC atlas; donor-state counts pending,feasibility only
+GSE202379,macrophage_monocyte,yes,4,9,pending matrix-level audit,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending,feasibility only
+GSE202379,endothelial,yes,4,9,pending matrix-level audit,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending,feasibility only
+GSE202379,mesenchymal_hsc_myofibroblast,yes,4,9,pending matrix-level audit,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending,feasibility only
+GSE210077_Watson6,macrophage_monocyte,yes,3,3,pending matrix-level audit,matched snRNA/MERFISH; lineage labels in object,feasibility only
+GSE210077_Watson6,endothelial,yes,3,3,pending matrix-level audit,matched snRNA/MERFISH; lineage labels in object,feasibility only
+GSE210077_Watson6,mesenchymal_hsc_myofibroblast,yes,3,3,pending matrix-level audit,matched snRNA/MERFISH; lineage labels in object,feasibility only
+GSE244832,macrophage_monocyte,yes,5,13,pending matrix-level audit,publication-level normal/disease totals; donor-state counts pending,feasibility only
+GSE244832,endothelial,yes,5,13,pending matrix-level audit,publication-level normal/disease totals; donor-state counts pending,feasibility only
+GSE244832,mesenchymal_hsc_myofibroblast,yes,5,13,pending matrix-level audit,publication-level normal/disease totals; donor-state counts pending,feasibility only
+GSE290642_human,macrophage_monocyte,yes,3,21,pending matrix-level audit,NPC scRNA; three F4; per-state ≥30 audit pending,feasibility only
+GSE290642_human,endothelial,yes,3,21,pending matrix-level audit,NPC scRNA; three F4; per-state ≥30 audit pending,feasibility only
+GSE290642_human,mesenchymal_hsc_myofibroblast,yes,3,21,pending matrix-level audit,NPC scRNA; three F4; per-state ≥30 audit pending,feasibility only
+PRJNA833766_new4,macrophage_monocyte,yes,2,2,pending matrix-level audit,CD45+ only,feasibility only
+PRJNA833766_new4,endothelial,no,0,0,pending matrix-level audit,not biologically covered,feasibility only
+PRJNA833766_new4,mesenchymal_hsc_myofibroblast,no,0,0,pending matrix-level audit,not biologically covered,feasibility only

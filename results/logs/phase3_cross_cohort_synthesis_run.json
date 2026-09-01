@@ -1,0 +1,11 @@
+{
+  "effect_rows": 464,
+  "datasets": 6,
+  "selected_pair_rows": 24,
+  "mash_cirrhosis_meta_rows": 24,
+  "post_lock_fixed_dual_score_support_programs": 2,
+  "post_lock_random_dual_score_support_programs": 0,
+  "formal_replication_eligible_programs": 0,
+  "matrix_sha256": "D73D0C0E4BC2B608EC033A12F68C36A9F92543B6AB7CF44C3EDDD822F5C62333",
+  "interpretation": "post-lock sensitivity synthesis; frozen Phase 2 labels unchanged"
+}

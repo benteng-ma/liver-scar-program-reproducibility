@@ -1,0 +1,14 @@
+{
+  "dataset_id": "GSE290642_human",
+  "normalization": "log2(CPM + 1) within donor-lineage pseudobulk",
+  "score_methods": [
+    "direction-aware singscore",
+    "standardized signed mean"
+  ],
+  "standardization_reference": "all lineage donors passing 20-cell gate; outcome-blind",
+  "annotation_role": "reconstructed broad-lineage sensitivity only",
+  "feature_space": "21725 genes measured in all 24 donors",
+  "effect_rows": 28,
+  "effect_file_sha256": "FE33377294C9D0BF636D4AFCA99D2686C9F505F1F83286436CBEE53A3621ABF6",
+  "score_file_sha256": "5CB3112D5833FD2A5F3E5CCB67EDE4D0F3E203BE3B79050B7F01C1D3469894FF"
+}

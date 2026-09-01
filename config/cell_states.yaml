@@ -1,0 +1,9 @@
+primary_lineages:
+  - macrophage_monocyte
+  - endothelial
+  - mesenchymal_hsc_myofibroblast
+primary_label_source: author_annotation
+reference_mapping: sensitivity_only
+forbid_program_based_relabeling: true
+forbid_replication_driven_reclustering: true
+

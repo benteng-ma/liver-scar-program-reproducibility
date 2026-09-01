@@ -1,0 +1,15 @@
+{
+  "frozen_plan": "reports/exploratory_value_rescue_plan.md",
+  "stage_trend_rows": 72,
+  "non_end_stage_dual_score_fdr_programs": [],
+  "including_end_stage_dual_score_fdr_programs": [],
+  "within_cohort_concordance_rows": 12,
+  "within_cohort_median_spearman": 0.9285714285714286,
+  "cross_cohort_concordance_rows": 38,
+  "cross_cohort_median_spearman": 0.4464285714285714,
+  "cross_cohort_median_spearman_without_watson": 0.475,
+  "evidence_matrix_programs": 19,
+  "random_specific_both_scores_programs": 10,
+  "positive_primary_interval_both_scores_programs": 0,
+  "interpretation_boundary": "exploratory only; no frozen higher-order classification changed"
+}

@@ -1,0 +1,13 @@
+group_id,donor_id,sample_id,harmonized_lineage,n_cells,disease_group,etiology,fibrosis_stage,age,sex,eligible_30,eligible_20
+G0001,human_ctrl1,GSM5741404,endothelial,326,healthy,unreported,none,not reported,not reported,True,True
+G0002,human_ctrl1,GSM5741404,macrophage_monocyte,760,healthy,unreported,none,not reported,not reported,True,True
+G0003,human_ctrl1,GSM5741404,mesenchymal_hsc_myofibroblast,132,healthy,unreported,none,not reported,not reported,True,True
+G0004,human_ctrl2,GSM5741405,endothelial,63,healthy,unreported,none,not reported,not reported,True,True
+G0005,human_ctrl2,GSM5741405,macrophage_monocyte,208,healthy,unreported,none,not reported,not reported,True,True
+G0006,human_ctrl2,GSM5741405,mesenchymal_hsc_myofibroblast,25,healthy,unreported,none,not reported,not reported,False,True
+G0007,human_cir1,GSM5741406,endothelial,127,cirrhosis,unreported,cirrhosis,not reported,not reported,True,True
+G0008,human_cir1,GSM5741406,macrophage_monocyte,508,cirrhosis,unreported,cirrhosis,not reported,not reported,True,True
+G0009,human_cir1,GSM5741406,mesenchymal_hsc_myofibroblast,75,cirrhosis,unreported,cirrhosis,not reported,not reported,True,True
+G0010,human_cir2,GSM5741407,endothelial,180,cirrhosis,unreported,cirrhosis,not reported,not reported,True,True
+G0011,human_cir2,GSM5741407,macrophage_monocyte,204,cirrhosis,unreported,cirrhosis,not reported,not reported,True,True
+G0012,human_cir2,GSM5741407,mesenchymal_hsc_myofibroblast,155,cirrhosis,unreported,cirrhosis,not reported,not reported,True,True

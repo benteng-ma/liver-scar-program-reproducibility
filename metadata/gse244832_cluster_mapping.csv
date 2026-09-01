@@ -1,0 +1,19 @@
+dataset_id,seurat_cluster,author_level_label,harmonized_lineage,target_included,mapping_status,marker_evidence,published_proportion_check,notes
+GSE244832,0,hepatocyte,excluded_hepatocyte,no,frozen_reconstructed,HNF4A and ALB high,not applicable,Excluded from frozen target lineages.
+GSE244832,1,hepatocyte,excluded_hepatocyte,no,frozen_reconstructed,HNF4A and ALB high,not applicable,Excluded from frozen target lineages.
+GSE244832,2,endothelial,endothelial,yes,frozen_reconstructed,PECAM1 VWF and EMCN enriched,consistent within pooled endothelial compartment,Author main text defines PECAM1-positive endothelial cells.
+GSE244832,3,hepatic_stellate_cell,mesenchymal_hsc_myofibroblast,yes,frozen_reconstructed,NGFR COL1A1 COL1A2 DCN PDGFRB and ACTA2 enriched,clusters 3+16 are 4.0% NORMAL 4.8% MASL and 13.5% MASH,Author main text defines NGFR-positive HSCs and reports disease-group proportions.
+GSE244832,4,hepatocyte,excluded_hepatocyte,no,frozen_reconstructed,HNF4A and ALB high,not applicable,Excluded from frozen target lineages.
+GSE244832,5,myeloid,macrophage_monocyte,yes,frozen_reconstructed,CD163 LST1 TYROBP FCER1G and C1QA enriched,not applicable,Author main text defines CD163-positive myeloid cells.
+GSE244832,6,hepatocyte,excluded_hepatocyte,no,frozen_reconstructed,HNF4A and ALB high,not applicable,Excluded from frozen target lineages.
+GSE244832,7,hepatocyte,excluded_hepatocyte,no,frozen_reconstructed,HNF4A and ALB high,not applicable,Excluded from frozen target lineages.
+GSE244832,8,endothelial,endothelial,yes,frozen_reconstructed,PECAM1 VWF and EMCN strongly enriched,consistent within pooled endothelial compartment,Author main text defines PECAM1-positive endothelial cells.
+GSE244832,9,cholangiocyte,excluded_cholangiocyte,no,frozen_reconstructed,KRT19 KRT7 and EPCAM enriched,not applicable,Excluded from frozen target lineages.
+GSE244832,10,T_cell,excluded_lymphocyte,no,frozen_reconstructed,CD69 CD3D CD3E and TRBC1 enriched,not applicable,Excluded from frozen target lineages.
+GSE244832,11,mesothelial,excluded_mesothelial,no,frozen_reconstructed,MYH11 RGS5 PDGFRB ACTA2 and COL1A2 strongly enriched,exclusion preserves the published HSC proportion match,Author main text distinguishes MYH11-positive mesothelial cells from NGFR-positive HSCs.
+GSE244832,12,hepatocyte,excluded_hepatocyte,no,frozen_reconstructed,HNF4A and ALB high,not applicable,Excluded from frozen target lineages.
+GSE244832,13,endothelial,endothelial,yes,frozen_reconstructed,PECAM1 VWF and EMCN strongly enriched,consistent within pooled endothelial compartment,Author main text defines PECAM1-positive endothelial cells.
+GSE244832,14,B_cell,excluded_lymphocyte,no,frozen_reconstructed,CD19 MS4A1 CD79A and CD74 enriched,not applicable,Excluded from frozen target lineages.
+GSE244832,15,endothelial,endothelial,yes,frozen_reconstructed,PECAM1 VWF EMCN KDR and ENG enriched,consistent within pooled endothelial compartment,Low-frequency endothelial cluster retained only after broad-lineage aggregation.
+GSE244832,16,hepatic_stellate_cell,mesenchymal_hsc_myofibroblast,yes,frozen_reconstructed,NGFR COL1A2 DCN PDGFRB and ACTA2 enriched,clusters 3+16 are 4.0% NORMAL 4.8% MASL and 13.5% MASH,Small NGFR-positive HSC cluster pooled with cluster 3 before donor-level inference.
+GSE244832,17,endothelial,endothelial,yes,frozen_reconstructed,PECAM1 VWF and EMCN enriched,consistent within pooled endothelial compartment,Low-frequency endothelial cluster retained only after broad-lineage aggregation.

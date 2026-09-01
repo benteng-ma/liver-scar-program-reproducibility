@@ -1,0 +1,6 @@
+dataset,donors,assay,annotation,evidence
+GSE202379,47,snRNA,Author,Primary
+GSE290642,24,scRNA,Reconstructed,Sensitivity
+GSE244832,18,snRNA,Mapped clusters,Sensitivity
+Watson6,6,snRNA,Author,Sensitivity
+GSE181483,4,scRNA,Reconstructed,Directional

@@ -1,0 +1,16 @@
+{
+  "source": "data/external/phase5_spatial/HEP4-6-2538-s001.xlsx",
+  "source_sha256": "6FF7250471607F74DB643057A09DB500046B1FDD9DDF2D4CE3D263361FA5D19C",
+  "matrix_level": "author_processed_donor_by_region_average",
+  "independent_donors": 8,
+  "regions": [
+    "parenchyma",
+    "scar"
+  ],
+  "random_iterations": 10000,
+  "strict_frozen_status": "SPATIAL_RESOURCE_PARTIALLY_EVALUABLE",
+  "primary_descriptive_dual_score_pass": {
+    "Endo2_primary": true,
+    "SAEndo1_primary": false
+  }
+}

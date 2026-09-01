@@ -1,0 +1,8 @@
+{
+  "dataset_id": "GSE202379",
+  "effect_rows": 132,
+  "leave_one_gene_out_rows": 12158,
+  "primary_effect_rows_all_loo_expected_direction": 20,
+  "detail_sha256": "565593DAEA6BE78843F55F22C6EBCC335F24F37383FB0295B72295D1ED9FE52E",
+  "summary_sha256": "222B78687846BDFFF0CC1DC8F619B6B5A8628D3DA92878E00F39782AC041B925"
+}

@@ -1,0 +1,10 @@
+dataset_id,assay,human_donors,disease_or_etiology,lineage_scope,processed_data,proposed_role,phase0_status,limitation
+GSE202379,snRNA-seq,47,MASLD spectrum including 4 NASH-cirrhosis and 5 end-stage,whole liver,yes,primary independent snRNA candidate,retain,59 regions are 47 donors and repeated lobes must be collapsed
+GSE244832,snRNA-seq plus snATAC-seq,18,normal/MASL/MASH/MetALD,whole liver with HSC focus,yes,metabolic and MetALD validation candidate,retain pending processed metadata,condition absent from GEO sample pages
+GSE290642,scRNA-seq,24,F0-F4 fibrosis,non-parenchymal cells,yes,fibrosis-spectrum scRNA sensitivity,retain,only 3 F4 and etiology unresolved
+GSE185477,paired scRNA/snRNA plus Visium,5,healthy only,whole liver/NPC,yes,assay baseline,secondary,no disease contrast and spatial donor is separate
+PRJNA833766,scRNA-seq,4 newly generated,HBV cirrhosis,CD45-positive immune cells,raw only,macrophage directional support,secondary/raw blocker,published total additionally reuses HRA cohorts
+ALC_HBV_2023_publication,scRNA-seq,8,3 healthy/2 alcohol cirrhosis/3 HBV cirrhosis,NPC including macrophage/endothelial/HSC,not recovered,cross-etiology candidate,access pending,no expression accession/object recovered
+PoPH_Mendeley_y2s67z8tw9,snRNA-seq,small cohort,cirrhosis with/without portopulmonary hypertension,whole liver,Mendeley object,secondary cirrhosis snRNA,access pending,no clean independent healthy-vs-cirrhosis contrast confirmed
+GSE168933,scRNA-seq,mixed,healthy/fibrotic liver and experimental co-cultures,mixed human and in-vitro,yes,not primary,exclude from core,experimental mixtures and unclear donor-level disease contrast
+

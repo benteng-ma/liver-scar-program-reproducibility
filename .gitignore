@@ -1,0 +1,31 @@
+# Raw or controlled inputs
+data/
+*.h5ad
+*.h5
+*.hdf5
+*.rds
+*.RData
+*.mtx
+*.mtx.gz
+# Local environments and caches
+.venv/
+.venv_phase2/
+.conda_env/
+.tools/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+# Cloud-sync and temporary sidecars
+*.baiduyun.*
+*.tmp
+# Manuscript, submission, and local QA artifacts
+submission/
+validation/
+*.docx
+*.zip
+~$*
+# Secrets and machine-local configuration
+.env
+.env.*
+*.pem
+*.key

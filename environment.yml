@@ -1,0 +1,12 @@
+name: cirrhosis-scar-transportability
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - r-base=4.5
+  - r-renv
+  - r-yaml
+  - r-jsonlite
+  - r-testthat
+  - python=3.12
+  - pip

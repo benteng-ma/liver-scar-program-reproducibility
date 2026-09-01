@@ -1,0 +1,23 @@
+{
+  "project_id": "cirrhosis-scar-program-transportability",
+  "decision_date": "2026-08-30",
+  "decision": "CONDITIONAL_GO_NO_SPATIAL",
+  "primary_lineages": [
+    "macrophage_monocyte",
+    "endothelial",
+    "mesenchymal_hsc_myofibroblast"
+  ],
+  "n_verified_programs": 19,
+  "n_program_gene_rows": 2893,
+  "scrna_programs_with_primary_feature_coverage": 19,
+  "snrna_programs_with_primary_feature_coverage": 19,
+  "spatial_programs_meeting_frozen_coverage": 0,
+  "spatial_main_analysis": false,
+  "formal_disease_effects_run": false,
+  "conditions_before_phase2": [
+    "verify an executable isolated R environment or explicitly approve a method-equivalent isolated Python implementation",
+    "ingest processed cell annotations and enforce donor-by-state >=30 cells",
+    "recover GSE244832 donor condition mapping without guessing",
+    "commit the frozen analysis plan and program checksum"
+  ]
+}

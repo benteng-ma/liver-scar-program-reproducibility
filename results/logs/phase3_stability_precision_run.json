@@ -1,0 +1,13 @@
+{
+  "overlap_rows": 70,
+  "effective_test_rows": 36,
+  "bootstrap_program_rows": 264,
+  "bootstrap_pairwise_rows": 702,
+  "bootstrap_resamples": 10000,
+  "weight_sensitivity_programs": 19,
+  "dirichlet_weight_draws": 100000,
+  "threshold_grid_cells": 18,
+  "precision_rows": 426,
+  "planning_rows": 144,
+  "interpretation": "post-lock robustness and planning analyses; frozen Phase 2 labels unchanged"
+}

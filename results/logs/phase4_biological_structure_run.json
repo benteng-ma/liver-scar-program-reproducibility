@@ -1,0 +1,60 @@
+{
+  "analysis_freeze": "reports/phase4_biological_structure_plan_2026-08-31.md",
+  "composition": {
+    "composition_stable": 41,
+    "context_program_rows": 76,
+    "model_rows": 152,
+    "stable_positive_intervals": 5
+  },
+  "cross_lineage_coupling": {
+    "correlation_rows": 960,
+    "meta_rows": 240,
+    "stable_pairs": 16
+  },
+  "etiology_geometry": {
+    "etiology_divergent": 1,
+    "method_rows": 38,
+    "shared_directional": 8,
+    "shared_random_specific": 2
+  },
+  "member_gene_coherence": {
+    "program_summaries": [
+      {
+        "above_random_95th": true,
+        "coherent_positive_fraction": 0.425,
+        "coherent_positive_genes": 17,
+        "eligible_shared_genes": 40,
+        "empirical_p_coherent_count": 9.999000099990002e-05,
+        "meta_supported_genes": 7,
+        "program_id": "RAM2019_ENDO_2",
+        "published_program_genes": 45,
+        "random_coherent_95th": 8.0,
+        "random_coherent_99th": 10.0,
+        "random_coherent_median": 4.0
+      },
+      {
+        "above_random_95th": true,
+        "coherent_positive_fraction": 0.5454545454545454,
+        "coherent_positive_genes": 6,
+        "eligible_shared_genes": 11,
+        "empirical_p_coherent_count": 0.0012998700129987,
+        "meta_supported_genes": 5,
+        "program_id": "RAM2019_ENDO_6_SAENDO1",
+        "published_program_genes": 12,
+        "random_coherent_95th": 3.0,
+        "random_coherent_99th": 4.0,
+        "random_coherent_median": 1.0
+      }
+    ],
+    "shared_gene_universe": 17716
+  },
+  "permutations": 10000,
+  "random_modules": 10000,
+  "seed": 20260831,
+  "topology": {
+    "descriptor_fdr_hits": 0,
+    "descriptor_rows": 24,
+    "topology_pairs": 438,
+    "variance_rows": 6
+  }
+}

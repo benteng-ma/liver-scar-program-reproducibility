@@ -1,0 +1,5 @@
+gene_set_id,spatial_study,requested_genes,measured_genes,coverage_fraction,observed_total_top100_hits,observed_samples_with_hit,observed_rank_weight,random_total_hits_95th,random_positive_samples_95th,random_rank_weight_95th,total_hits_percentile,positive_samples_percentile,rank_weight_percentile,descriptive_recurrence_pass
+Endo2_primary,Hammond_2025_PMC12162837,7,7,1.0,3,2,1.42,2.0,2.0,0.97,0.9779,0.9633,0.9679,False
+SAEndo1_primary,Hammond_2025_PMC12162837,5,5,1.0,2,1,0.47,2.0,2.0,0.83,0.9698,0.9389,0.923,False
+Endo2_secondary,Hammond_2025_PMC12162837,17,17,1.0,19,7,12.53,4.0,4.0,2.37,1.0,1.0,1.0,True
+SAEndo1_secondary,Hammond_2025_PMC12162837,6,6,1.0,2,1,0.47,2.0,2.0,0.95,0.963,0.9296,0.9076,False

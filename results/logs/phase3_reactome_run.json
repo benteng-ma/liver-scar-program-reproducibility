@@ -1,0 +1,16 @@
+{
+  "reactome_snapshot": "official Reactome current download retrieved 2026-08-31; server files dated 2026-06",
+  "reactome_gmt_sha256": "89983D5C1F0AF11C52EDFEEE7323EB425580AC6281D387A528562AB1787CE56B",
+  "gene_effect_rows": 302163,
+  "enrichment_rows": 18688,
+  "context_lineage_analyses": 14,
+  "pairwise_transfer_rows": 26,
+  "recurrent_fdr_pathways_two_or_more_contexts": 242,
+  "permutations": 1000,
+  "gene_detection_minimum": 0.2,
+  "pathway_size_range": [
+    15,
+    500
+  ],
+  "interpretation": "post-lock pathway convergence cannot relabel a failed published program"
+}

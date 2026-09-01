@@ -1,0 +1,41 @@
+dataset_id,cluster,provisional_label,harmonized_lineage,target_included,mapping_status,marker_evidence,notes
+GSE256398_human,0,epithelial,excluded_epithelial,no,frozen_reconstructed,"automatic rule passed; epithelial markers",Excluded from frozen target lineages.
+GSE256398_human,1,mesenchymal_hsc_myofibroblast,mesenchymal_hsc_myofibroblast,yes,frozen_reconstructed,"12 anchors; margin 2.19",Passed the frozen automatic rule.
+GSE256398_human,2,ambiguous,excluded_ambiguous,no,frozen_reconstructed,"endothelial winner; 3 anchors; margin 0.32",Excluded because the frozen 0.5 margin failed.
+GSE256398_human,3,endothelial,endothelial,yes,frozen_reconstructed,"9 anchors; margin 1.55",Passed the frozen automatic rule.
+GSE256398_human,4,b_plasma,excluded_lymphocyte,no,frozen_reconstructed,"automatic rule passed; B/plasma markers",Excluded from frozen target lineages.
+GSE256398_human,5,endothelial,endothelial,yes,frozen_reconstructed,"5 anchors; margin 0.68",Passed the frozen automatic rule.
+GSE256398_human,6,epithelial,excluded_epithelial,no,frozen_reconstructed,"automatic rule passed; epithelial markers",Excluded from frozen target lineages.
+GSE256398_human,7,macrophage_monocyte,macrophage_monocyte,yes,frozen_reconstructed,"15 anchors; margin 3.00",Passed the frozen automatic rule.
+GSE256398_human,8,b_plasma,excluded_lymphocyte,no,frozen_reconstructed,"automatic rule passed; B/plasma markers",Excluded from frozen target lineages.
+GSE256398_human,9,ambiguous,excluded_ambiguous,no,frozen_reconstructed,"neutrophil winner; zero anchors; margin 0.00",Excluded because both frozen identity requirements failed.
+GSE256398_human,10,mesenchymal_hsc_myofibroblast,mesenchymal_hsc_myofibroblast,yes,frozen_reconstructed,"12 anchors; margin 1.61",Passed the frozen automatic rule.
+GSE256398_human,11,ambiguous,excluded_ambiguous,no,frozen_reconstructed,"epithelial winner; 1 anchor; margin 0.21",Excluded because both frozen identity requirements failed.
+GSE256398_human,12,ambiguous,excluded_ambiguous,no,frozen_reconstructed,"T/NK winner; 1 anchor; margin 0.55",Excluded because the frozen two-anchor rule failed.
+GSE256398_human,13,epithelial,excluded_epithelial,no,frozen_reconstructed,"automatic rule passed; epithelial markers",Excluded from frozen target lineages.
+GSE256398_human,14,ambiguous,excluded_ambiguous,no,frozen_reconstructed,"epithelial winner; 2 anchors; margin 0.31",Excluded because the frozen 0.5 margin failed.
+GSE256398_human,15,endothelial,endothelial,yes,frozen_reconstructed,"8 anchors; margin 1.91",Passed the frozen automatic rule.
+GSE256398_human,16,t_nk,excluded_lymphocyte,no,frozen_reconstructed,"automatic rule passed; T/NK markers",Excluded from frozen target lineages.
+GSE256398_human,17,ambiguous,excluded_ambiguous,no,frozen_reconstructed,"epithelial winner; 2 anchors; margin 0.03",Excluded because the frozen 0.5 margin failed.
+GSE256398_human,18,ambiguous,excluded_ambiguous,no,frozen_reconstructed,"mesenchymal winner; 2 anchors; margin 0.29",Excluded because the frozen 0.5 margin failed.
+GSE256398_human,19,epithelial,excluded_epithelial,no,frozen_reconstructed,"automatic rule passed; epithelial markers",Excluded from frozen target lineages.
+GSE256398_human,20,neutrophil,excluded_neutrophil,no,frozen_reconstructed,"automatic rule passed; neutrophil markers",Excluded from frozen target lineages.
+GSE256398_human,21,epithelial,excluded_epithelial,no,frozen_reconstructed,"automatic rule passed; epithelial markers",Excluded from frozen target lineages.
+GSE256398_human,22,mesenchymal_hsc_myofibroblast,mesenchymal_hsc_myofibroblast,yes,frozen_reconstructed,"11 anchors; margin 1.02",Passed the frozen automatic rule.
+GSE256398_human,23,t_nk,excluded_lymphocyte,no,frozen_reconstructed,"automatic rule passed; T/NK markers",Excluded from frozen target lineages.
+GSE256398_human,24,macrophage_monocyte,macrophage_monocyte,yes,frozen_reconstructed,"12 anchors; margin 0.84",Passed the frozen automatic rule.
+GSE256398_human,25,ambiguous,excluded_ambiguous,no,frozen_reconstructed,"epithelial winner; 2 anchors; margin 0.38",Excluded because the frozen 0.5 margin failed.
+GSE256398_human,26,ambiguous,excluded_ambiguous,no,frozen_reconstructed,"epithelial winner; 1 anchor; margin 0.01",Excluded because both frozen identity requirements failed.
+GSE256398_human,27,ambiguous,excluded_ambiguous,no,frozen_reconstructed,"endothelial winner; 1 anchor; margin 0.08",Excluded because both frozen identity requirements failed.
+GSE256398_human,28,ambiguous,excluded_ambiguous,no,frozen_reconstructed,"neutrophil winner; 3 anchors; margin 0.22",Excluded because the frozen 0.5 margin failed.
+GSE256398_human,29,ambiguous,excluded_ambiguous,no,frozen_reconstructed,"dendritic winner; 1 anchor; margin 0.34",Excluded because both frozen identity requirements failed.
+GSE256398_human,30,dendritic,excluded_dendritic,no,frozen_reconstructed,"automatic rule passed; dendritic markers",Excluded from frozen target lineages.
+GSE256398_human,31,epithelial,excluded_epithelial,no,frozen_reconstructed,"automatic rule passed; epithelial markers",Excluded from frozen target lineages.
+GSE256398_human,32,endothelial,endothelial,yes,frozen_reconstructed,"11 anchors; margin 3.45",Passed the frozen automatic rule.
+GSE256398_human,33,ambiguous,excluded_ambiguous,no,frozen_reconstructed,"T/NK winner; 2 anchors; margin 0.46",Excluded because the frozen 0.5 margin failed.
+GSE256398_human,34,epithelial,excluded_epithelial,no,frozen_reconstructed,"automatic rule passed; epithelial markers",Excluded from frozen target lineages.
+GSE256398_human,35,mesenchymal_hsc_myofibroblast,mesenchymal_hsc_myofibroblast,yes,frozen_reconstructed,"12 anchors; margin 2.92",Passed the frozen automatic rule.
+GSE256398_human,36,macrophage_monocyte,macrophage_monocyte,yes,frozen_reconstructed,"13 anchors; margin 2.75",Passed the frozen automatic rule.
+GSE256398_human,37,mesenchymal_hsc_myofibroblast,mesenchymal_hsc_myofibroblast,yes,frozen_reconstructed,"11 anchors; margin 1.35",Passed the frozen automatic rule.
+GSE256398_human,38,endothelial,endothelial,yes,frozen_reconstructed,"7 anchors; margin 1.55",Passed the frozen automatic rule.
+GSE256398_human,39,ambiguous,excluded_ambiguous,no,frozen_reconstructed,"epithelial winner; 2 anchors; margin 0.09",Excluded because the frozen 0.5 margin failed.

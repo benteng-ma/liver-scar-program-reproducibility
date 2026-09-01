@@ -1,0 +1,7 @@
+dataset_id,contrast,lineage,comparison_group,donors_before_cell_gate,donors_30,donors_20,minimum_cells,median_cells,maximum_cells,formal_three_donor_gate,directional_30_cell_gate,directional_20_cell_gate,analysis_role
+GSE181483_human,cirrhosis_vs_healthy_directional,endothelial,control,2,2,2,63,194.5,326,FAIL,PASS,PASS,two_plus_two_directional_only
+GSE181483_human,cirrhosis_vs_healthy_directional,endothelial,case,2,2,2,127,153.5,180,FAIL,PASS,PASS,two_plus_two_directional_only
+GSE181483_human,cirrhosis_vs_healthy_directional,macrophage_monocyte,control,2,2,2,208,484.0,760,FAIL,PASS,PASS,two_plus_two_directional_only
+GSE181483_human,cirrhosis_vs_healthy_directional,macrophage_monocyte,case,2,2,2,204,356.0,508,FAIL,PASS,PASS,two_plus_two_directional_only
+GSE181483_human,cirrhosis_vs_healthy_directional,mesenchymal_hsc_myofibroblast,control,2,1,2,25,78.5,132,FAIL,FAIL,PASS,two_plus_two_directional_only
+GSE181483_human,cirrhosis_vs_healthy_directional,mesenchymal_hsc_myofibroblast,case,2,2,2,75,115.0,155,FAIL,FAIL,PASS,two_plus_two_directional_only

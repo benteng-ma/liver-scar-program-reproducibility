@@ -1,0 +1,7 @@
+dataset_id,contrast,lineage,comparison_group,donors_before_cell_gate,donors_30,donors_20,minimum_cells,median_cells,maximum_cells,formal_30_cell_gate,formal_20_cell_gate,analysis_role
+GSE244832,mash_f2f4_group_vs_normal_sensitivity,endothelial,control,5,5,5,592,1301.0,3059,PASS,PASS,sensitivity_only_no_donor_stage
+GSE244832,mash_f2f4_group_vs_normal_sensitivity,endothelial,case,9,9,9,548,1637.0,2823,PASS,PASS,sensitivity_only_no_donor_stage
+GSE244832,mash_f2f4_group_vs_normal_sensitivity,macrophage_monocyte,control,5,4,5,24,250.0,486,PASS,PASS,sensitivity_only_no_donor_stage
+GSE244832,mash_f2f4_group_vs_normal_sensitivity,macrophage_monocyte,case,9,9,9,195,343.0,765,PASS,PASS,sensitivity_only_no_donor_stage
+GSE244832,mash_f2f4_group_vs_normal_sensitivity,mesenchymal_hsc_myofibroblast,control,5,5,5,150,318.0,394,PASS,PASS,sensitivity_only_no_donor_stage
+GSE244832,mash_f2f4_group_vs_normal_sensitivity,mesenchymal_hsc_myofibroblast,case,9,9,9,320,1118.0,1873,PASS,PASS,sensitivity_only_no_donor_stage

@@ -1,0 +1,85 @@
+control_id,control_class,lineage,gene_symbol,direction,provenance
+IDENTITY_MACROPHAGE,lineage_identity,macrophage_monocyte,LST1,UP,pre-existing outcome-blind identity panel
+IDENTITY_MACROPHAGE,lineage_identity,macrophage_monocyte,TYROBP,UP,pre-existing outcome-blind identity panel
+IDENTITY_MACROPHAGE,lineage_identity,macrophage_monocyte,FCER1G,UP,pre-existing outcome-blind identity panel
+IDENTITY_MACROPHAGE,lineage_identity,macrophage_monocyte,AIF1,UP,pre-existing outcome-blind identity panel
+IDENTITY_MACROPHAGE,lineage_identity,macrophage_monocyte,CTSS,UP,pre-existing outcome-blind identity panel
+IDENTITY_MACROPHAGE,lineage_identity,macrophage_monocyte,C1QA,UP,pre-existing outcome-blind identity panel
+IDENTITY_MACROPHAGE,lineage_identity,macrophage_monocyte,C1QB,UP,pre-existing outcome-blind identity panel
+IDENTITY_MACROPHAGE,lineage_identity,macrophage_monocyte,C1QC,UP,pre-existing outcome-blind identity panel
+IDENTITY_MACROPHAGE,lineage_identity,macrophage_monocyte,CD68,UP,pre-existing outcome-blind identity panel
+IDENTITY_MACROPHAGE,lineage_identity,macrophage_monocyte,CD163,UP,pre-existing outcome-blind identity panel
+IDENTITY_MACROPHAGE,lineage_identity,macrophage_monocyte,FCGR3A,UP,pre-existing outcome-blind identity panel
+IDENTITY_MACROPHAGE,lineage_identity,macrophage_monocyte,MARCO,UP,pre-existing outcome-blind identity panel
+IDENTITY_MACROPHAGE,lineage_identity,macrophage_monocyte,SPP1,UP,pre-existing outcome-blind identity panel
+IDENTITY_MACROPHAGE,lineage_identity,macrophage_monocyte,TREM2,UP,pre-existing outcome-blind identity panel
+IDENTITY_MACROPHAGE,lineage_identity,macrophage_monocyte,GPNMB,UP,pre-existing outcome-blind identity panel
+IDENTITY_ENDOTHELIAL,lineage_identity,endothelial,PECAM1,UP,pre-existing outcome-blind identity panel
+IDENTITY_ENDOTHELIAL,lineage_identity,endothelial,VWF,UP,pre-existing outcome-blind identity panel
+IDENTITY_ENDOTHELIAL,lineage_identity,endothelial,KDR,UP,pre-existing outcome-blind identity panel
+IDENTITY_ENDOTHELIAL,lineage_identity,endothelial,EMCN,UP,pre-existing outcome-blind identity panel
+IDENTITY_ENDOTHELIAL,lineage_identity,endothelial,ESAM,UP,pre-existing outcome-blind identity panel
+IDENTITY_ENDOTHELIAL,lineage_identity,endothelial,EGFL7,UP,pre-existing outcome-blind identity panel
+IDENTITY_ENDOTHELIAL,lineage_identity,endothelial,ENG,UP,pre-existing outcome-blind identity panel
+IDENTITY_ENDOTHELIAL,lineage_identity,endothelial,CDH5,UP,pre-existing outcome-blind identity panel
+IDENTITY_ENDOTHELIAL,lineage_identity,endothelial,RAMP2,UP,pre-existing outcome-blind identity panel
+IDENTITY_ENDOTHELIAL,lineage_identity,endothelial,PLVAP,UP,pre-existing outcome-blind identity panel
+IDENTITY_ENDOTHELIAL,lineage_identity,endothelial,KLF2,UP,pre-existing outcome-blind identity panel
+IDENTITY_ENDOTHELIAL,lineage_identity,endothelial,CA4,UP,pre-existing outcome-blind identity panel
+IDENTITY_ENDOTHELIAL,lineage_identity,endothelial,FCN3,UP,pre-existing outcome-blind identity panel
+IDENTITY_MESENCHYMAL,lineage_identity,mesenchymal_hsc_myofibroblast,COL1A1,UP,pre-existing outcome-blind identity panel
+IDENTITY_MESENCHYMAL,lineage_identity,mesenchymal_hsc_myofibroblast,COL1A2,UP,pre-existing outcome-blind identity panel
+IDENTITY_MESENCHYMAL,lineage_identity,mesenchymal_hsc_myofibroblast,COL3A1,UP,pre-existing outcome-blind identity panel
+IDENTITY_MESENCHYMAL,lineage_identity,mesenchymal_hsc_myofibroblast,DCN,UP,pre-existing outcome-blind identity panel
+IDENTITY_MESENCHYMAL,lineage_identity,mesenchymal_hsc_myofibroblast,LUM,UP,pre-existing outcome-blind identity panel
+IDENTITY_MESENCHYMAL,lineage_identity,mesenchymal_hsc_myofibroblast,COL6A1,UP,pre-existing outcome-blind identity panel
+IDENTITY_MESENCHYMAL,lineage_identity,mesenchymal_hsc_myofibroblast,COL6A2,UP,pre-existing outcome-blind identity panel
+IDENTITY_MESENCHYMAL,lineage_identity,mesenchymal_hsc_myofibroblast,COL6A3,UP,pre-existing outcome-blind identity panel
+IDENTITY_MESENCHYMAL,lineage_identity,mesenchymal_hsc_myofibroblast,PDGFRB,UP,pre-existing outcome-blind identity panel
+IDENTITY_MESENCHYMAL,lineage_identity,mesenchymal_hsc_myofibroblast,RGS5,UP,pre-existing outcome-blind identity panel
+IDENTITY_MESENCHYMAL,lineage_identity,mesenchymal_hsc_myofibroblast,CSPG4,UP,pre-existing outcome-blind identity panel
+IDENTITY_MESENCHYMAL,lineage_identity,mesenchymal_hsc_myofibroblast,ACTA2,UP,pre-existing outcome-blind identity panel
+IDENTITY_MESENCHYMAL,lineage_identity,mesenchymal_hsc_myofibroblast,DES,UP,pre-existing outcome-blind identity panel
+IDENTITY_MESENCHYMAL,lineage_identity,mesenchymal_hsc_myofibroblast,LRAT,UP,pre-existing outcome-blind identity panel
+IDENTITY_MESENCHYMAL,lineage_identity,mesenchymal_hsc_myofibroblast,RBP1,UP,pre-existing outcome-blind identity panel
+IDENTITY_MESENCHYMAL,lineage_identity,mesenchymal_hsc_myofibroblast,RELN,UP,pre-existing outcome-blind identity panel
+IDENTITY_MESENCHYMAL,lineage_identity,mesenchymal_hsc_myofibroblast,PDGFRA,UP,pre-existing outcome-blind identity panel
+CANONICAL_SCAR_MACROPHAGE,disease_response,macrophage_monocyte,TREM2,UP,canonical scar-associated macrophage control
+CANONICAL_SCAR_MACROPHAGE,disease_response,macrophage_monocyte,CD9,UP,canonical scar-associated macrophage control
+CANONICAL_SCAR_MACROPHAGE,disease_response,macrophage_monocyte,SPP1,UP,canonical scar-associated macrophage control
+CANONICAL_SCAR_MACROPHAGE,disease_response,macrophage_monocyte,GPNMB,UP,canonical scar-associated macrophage control
+CANONICAL_SCAR_MACROPHAGE,disease_response,macrophage_monocyte,LGALS3,UP,canonical scar-associated macrophage control
+CANONICAL_SCAR_MACROPHAGE,disease_response,macrophage_monocyte,CTSB,UP,canonical scar-associated macrophage control
+CANONICAL_SCAR_MACROPHAGE,disease_response,macrophage_monocyte,CTSD,UP,canonical scar-associated macrophage control
+CANONICAL_SCAR_MACROPHAGE,disease_response,macrophage_monocyte,APOE,UP,canonical scar-associated macrophage control
+CANONICAL_SCAR_MACROPHAGE,disease_response,macrophage_monocyte,FABP5,UP,canonical scar-associated macrophage control
+CANONICAL_SCAR_MACROPHAGE,disease_response,macrophage_monocyte,LPL,UP,canonical scar-associated macrophage control
+CANONICAL_LSEC_CAPILLARIZATION,disease_response,endothelial,PECAM1,UP,canonical capillarization control
+CANONICAL_LSEC_CAPILLARIZATION,disease_response,endothelial,VWF,UP,canonical capillarization control
+CANONICAL_LSEC_CAPILLARIZATION,disease_response,endothelial,PLVAP,UP,canonical capillarization control
+CANONICAL_LSEC_CAPILLARIZATION,disease_response,endothelial,CD34,UP,canonical capillarization control
+CANONICAL_LSEC_CAPILLARIZATION,disease_response,endothelial,ENG,UP,canonical capillarization control
+CANONICAL_LSEC_CAPILLARIZATION,disease_response,endothelial,EDN1,UP,canonical capillarization control
+CANONICAL_LSEC_CAPILLARIZATION,disease_response,endothelial,VCAM1,UP,canonical capillarization control
+CANONICAL_LSEC_CAPILLARIZATION,disease_response,endothelial,SELE,UP,canonical capillarization control
+CANONICAL_LSEC_CAPILLARIZATION,disease_response,endothelial,CLEC4G,DOWN,canonical capillarization control
+CANONICAL_LSEC_CAPILLARIZATION,disease_response,endothelial,CLEC4M,DOWN,canonical capillarization control
+CANONICAL_LSEC_CAPILLARIZATION,disease_response,endothelial,STAB2,DOWN,canonical capillarization control
+CANONICAL_LSEC_CAPILLARIZATION,disease_response,endothelial,LYVE1,DOWN,canonical capillarization control
+CANONICAL_LSEC_CAPILLARIZATION,disease_response,endothelial,FCN3,DOWN,canonical capillarization control
+CANONICAL_HSC_ACTIVATION,disease_response,mesenchymal_hsc_myofibroblast,COL1A1,UP,canonical HSC activation control
+CANONICAL_HSC_ACTIVATION,disease_response,mesenchymal_hsc_myofibroblast,COL1A2,UP,canonical HSC activation control
+CANONICAL_HSC_ACTIVATION,disease_response,mesenchymal_hsc_myofibroblast,COL3A1,UP,canonical HSC activation control
+CANONICAL_HSC_ACTIVATION,disease_response,mesenchymal_hsc_myofibroblast,ACTA2,UP,canonical HSC activation control
+CANONICAL_HSC_ACTIVATION,disease_response,mesenchymal_hsc_myofibroblast,TAGLN,UP,canonical HSC activation control
+CANONICAL_HSC_ACTIVATION,disease_response,mesenchymal_hsc_myofibroblast,SPARC,UP,canonical HSC activation control
+CANONICAL_HSC_ACTIVATION,disease_response,mesenchymal_hsc_myofibroblast,TIMP1,UP,canonical HSC activation control
+CANONICAL_HSC_ACTIVATION,disease_response,mesenchymal_hsc_myofibroblast,LOX,UP,canonical HSC activation control
+CANONICAL_HSC_ACTIVATION,disease_response,mesenchymal_hsc_myofibroblast,PDGFRB,UP,canonical HSC activation control
+CANONICAL_HSC_ACTIVATION,disease_response,mesenchymal_hsc_myofibroblast,THBS2,UP,canonical HSC activation control
+CANONICAL_HSC_ACTIVATION,disease_response,mesenchymal_hsc_myofibroblast,FN1,UP,canonical HSC activation control
+CANONICAL_HSC_ACTIVATION,disease_response,mesenchymal_hsc_myofibroblast,LRAT,DOWN,canonical HSC activation control
+CANONICAL_HSC_ACTIVATION,disease_response,mesenchymal_hsc_myofibroblast,RBP1,DOWN,canonical HSC activation control
+CANONICAL_HSC_ACTIVATION,disease_response,mesenchymal_hsc_myofibroblast,RELN,DOWN,canonical HSC activation control
+CANONICAL_HSC_ACTIVATION,disease_response,mesenchymal_hsc_myofibroblast,CYGB,DOWN,canonical HSC activation control
+CANONICAL_HSC_ACTIVATION,disease_response,mesenchymal_hsc_myofibroblast,PPARG,DOWN,canonical HSC activation control

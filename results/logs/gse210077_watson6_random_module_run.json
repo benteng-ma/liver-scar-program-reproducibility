@@ -1,0 +1,11 @@
+{
+  "dataset_id": "GSE210077_Watson6",
+  "seed": 20260830,
+  "random_modules_per_program": 1000,
+  "programs_benchmarked": 19,
+  "effect_rows_benchmarked": 38,
+  "effect_rows_above_random_95th": 0,
+  "membership_sha256": "BD725710E8FADD5198BA7A76153D554185DDA1A2F2190CA3E9D19A7051A3939E",
+  "random_effects_sha256": "C0208FFC604B075275DDC313C7C4D90A67A12F58F2FE4288AEB997C8ECDF6506",
+  "benchmark_sha256": "5F561234B5545821D1DCB37F6E2CB103B496B5A3ADBF1B1366DC2ED9DD0EBC1A"
+}

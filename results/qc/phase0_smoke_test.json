@@ -1,0 +1,89 @@
+{
+  "generated": "2026-08-30",
+  "prohibition": "No disease effect, clustering, integration or differential expression was performed.",
+  "runtime": {
+    "python": "3.13.11",
+    "pandas": "2.3.3",
+    "scipy": "1.16.3",
+    "numpy": "2.5.1"
+  },
+  "scRNA_GSE136103_GSM4041150": {
+    "matrix_shape_genes_by_cells": [
+      33694,
+      1863
+    ],
+    "nonzero_entries": 2047220,
+    "sparse_dtype": "int64",
+    "n_barcodes": 1863,
+    "n_features": 33694,
+    "matrix_sha256": "22fe490cf1e418cb939f4504f70196659695d2864ecb5021429f1b1dfd9da7d9",
+    "read_status": "PASS"
+  },
+  "snRNA_GSE210077_GSM6416560": {
+    "matrix_shape_genes_by_cells": [
+      36601,
+      445301
+    ],
+    "nonzero_entries": 1372280,
+    "sparse_dtype": "int64",
+    "n_barcodes": 445301,
+    "n_features": 36601,
+    "matrix_sha256": "277096ec12204cd01c6b8dc9483a8ab9175618cad60902e13e9a97e8a0b5ef9f",
+    "read_status": "PASS"
+  },
+  "spatial_GSE210077_HCA": {
+    "object": "complete publication spatial source-data table plus HCA cell-properties bounded 1 MiB coordinate range and complete MERFISH gene panel",
+    "complete_source_table_rows": 56055,
+    "complete_source_table_sha256": "e163e8c2536d2d175e8101e5f4a0418ff1714c7787f76aeebf184181b5c6f49a",
+    "rows_read": 4881,
+    "columns": [
+      "index",
+      "sample_id",
+      "condition",
+      "cell",
+      "density",
+      "area",
+      "x",
+      "y",
+      "batch",
+      "n_counts",
+      "log_counts",
+      "n_genes",
+      "Cell_Type_final",
+      "organism_ontology_term_id",
+      "donor_id",
+      "development_stage_ontology_term_id",
+      "sex_ontology_term_id",
+      "self_reported_ethnicity_ontology_term_id",
+      "disease_ontology_term_id",
+      "tissue_type",
+      "tissue_ontology_term_id",
+      "cell_type_ontology_term_id",
+      "assay_ontology_term_id",
+      "suspension_type"
+    ],
+    "coordinate_finite_fraction": 1.0,
+    "donors_in_bounded_range": [
+      "AM048"
+    ],
+    "cell_labels_in_bounded_range": [
+      "Central Hep",
+      "Cholangiocyte",
+      "Fibrotic Hep 1",
+      "Fibrotic Hep 2",
+      "HSC",
+      "LSEC",
+      "Mac",
+      "Portal Hep"
+    ],
+    "gene_panel_size": 317,
+    "range_file_sha256": "80797dab70db530400bfdfd0a162746d5f5a167bcce7491112d639e16ea70ce0",
+    "read_status": "PASS_COMPLETE_SOURCE_TABLE_PLUS_BOUNDED_COORDINATE_RANGE_NOT_FULL_H5AD"
+  },
+  "coverage_summary": {
+    "n_frozen_programs": 19,
+    "scRNA_primary_coverage_programs": 19,
+    "snRNA_primary_coverage_programs": 19,
+    "spatial_evaluable_programs": 0
+  }
+}

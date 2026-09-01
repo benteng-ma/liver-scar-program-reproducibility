@@ -1,0 +1,91 @@
+freeze_date: 2026-08-30
+scope_rule: formal effects are unlocked per cohort, contrast, lineage, cell gate, and program-coverage tier only
+
+GSE202379:
+  environment_verified: true
+  author_annotations_ingested: true
+  donor_state_counts_audited: true
+  phase1_freeze_commit_present: true
+  source_object_sha256: 227D5D12CF411359F4E590396EF314AD656E39854DAD1ACD4FD9C58C90BD4592
+  annotation_mapping:
+    Macrophages: macrophage_monocyte
+    Endothelial: endothelial
+    Stellate: mesenchymal_hsc_myofibroblast
+  primary_30_cell_unlocks:
+    clinical_cirrhosis_vs_healthy:
+      - endothelial
+    advanced_f3f4_vs_f0_non_end_stage:
+      - endothelial
+      - mesenchymal_hsc_myofibroblast
+  sensitivity_20_cell_unlocks:
+    clinical_cirrhosis_vs_healthy:
+      - endothelial
+      - mesenchymal_hsc_myofibroblast
+    advanced_f3f4_vs_f0_non_end_stage:
+      - endothelial
+      - mesenchymal_hsc_myofibroblast
+    end_stage_vs_healthy_separate_stratum:
+      - macrophage_monocyte
+      - endothelial
+      - mesenchymal_hsc_myofibroblast
+  locked:
+    - macrophage advanced-fibrosis and clinical-cirrhosis effects fail donor-count gates
+    - clinical mesenchymal primary effect fails the 30-cell gate and is sensitivity only
+    - end-stage donors may not be pooled into the clinical cirrhosis endpoint
+
+GSE244832:
+  environment_verified: true
+  author_condition_mapping_ingested: true
+  cluster_mapping_frozen: true
+  donor_state_counts_audited: true
+  formal_primary_endpoint_allowed: false
+  endpoint_limit: MASH versus NORMAL is sensitivity only because donor-level F3-F4 or cirrhosis status is unavailable
+  sensitivity_30_cell_unlocks:
+    mash_f2f4_group_vs_normal_sensitivity:
+      - macrophage_monocyte
+      - endothelial
+      - mesenchymal_hsc_myofibroblast
+
+GSE290642_human:
+  environment_verified: true
+  author_processed_annotations_available: false
+  reconstructed_cluster_mapping_frozen: true
+  donor_state_counts_audited: true
+  formal_primary_endpoint_allowed: false
+  feature_space: 21725 symbols measured in all 24 human donors
+  sensitivity_20_cell_unlocks:
+    f4_vs_f0_reconstructed_label_sensitivity:
+      - endothelial
+    all_fibrosis_vs_f0_reconstructed_label_sensitivity:
+      - endothelial
+  locked:
+    - macrophage and mesenchymal comparisons fail the F0 donor-state gate
+    - reconstructed labels cannot establish author-label replication
+
+GSE210077_Watson6:
+  environment_verified: true
+  author_annotations_ingested: true
+  donor_state_counts_audited: true
+  formal_primary_endpoint_allowed: false
+  feature_space: 25476 genes observed in all six donors
+  sensitivity_30_cell_unlocks:
+    mixed_f2f4_fibrosis_vs_healthy_sensitivity:
+      - macrophage_monocyte
+      - endothelial
+      - mesenchymal_hsc_myofibroblast
+  endpoint_limit: case donors are one each F2, F3 and F4; not a cirrhosis cohort
+
+GSE181483_human:
+  environment_verified: true
+  reconstructed_cluster_mapping_frozen: true
+  donor_state_counts_audited: true
+  formal_primary_endpoint_allowed: false
+  formal_three_donor_gate: false
+  directional_30_cell_unlocks:
+    cirrhosis_vs_healthy_directional:
+      - macrophage_monocyte
+      - endothelial
+  directional_20_cell_unlocks:
+    cirrhosis_vs_healthy_directional:
+      - mesenchymal_hsc_myofibroblast
+  endpoint_limit: two controls and two cirrhosis donors; no standalone p value or confidence interval

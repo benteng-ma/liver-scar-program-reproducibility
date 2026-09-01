@@ -1,0 +1,14 @@
+program_id,lineage,degree
+RAM2019_ENDO_7_SAENDO2,endothelial,5
+RAM2019_MAC_SIG_B_SAM,macrophage_monocyte,4
+RAM2019_MAC_SIG_E_TMO,macrophage_monocyte,4
+RAM2019_SAMES_B,mesenchymal_hsc_myofibroblast,4
+RAM2019_MES_MESOTHELIAL,mesenchymal_hsc_myofibroblast,3
+RAM2019_MES_SAMES,mesenchymal_hsc_myofibroblast,3
+RAM2019_ENDO_5,endothelial,2
+RAM2019_MES_VSMC,mesenchymal_hsc_myofibroblast,2
+RAM2019_ENDO_1,endothelial,1
+RAM2019_ENDO_6_SAENDO1,endothelial,1
+RAM2019_MAC_SIG_A_SAM,macrophage_monocyte,1
+RAM2019_MAC_SIG_F_CDC1,macrophage_monocyte,1
+RAM2019_SAMES_A,mesenchymal_hsc_myofibroblast,1

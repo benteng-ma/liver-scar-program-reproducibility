@@ -1,0 +1,23 @@
+{
+  "source_files": {
+    "44321_2025_230_MOESM5_ESM.xlsx": "4A94AD36071DD40B684B85809D72BA45FC827696A35BD014AD8FBA76E70AC1D9",
+    "44321_2025_230_MOESM9_ESM.xlsx": "0C93BA284F208AB73C36A9C805853206896E18DDADD6752AA080FEE3688ECA3C",
+    "44321_2025_230_MOESM10_ESM.xlsx": "EA47DEFBB8F01EE12E3F16F30B03F66D915D8CCF7E1B924CA35EAA9709EBB1AD"
+  },
+  "experimental_independent_donors": 3,
+  "validation_independent_donors": 4,
+  "scar_top100_samples": 7,
+  "spot_level_deconvolution_samples": 3,
+  "spot_region_label_evaluable_samples": 2,
+  "raw_fastq_size_gib": {
+    "E-MTAB-13132": 92.72457328997552,
+    "E-MTAB-14960": 25.156081312336028
+  },
+  "strict_frozen_status": "SPATIAL_RESOURCE_PARTIALLY_EVALUABLE",
+  "strict_reason": "Public supplements provide scar-cluster top genes and spot-level cell2location output, but not a spot-by-gene expression matrix with complete scar labels for all donors.",
+  "primary_descriptive_recurrence": {
+    "Endo2_primary": false,
+    "SAEndo1_primary": false
+  },
+  "spatially_replicated_post_lock": false
+}

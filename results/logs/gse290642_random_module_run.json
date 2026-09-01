@@ -1,0 +1,11 @@
+{
+  "dataset_id": "GSE290642_human",
+  "seed": 20260830,
+  "random_modules_per_program": 1000,
+  "programs_benchmarked": 7,
+  "effect_rows_benchmarked": 28,
+  "effect_rows_above_random_95th": 0,
+  "membership_sha256": "707CA3637FA6233B8EE7093410AA3C91F14A3F7E8422FA282F51360EC4372DBC",
+  "random_effects_sha256": "BA2C416216CD2A32417E6B6D87DA0A75BE0479CE67FE8DFCC95D17493DD64945",
+  "benchmark_sha256": "CF1EE5D5D0D127F80596E072DC314F546267C107D7F585154C9FC5057EB6DB48"
+}

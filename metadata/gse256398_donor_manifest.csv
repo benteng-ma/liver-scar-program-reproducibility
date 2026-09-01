@@ -1,0 +1,27 @@
+dataset_id,sample_id,donor_id,title,disease_group,etiology,fibrosis_stage,metabolic_order,age,sex,h5_file
+GSE256398_human,GSM8097071,S1,"S1, Human, Alcohol-associated Cirrhosis",alcohol_cirrhosis,alcohol,cirrhosis,,37,male,GSM8097071_S1_CB_raw_feature_bc_matrix_filtered.h5
+GSE256398_human,GSM8097072,S2,"S2, Human, Alcohol-associated Cirrhosis",alcohol_cirrhosis,alcohol,cirrhosis,,48,male,GSM8097072_S2_CB_raw_feature_bc_matrix_filtered.h5
+GSE256398_human,GSM8097073,S3,"S3, Human, Alcohol-associated Cirrhosis",alcohol_cirrhosis,alcohol,cirrhosis,,48,male,GSM8097073_S3_CB_raw_feature_bc_matrix_filtered.h5
+GSE256398_human,GSM8097074,S4,"S4, Human, Alcohol-associated Cirrhosis",alcohol_cirrhosis,alcohol,cirrhosis,,56,male,GSM8097074_S4_CB_raw_feature_bc_matrix_filtered.h5
+GSE256398_human,GSM8097075,S5,"S5, Human, Alcohol-associated Hepatitis",alcohol_hepatitis,alcohol,hepatitis,,45,male,GSM8097075_S5_CB_raw_feature_bc_matrix_filtered.h5
+GSE256398_human,GSM8097076,S6,"S6, Human, Alcohol-associated Hepatitis",alcohol_hepatitis,alcohol,hepatitis,,62,male,GSM8097076_S6_CB_raw_feature_bc_matrix_filtered.h5
+GSE256398_human,GSM8097077,S7,"S7, Human, Alcohol-associated Hepatitis",alcohol_hepatitis,alcohol,hepatitis,,45,male,GSM8097077_S7_CB_raw_feature_bc_matrix_filtered.h5
+GSE256398_human,GSM8097078,S8,"S8, Human, Alcohol-associated Hepatitis",alcohol_hepatitis,alcohol,hepatitis,,34,male,GSM8097078_S8_CB_raw_feature_bc_matrix_filtered.h5
+GSE256398_human,GSM8097079,S9,"S9, Human, Alcohol-associated Hepatitis",alcohol_hepatitis,alcohol,hepatitis,,42,male,GSM8097079_S9_CB_raw_feature_bc_matrix_filtered.h5
+GSE256398_human,GSM8097080,S12,"S12, Human, Healthy Control",healthy,none,F0,,31,female,GSM8097080_S12_CB_raw_feature_bc_matrix_filtered.h5
+GSE256398_human,GSM8097081,S13,"S13, Human, Healthy Control",healthy,none,F0,,49,female,GSM8097081_S13_CB_raw_feature_bc_matrix_filtered.h5
+GSE256398_human,GSM8097082,S14,"S14, Human, Healthy Control",healthy,none,F0,,29,male,GSM8097082_S14_CB_raw_feature_bc_matrix_filtered.h5
+GSE256398_human,GSM8097083,S15,"S15, Human, MASH Cirrhosis",mash_cirrhosis,metabolic,F4,2.0,61,female,GSM8097083_S15_CB_raw_feature_bc_matrix_filtered.h5
+GSE256398_human,GSM8097084,S16,"S16, Human, MASH Cirrhosis",mash_cirrhosis,metabolic,F4,2.0,71,female,GSM8097084_S16_CB_raw_feature_bc_matrix_filtered.h5
+GSE256398_human,GSM8097085,S17,"S17, Human, MASH Cirrhosis",mash_cirrhosis,metabolic,F4,2.0,70,male,GSM8097085_S17_CB_raw_feature_bc_matrix_filtered.h5
+GSE256398_human,GSM8097086,S18,"S18, Human, MASH Cirrhosis",mash_cirrhosis,metabolic,F4,2.0,65,male,GSM8097086_S18_CB_raw_feature_bc_matrix_filtered.h5
+GSE256398_human,GSM8097087,S19,"S19, Human, MASLD F0",masld_f0,metabolic,F0,0.0,20,female,GSM8097087_S19_CB_raw_feature_bc_matrix_filtered.h5
+GSE256398_human,GSM8097088,S20,"S20, Human, MASLD F0",masld_f0,metabolic,F0,0.0,41,female,GSM8097088_S20_CB_raw_feature_bc_matrix_filtered.h5
+GSE256398_human,GSM8097089,S21,"S21, Human, MASLD F0",masld_f0,metabolic,F0,0.0,26,female,GSM8097089_S21_CB_raw_feature_bc_matrix_filtered.h5
+GSE256398_human,GSM8097090,S23,"S23, Human, Healthy Control",healthy,none,F0,,80,female,GSM8097090_S23_CB_raw_feature_bc_matrix_filtered.h5
+GSE256398_human,GSM8097091,S27,"S27, Human, Healthy Control",healthy,none,F0,,23,male,GSM8097091_S27_CB_raw_feature_bc_matrix_filtered.h5
+GSE256398_human,GSM8097092,S28,"S28, Human, Healthy Control",healthy,none,F0,,35,male,GSM8097092_S28_CB_raw_feature_bc_matrix_filtered.h5
+GSE256398_human,GSM8097093,S33,"S33, Human, MASH Fibrosis F2-3",mash_fibrosis,metabolic,F2-3,1.0,58,female,GSM8097093_S33_CB_raw_feature_bc_matrix_filtered.h5
+GSE256398_human,GSM8097094,S35,"S35, Human, MASH Fibrosis F3",mash_fibrosis,metabolic,F3,1.0,52,female,GSM8097094_S35_CB_raw_feature_bc_matrix_filtered.h5
+GSE256398_human,GSM8097095,S36,"S36, Human, MASH Fibrosis F3",mash_fibrosis,metabolic,F3,1.0,34,female,GSM8097095_S36_CB_raw_feature_bc_matrix_filtered.h5
+GSE256398_human,GSM8097096,S38,"S38, Human, MASH Fibrosis F3",mash_fibrosis,metabolic,F3,1.0,35,male,GSM8097096_S38_CB_raw_feature_bc_matrix_filtered.h5

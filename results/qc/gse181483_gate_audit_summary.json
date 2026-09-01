@@ -1,0 +1,11 @@
+{
+  "dataset_id": "GSE181483_human",
+  "genes_shared_all_four_donors": 33660,
+  "pseudobulk_columns": 12,
+  "pseudobulk_nonzero": 160816,
+  "donors": 4,
+  "programs_primary_coverage": 19,
+  "programs_total": 19,
+  "formal_gate_status": "FAIL for every lineage because n=2 per group",
+  "endpoint_status": "cirrhosis versus healthy directional display only"
+}

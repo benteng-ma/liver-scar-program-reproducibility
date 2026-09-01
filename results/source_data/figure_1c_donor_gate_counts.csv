@@ -1,0 +1,11 @@
+dataset_id,assay,annotation,identity_evidence,score_method,n_pseudobulks,top_score_lineage_accuracy,macro_one_vs_rest_auc,passes_frozen_positive_control_threshold
+GSE202379,snRNA-seq,author,non-circular author labels,singscore,114,1.0,1.0,True
+GSE202379,snRNA-seq,author,non-circular author labels,standardized_mean,114,1.0,1.0,True
+GSE244832,snRNA-seq,reconstructed,partly circular cluster-mapping QC,singscore,54,0.9814814814814816,1.0,True
+GSE244832,snRNA-seq,reconstructed,partly circular cluster-mapping QC,standardized_mean,54,1.0,1.0,True
+GSE290642_human,scRNA-seq,reconstructed,circular reconstructed-label QC,singscore,62,0.9193548387096774,1.0,True
+GSE290642_human,scRNA-seq,reconstructed,circular reconstructed-label QC,standardized_mean,62,1.0,1.0,True
+GSE210077_Watson6,snRNA-seq,author,non-circular author labels,singscore,18,0.6666666666666666,0.6388888888888888,False
+GSE210077_Watson6,snRNA-seq,author,non-circular author labels,standardized_mean,18,0.6666666666666666,0.7129629629629629,False
+GSE181483_human,scRNA-seq,reconstructed,circular reconstructed-label QC,singscore,12,0.9166666666666666,1.0,True
+GSE181483_human,scRNA-seq,reconstructed,circular reconstructed-label QC,standardized_mean,12,1.0,1.0,True

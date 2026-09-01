@@ -1,0 +1,26 @@
+cluster,automatic_label,harmonized_lineage,target_included,decision_basis,analysis_role
+0,t_nk,excluded,no,non-target automatic label,directional support only
+1,t_nk,excluded,no,non-target automatic label,directional support only
+2,macrophage_monocyte,macrophage_monocyte,yes,passes fixed 0.5 margin and two-anchor rule,directional support only
+3,neutrophil,excluded,no,non-target automatic label,directional support only
+4,mesenchymal_hsc_myofibroblast,mesenchymal_hsc_myofibroblast,yes,passes fixed 0.5 margin and two-anchor rule,directional support only
+5,endothelial,endothelial,yes,passes fixed 0.5 margin and two-anchor rule,directional support only
+6,dendritic,excluded,no,non-target automatic label,directional support only
+7,t_nk,excluded,no,non-target automatic label,directional support only
+8,dendritic,excluded,no,non-target automatic label,directional support only
+9,dendritic,excluded,no,non-target automatic label,directional support only
+10,neutrophil,excluded,no,non-target automatic label,directional support only
+11,b_plasma,excluded,no,non-target automatic label,directional support only
+12,ambiguous,excluded,no,fails fixed 0.5 score-margin rule,directional support only
+13,t_nk,excluded,no,non-target automatic label,directional support only
+14,endothelial,endothelial,yes,passes fixed 0.5 margin and two-anchor rule,directional support only
+15,b_plasma,excluded,no,non-target automatic label,directional support only
+16,t_nk,excluded,no,non-target automatic label,directional support only
+17,ambiguous,excluded,no,fails fixed 0.5 score-margin rule,directional support only
+18,t_nk,excluded,no,non-target automatic label,directional support only
+19,macrophage_monocyte,macrophage_monocyte,yes,passes fixed 0.5 margin and two-anchor rule,directional support only
+20,epithelial,excluded,no,non-target automatic label,directional support only
+21,endothelial,endothelial,yes,passes fixed 0.5 margin and two-anchor rule,directional support only
+22,ambiguous,excluded,no,fails fixed 0.5 score-margin rule,directional support only
+23,macrophage_monocyte,macrophage_monocyte,yes,passes fixed 0.5 margin and two-anchor rule,directional support only
+24,mesenchymal_hsc_myofibroblast,mesenchymal_hsc_myofibroblast,yes,passes fixed 0.5 margin and two-anchor rule,directional support only

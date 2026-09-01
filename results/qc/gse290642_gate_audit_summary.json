@@ -1,0 +1,19 @@
+{
+  "dataset_id": "GSE290642_human",
+  "genes": 49897,
+  "genes_shared_all_24_donors": 21725,
+  "pseudobulk_columns": 72,
+  "pseudobulk_nonzero": 1048200,
+  "donors": 24,
+  "stage_donors": {
+    "F1": 10,
+    "F1-2": 7,
+    "F4": 3,
+    "F0": 3,
+    "F2": 1
+  },
+  "programs_primary_coverage": 19,
+  "programs_total": 19,
+  "annotation_role": "reconstructed broad-lineage sensitivity only",
+  "etiology": "unresolved"
+}

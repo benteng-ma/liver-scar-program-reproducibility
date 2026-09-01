@@ -1,0 +1,13 @@
+{
+  "contrasts": [
+    "alcohol_hepatitis_vs_healthy",
+    "alcohol_cirrhosis_vs_alcohol_hepatitis"
+  ],
+  "effect_rows": 152,
+  "random_benchmark_rows": 152,
+  "primary_programs": [
+    "RAM2019_ENDO_2",
+    "RAM2019_ENDO_6_SAENDO1"
+  ],
+  "context_enriched_programs": []
+}

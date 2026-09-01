@@ -1,0 +1,14 @@
+biological_unit: donor
+formal_effects_allowed: false
+formal_effects_unlock_conditions:
+  - isolated_environment_verified
+  - processed_annotations_ingested
+  - donor_state_cell_counts_audited
+  - phase1_freeze_commit_present
+within_dataset_expression_only: true
+cross_dataset_raw_expression_integration: forbidden
+meta_analyze_effects_only: true
+random_seed: 20260830
+random_modules_per_program_dataset_state: 1000
+spatial_main_analysis: false
+

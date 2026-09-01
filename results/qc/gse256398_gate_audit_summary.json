@@ -1,0 +1,18 @@
+{
+  "dataset_id": "GSE256398_human",
+  "genes": 36601,
+  "pseudobulk_columns": 78,
+  "pseudobulk_nonzero": 1242752,
+  "donors": 26,
+  "contrasts": [
+    "mash_cirrhosis_vs_healthy",
+    "alcohol_cirrhosis_vs_healthy",
+    "mash_fibrosis_vs_masld_f0",
+    "mash_cirrhosis_vs_masld_f0",
+    "mash_vs_alcohol_cirrhosis_etiology"
+  ],
+  "all_contrast_lineage_30_cell_gates_pass": true,
+  "programs_primary_coverage": 19,
+  "programs_total": 19,
+  "analysis_role": "post-lock reconstructed-label external validation"
+}

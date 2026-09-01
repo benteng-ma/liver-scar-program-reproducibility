@@ -1,0 +1,18 @@
+{
+  "dataset_id": "GSE244832",
+  "genes": 27200,
+  "pseudobulk_columns": 54,
+  "pseudobulk_nonzero": 919335,
+  "donors": 18,
+  "condition_donors": {
+    "MASH": 9,
+    "normal": 5,
+    "MASL": 4
+  },
+  "primary_cell_gate": 30,
+  "sensitivity_cell_gate": 20,
+  "minimum_donors_per_group": 3,
+  "programs_primary_coverage": 19,
+  "programs_total": 19,
+  "endpoint_status": "MASH F2-F4 group versus normal sensitivity only; donor-level fibrosis stage unavailable"
+}

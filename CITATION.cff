@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the archived software release and the associated article."
+type: software
+title: "Liver scar-program reproducibility benchmark"
+version: "1.0.0"
+date-released: 2026-09-01
+license: MIT
+repository-code: "https://github.com/benteng-ma/liver-scar-program-reproducibility"
+authors:
+  - family-names: Chen
+    given-names: Bing
+    orcid: https://orcid.org/0000-0001-8828-9678
+  - family-names: Ma
+    given-names: Benteng
+    orcid: https://orcid.org/0000-0001-8795-7291
+  - family-names: Cai
+    given-names: Ting
+    orcid: https://orcid.org/0000-0002-8910-3289
+  - family-names: Liu
+    given-names: Xiao-ming
+  - family-names: Wang
+    given-names: Fen
+keywords:
+  - liver fibrosis
+  - cirrhosis
+  - single-cell RNA sequencing
+  - reproducibility
+  - endothelial cells

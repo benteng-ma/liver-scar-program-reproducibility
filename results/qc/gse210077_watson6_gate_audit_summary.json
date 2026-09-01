@@ -1,0 +1,17 @@
+{
+  "dataset_id": "GSE210077_Watson6",
+  "genes_shared_all_six_donors": 25476,
+  "pseudobulk_columns": 18,
+  "pseudobulk_nonzero": 335779,
+  "donors": 6,
+  "stage_donors": {
+    "none": 3,
+    "F4": 1,
+    "F2": 1,
+    "F3": 1
+  },
+  "programs_primary_coverage": 16,
+  "programs_total": 19,
+  "source_sha256": "4C3AB10BD3BA8CD645B6A4CE0D88F9B6AFE2ABFFEC8C76D99E791E3A882F0C24",
+  "endpoint_status": "three healthy versus one each F2/F3/F4; small directional/sensitivity only"
+}

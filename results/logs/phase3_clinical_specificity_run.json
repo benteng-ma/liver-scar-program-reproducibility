@@ -1,0 +1,10 @@
+{
+  "gse202379_univariate_rows": 288,
+  "gse202379_univariate_fdr_lt_005": 5,
+  "gse202379_model_rows": 576,
+  "gse202379_model_fdr_lt_005": 4,
+  "gse244832_progression_rows": 38,
+  "gse244832_progression_fdr_lt_005": 5,
+  "permutations_per_row": 10000,
+  "interpretation": "post-lock specificity and progression analyses; descriptive, non-causal"
+}

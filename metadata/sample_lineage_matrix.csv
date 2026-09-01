@@ -1,0 +1,394 @@
+﻿dataset_id,donor_id,sample_id,assay,cell_lineage,expected_from_design,donor_level_cell_count,eligible_at_30_cells,evidence_basis
+GSE136103,Healthy1,GSM4041150,scRNA-seq,macrophage_monocyte,yes,not computed in Phase 0,pending,author counts/annotations
+GSE136103,Healthy1,GSM4041150,scRNA-seq,endothelial,yes,not computed in Phase 0,pending,author Fig.4
+GSE136103,Healthy1,GSM4041150,scRNA-seq,mesenchymal_hsc_myofibroblast,yes,not computed in Phase 0,pending,author Fig.5
+GSE136103,Healthy1,GSM4041151,scRNA-seq,macrophage_monocyte,yes,not computed in Phase 0,pending,author counts/annotations
+GSE136103,Healthy1,GSM4041151,scRNA-seq,endothelial,yes,not computed in Phase 0,pending,author Fig.4
+GSE136103,Healthy1,GSM4041151,scRNA-seq,mesenchymal_hsc_myofibroblast,yes,not computed in Phase 0,pending,author Fig.5
+GSE136103,Healthy1,GSM4041152,scRNA-seq,macrophage_monocyte,yes,not computed in Phase 0,pending,author counts/annotations
+GSE136103,Healthy1,GSM4041152,scRNA-seq,endothelial,yes,not computed in Phase 0,pending,author Fig.4
+GSE136103,Healthy1,GSM4041152,scRNA-seq,mesenchymal_hsc_myofibroblast,yes,not computed in Phase 0,pending,author Fig.5
+GSE136103,Healthy2,GSM4041153,scRNA-seq,macrophage_monocyte,yes,not computed in Phase 0,pending,author counts/annotations
+GSE136103,Healthy2,GSM4041153,scRNA-seq,endothelial,yes,not computed in Phase 0,pending,author Fig.4
+GSE136103,Healthy2,GSM4041153,scRNA-seq,mesenchymal_hsc_myofibroblast,yes,not computed in Phase 0,pending,author Fig.5
+GSE136103,Healthy2,GSM4041154,scRNA-seq,macrophage_monocyte,yes,not computed in Phase 0,pending,author counts/annotations
+GSE136103,Healthy2,GSM4041154,scRNA-seq,endothelial,yes,not computed in Phase 0,pending,author Fig.4
+GSE136103,Healthy2,GSM4041154,scRNA-seq,mesenchymal_hsc_myofibroblast,yes,not computed in Phase 0,pending,author Fig.5
+GSE136103,Healthy3,GSM4041155,scRNA-seq,macrophage_monocyte,yes,not computed in Phase 0,pending,author counts/annotations
+GSE136103,Healthy3,GSM4041155,scRNA-seq,endothelial,yes,not computed in Phase 0,pending,author Fig.4
+GSE136103,Healthy3,GSM4041155,scRNA-seq,mesenchymal_hsc_myofibroblast,yes,not computed in Phase 0,pending,author Fig.5
+GSE136103,Healthy3,GSM4041156,scRNA-seq,macrophage_monocyte,yes,not computed in Phase 0,pending,author counts/annotations
+GSE136103,Healthy3,GSM4041156,scRNA-seq,endothelial,yes,not computed in Phase 0,pending,author Fig.4
+GSE136103,Healthy3,GSM4041156,scRNA-seq,mesenchymal_hsc_myofibroblast,yes,not computed in Phase 0,pending,author Fig.5
+GSE136103,Healthy3,GSM4041157,scRNA-seq,macrophage_monocyte,yes,not computed in Phase 0,pending,author counts/annotations
+GSE136103,Healthy3,GSM4041157,scRNA-seq,endothelial,yes,not computed in Phase 0,pending,author Fig.4
+GSE136103,Healthy3,GSM4041157,scRNA-seq,mesenchymal_hsc_myofibroblast,yes,not computed in Phase 0,pending,author Fig.5
+GSE136103,Healthy4,GSM4041158,scRNA-seq,macrophage_monocyte,yes,not computed in Phase 0,pending,author counts/annotations
+GSE136103,Healthy4,GSM4041158,scRNA-seq,endothelial,yes,not computed in Phase 0,pending,author Fig.4
+GSE136103,Healthy4,GSM4041158,scRNA-seq,mesenchymal_hsc_myofibroblast,yes,not computed in Phase 0,pending,author Fig.5
+GSE136103,Healthy4,GSM4041159,scRNA-seq,macrophage_monocyte,yes,not computed in Phase 0,pending,author counts/annotations
+GSE136103,Healthy4,GSM4041159,scRNA-seq,endothelial,yes,not computed in Phase 0,pending,author Fig.4
+GSE136103,Healthy4,GSM4041159,scRNA-seq,mesenchymal_hsc_myofibroblast,yes,not computed in Phase 0,pending,author Fig.5
+GSE136103,Healthy5,GSM4041160,scRNA-seq,macrophage_monocyte,yes,not computed in Phase 0,pending,author counts/annotations
+GSE136103,Healthy5,GSM4041160,scRNA-seq,endothelial,yes,not computed in Phase 0,pending,author Fig.4
+GSE136103,Healthy5,GSM4041160,scRNA-seq,mesenchymal_hsc_myofibroblast,yes,not computed in Phase 0,pending,author Fig.5
+GSE136103,Cirrhotic1,GSM4041161,scRNA-seq,macrophage_monocyte,yes,not computed in Phase 0,pending,author counts/annotations
+GSE136103,Cirrhotic1,GSM4041161,scRNA-seq,endothelial,yes,not computed in Phase 0,pending,author Fig.4
+GSE136103,Cirrhotic1,GSM4041161,scRNA-seq,mesenchymal_hsc_myofibroblast,yes,not computed in Phase 0,pending,author Fig.5
+GSE136103,Cirrhotic1,GSM4041162,scRNA-seq,macrophage_monocyte,yes,not computed in Phase 0,pending,author counts/annotations
+GSE136103,Cirrhotic1,GSM4041162,scRNA-seq,endothelial,yes,not computed in Phase 0,pending,author Fig.4
+GSE136103,Cirrhotic1,GSM4041162,scRNA-seq,mesenchymal_hsc_myofibroblast,yes,not computed in Phase 0,pending,author Fig.5
+GSE136103,Cirrhotic1,GSM4041163,scRNA-seq,macrophage_monocyte,yes,not computed in Phase 0,pending,author counts/annotations
+GSE136103,Cirrhotic1,GSM4041163,scRNA-seq,endothelial,yes,not computed in Phase 0,pending,author Fig.4
+GSE136103,Cirrhotic1,GSM4041163,scRNA-seq,mesenchymal_hsc_myofibroblast,yes,not computed in Phase 0,pending,author Fig.5
+GSE136103,Cirrhotic2,GSM4041164,scRNA-seq,macrophage_monocyte,yes,not computed in Phase 0,pending,author counts/annotations
+GSE136103,Cirrhotic2,GSM4041164,scRNA-seq,endothelial,yes,not computed in Phase 0,pending,author Fig.4
+GSE136103,Cirrhotic2,GSM4041164,scRNA-seq,mesenchymal_hsc_myofibroblast,yes,not computed in Phase 0,pending,author Fig.5
+GSE136103,Cirrhotic2,GSM4041165,scRNA-seq,macrophage_monocyte,yes,not computed in Phase 0,pending,author counts/annotations
+GSE136103,Cirrhotic2,GSM4041165,scRNA-seq,endothelial,yes,not computed in Phase 0,pending,author Fig.4
+GSE136103,Cirrhotic2,GSM4041165,scRNA-seq,mesenchymal_hsc_myofibroblast,yes,not computed in Phase 0,pending,author Fig.5
+GSE136103,Cirrhotic3,GSM4041166,scRNA-seq,macrophage_monocyte,yes,not computed in Phase 0,pending,author counts/annotations
+GSE136103,Cirrhotic3,GSM4041166,scRNA-seq,endothelial,yes,not computed in Phase 0,pending,author Fig.4
+GSE136103,Cirrhotic3,GSM4041166,scRNA-seq,mesenchymal_hsc_myofibroblast,yes,not computed in Phase 0,pending,author Fig.5
+GSE136103,Cirrhotic3,GSM4041167,scRNA-seq,macrophage_monocyte,yes,not computed in Phase 0,pending,author counts/annotations
+GSE136103,Cirrhotic3,GSM4041167,scRNA-seq,endothelial,yes,not computed in Phase 0,pending,author Fig.4
+GSE136103,Cirrhotic3,GSM4041167,scRNA-seq,mesenchymal_hsc_myofibroblast,yes,not computed in Phase 0,pending,author Fig.5
+GSE136103,Cirrhotic4,GSM4041168,scRNA-seq,macrophage_monocyte,yes,not computed in Phase 0,pending,author counts/annotations
+GSE136103,Cirrhotic4,GSM4041168,scRNA-seq,endothelial,yes,not computed in Phase 0,pending,author Fig.4
+GSE136103,Cirrhotic4,GSM4041168,scRNA-seq,mesenchymal_hsc_myofibroblast,yes,not computed in Phase 0,pending,author Fig.5
+GSE136103,Cirrhotic5,GSM4041169,scRNA-seq,macrophage_monocyte,yes,not computed in Phase 0,pending,author counts/annotations
+GSE136103,Cirrhotic5,GSM4041169,scRNA-seq,endothelial,yes,not computed in Phase 0,pending,author Fig.4
+GSE136103,Cirrhotic5,GSM4041169,scRNA-seq,mesenchymal_hsc_myofibroblast,yes,not computed in Phase 0,pending,author Fig.5
+GSE181483_human,human_ctrl1,GSM5741404,scRNA-seq,macrophage_monocyte,yes,not computed in Phase 0,pending,NPC atlas; donor-state counts pending
+GSE181483_human,human_ctrl1,GSM5741404,scRNA-seq,endothelial,yes,not computed in Phase 0,pending,NPC atlas; donor-state counts pending
+GSE181483_human,human_ctrl1,GSM5741404,scRNA-seq,mesenchymal_hsc_myofibroblast,yes,not computed in Phase 0,pending,NPC atlas; donor-state counts pending
+GSE181483_human,human_ctrl2,GSM5741405,scRNA-seq,macrophage_monocyte,yes,not computed in Phase 0,pending,NPC atlas; donor-state counts pending
+GSE181483_human,human_ctrl2,GSM5741405,scRNA-seq,endothelial,yes,not computed in Phase 0,pending,NPC atlas; donor-state counts pending
+GSE181483_human,human_ctrl2,GSM5741405,scRNA-seq,mesenchymal_hsc_myofibroblast,yes,not computed in Phase 0,pending,NPC atlas; donor-state counts pending
+GSE181483_human,human_cir1,GSM5741406,scRNA-seq,macrophage_monocyte,yes,not computed in Phase 0,pending,NPC atlas; donor-state counts pending
+GSE181483_human,human_cir1,GSM5741406,scRNA-seq,endothelial,yes,not computed in Phase 0,pending,NPC atlas; donor-state counts pending
+GSE181483_human,human_cir1,GSM5741406,scRNA-seq,mesenchymal_hsc_myofibroblast,yes,not computed in Phase 0,pending,NPC atlas; donor-state counts pending
+GSE181483_human,human_cir2,GSM5741407,scRNA-seq,macrophage_monocyte,yes,not computed in Phase 0,pending,NPC atlas; donor-state counts pending
+GSE181483_human,human_cir2,GSM5741407,scRNA-seq,endothelial,yes,not computed in Phase 0,pending,NPC atlas; donor-state counts pending
+GSE181483_human,human_cir2,GSM5741407,scRNA-seq,mesenchymal_hsc_myofibroblast,yes,not computed in Phase 0,pending,NPC atlas; donor-state counts pending
+GSE202379,P70,GSM6112209,snRNA-seq,macrophage_monocyte,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,P70,GSM6112209,snRNA-seq,endothelial,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,P70,GSM6112209,snRNA-seq,mesenchymal_hsc_myofibroblast,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,P48,GSM6112210,snRNA-seq,macrophage_monocyte,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,P48,GSM6112210,snRNA-seq,endothelial,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,P48,GSM6112210,snRNA-seq,mesenchymal_hsc_myofibroblast,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,P77,GSM6112211,snRNA-seq,macrophage_monocyte,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,P77,GSM6112211,snRNA-seq,endothelial,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,P77,GSM6112211,snRNA-seq,mesenchymal_hsc_myofibroblast,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,P78,GSM6112212,snRNA-seq,macrophage_monocyte,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,P78,GSM6112212,snRNA-seq,endothelial,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,P78,GSM6112212,snRNA-seq,mesenchymal_hsc_myofibroblast,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,P62,GSM6112213,snRNA-seq,macrophage_monocyte,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,P62,GSM6112213,snRNA-seq,endothelial,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,P62,GSM6112213,snRNA-seq,mesenchymal_hsc_myofibroblast,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,P12,GSM6112214,snRNA-seq,macrophage_monocyte,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,P12,GSM6112214,snRNA-seq,endothelial,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,P12,GSM6112214,snRNA-seq,mesenchymal_hsc_myofibroblast,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,P22,GSM6112215,snRNA-seq,macrophage_monocyte,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,P22,GSM6112215,snRNA-seq,endothelial,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,P22,GSM6112215,snRNA-seq,mesenchymal_hsc_myofibroblast,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,P83,GSM6112216,snRNA-seq,macrophage_monocyte,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,P83,GSM6112216,snRNA-seq,endothelial,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,P83,GSM6112216,snRNA-seq,mesenchymal_hsc_myofibroblast,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,P67,GSM6112217,snRNA-seq,macrophage_monocyte,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,P67,GSM6112217,snRNA-seq,endothelial,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,P67,GSM6112217,snRNA-seq,mesenchymal_hsc_myofibroblast,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,P52,GSM6112218,snRNA-seq,macrophage_monocyte,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,P52,GSM6112218,snRNA-seq,endothelial,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,P52,GSM6112218,snRNA-seq,mesenchymal_hsc_myofibroblast,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,P53,GSM6112219,snRNA-seq,macrophage_monocyte,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,P53,GSM6112219,snRNA-seq,endothelial,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,P53,GSM6112219,snRNA-seq,mesenchymal_hsc_myofibroblast,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,P54,GSM6112220,snRNA-seq,macrophage_monocyte,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,P54,GSM6112220,snRNA-seq,endothelial,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,P54,GSM6112220,snRNA-seq,mesenchymal_hsc_myofibroblast,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,P71,GSM6112221,snRNA-seq,macrophage_monocyte,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,P71,GSM6112221,snRNA-seq,endothelial,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,P71,GSM6112221,snRNA-seq,mesenchymal_hsc_myofibroblast,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,P64,GSM6112222,snRNA-seq,macrophage_monocyte,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,P64,GSM6112222,snRNA-seq,endothelial,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,P64,GSM6112222,snRNA-seq,mesenchymal_hsc_myofibroblast,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,P6,GSM6112223,snRNA-seq,macrophage_monocyte,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,P6,GSM6112223,snRNA-seq,endothelial,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,P6,GSM6112223,snRNA-seq,mesenchymal_hsc_myofibroblast,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,P49,GSM6112224,snRNA-seq,macrophage_monocyte,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,P49,GSM6112224,snRNA-seq,endothelial,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,P49,GSM6112224,snRNA-seq,mesenchymal_hsc_myofibroblast,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,P50,GSM6112225,snRNA-seq,macrophage_monocyte,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,P50,GSM6112225,snRNA-seq,endothelial,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,P50,GSM6112225,snRNA-seq,mesenchymal_hsc_myofibroblast,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,P51,GSM6112226,snRNA-seq,macrophage_monocyte,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,P51,GSM6112226,snRNA-seq,endothelial,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,P51,GSM6112226,snRNA-seq,mesenchymal_hsc_myofibroblast,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,P68,GSM6112227,snRNA-seq,macrophage_monocyte,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,P68,GSM6112227,snRNA-seq,endothelial,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,P68,GSM6112227,snRNA-seq,mesenchymal_hsc_myofibroblast,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,P75,GSM6112228,snRNA-seq,macrophage_monocyte,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,P75,GSM6112228,snRNA-seq,endothelial,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,P75,GSM6112228,snRNA-seq,mesenchymal_hsc_myofibroblast,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,P76,GSM6112229,snRNA-seq,macrophage_monocyte,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,P76,GSM6112229,snRNA-seq,endothelial,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,P76,GSM6112229,snRNA-seq,mesenchymal_hsc_myofibroblast,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,P60,GSM6112230,snRNA-seq,macrophage_monocyte,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,P60,GSM6112230,snRNA-seq,endothelial,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,P60,GSM6112230,snRNA-seq,mesenchymal_hsc_myofibroblast,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,P7,GSM6112231,snRNA-seq,macrophage_monocyte,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,P7,GSM6112231,snRNA-seq,endothelial,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,P7,GSM6112231,snRNA-seq,mesenchymal_hsc_myofibroblast,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,P19,GSM6112232,snRNA-seq,macrophage_monocyte,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,P19,GSM6112232,snRNA-seq,endothelial,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,P19,GSM6112232,snRNA-seq,mesenchymal_hsc_myofibroblast,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,P8,GSM6112233,snRNA-seq,macrophage_monocyte,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,P8,GSM6112233,snRNA-seq,endothelial,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,P8,GSM6112233,snRNA-seq,mesenchymal_hsc_myofibroblast,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,P20,GSM6112234,snRNA-seq,macrophage_monocyte,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,P20,GSM6112234,snRNA-seq,endothelial,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,P20,GSM6112234,snRNA-seq,mesenchymal_hsc_myofibroblast,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,P9,GSM6112235,snRNA-seq,macrophage_monocyte,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,P9,GSM6112235,snRNA-seq,endothelial,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,P9,GSM6112235,snRNA-seq,mesenchymal_hsc_myofibroblast,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,P21,GSM6112236,snRNA-seq,macrophage_monocyte,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,P21,GSM6112236,snRNA-seq,endothelial,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,P21,GSM6112236,snRNA-seq,mesenchymal_hsc_myofibroblast,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,PHL2,GSM6112237,snRNA-seq,macrophage_monocyte,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,PHL2,GSM6112237,snRNA-seq,endothelial,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,PHL2,GSM6112237,snRNA-seq,mesenchymal_hsc_myofibroblast,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,PCL103,GSM6112238,snRNA-seq,macrophage_monocyte,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,PCL103,GSM6112238,snRNA-seq,endothelial,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,PCL103,GSM6112238,snRNA-seq,mesenchymal_hsc_myofibroblast,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,P15,GSM6112239,snRNA-seq,macrophage_monocyte,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,P15,GSM6112239,snRNA-seq,endothelial,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,P15,GSM6112239,snRNA-seq,mesenchymal_hsc_myofibroblast,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,PCL103,GSM6112240,snRNA-seq,macrophage_monocyte,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,PCL103,GSM6112240,snRNA-seq,endothelial,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,PCL103,GSM6112240,snRNA-seq,mesenchymal_hsc_myofibroblast,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,P16,GSM6112241,snRNA-seq,macrophage_monocyte,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,P16,GSM6112241,snRNA-seq,endothelial,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,P16,GSM6112241,snRNA-seq,mesenchymal_hsc_myofibroblast,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,PCL103,GSM6112242,snRNA-seq,macrophage_monocyte,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,PCL103,GSM6112242,snRNA-seq,endothelial,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,PCL103,GSM6112242,snRNA-seq,mesenchymal_hsc_myofibroblast,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,P30,GSM6112243,snRNA-seq,macrophage_monocyte,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,P30,GSM6112243,snRNA-seq,endothelial,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,P30,GSM6112243,snRNA-seq,mesenchymal_hsc_myofibroblast,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,P98,GSM6112244,snRNA-seq,macrophage_monocyte,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,P98,GSM6112244,snRNA-seq,endothelial,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,P98,GSM6112244,snRNA-seq,mesenchymal_hsc_myofibroblast,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,PCL16,GSM6112245,snRNA-seq,macrophage_monocyte,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,PCL16,GSM6112245,snRNA-seq,endothelial,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,PCL16,GSM6112245,snRNA-seq,mesenchymal_hsc_myofibroblast,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,PCL16,GSM6112246,snRNA-seq,macrophage_monocyte,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,PCL16,GSM6112246,snRNA-seq,endothelial,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,PCL16,GSM6112246,snRNA-seq,mesenchymal_hsc_myofibroblast,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,PCL16,GSM6112247,snRNA-seq,macrophage_monocyte,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,PCL16,GSM6112247,snRNA-seq,endothelial,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,PCL16,GSM6112247,snRNA-seq,mesenchymal_hsc_myofibroblast,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,PCL104,GSM6112248,snRNA-seq,macrophage_monocyte,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,PCL104,GSM6112248,snRNA-seq,endothelial,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,PCL104,GSM6112248,snRNA-seq,mesenchymal_hsc_myofibroblast,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,PCL104,GSM6112249,snRNA-seq,macrophage_monocyte,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,PCL104,GSM6112249,snRNA-seq,endothelial,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,PCL104,GSM6112249,snRNA-seq,mesenchymal_hsc_myofibroblast,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,PCL104,GSM6112250,snRNA-seq,macrophage_monocyte,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,PCL104,GSM6112250,snRNA-seq,endothelial,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,PCL104,GSM6112250,snRNA-seq,mesenchymal_hsc_myofibroblast,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,P57,GSM6112251,snRNA-seq,macrophage_monocyte,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,P57,GSM6112251,snRNA-seq,endothelial,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,P57,GSM6112251,snRNA-seq,mesenchymal_hsc_myofibroblast,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,P11,GSM6112252,snRNA-seq,macrophage_monocyte,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,P11,GSM6112252,snRNA-seq,endothelial,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,P11,GSM6112252,snRNA-seq,mesenchymal_hsc_myofibroblast,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,P3,GSM6112253,snRNA-seq,macrophage_monocyte,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,P3,GSM6112253,snRNA-seq,endothelial,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,P3,GSM6112253,snRNA-seq,mesenchymal_hsc_myofibroblast,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,PCL18,GSM6112254,snRNA-seq,macrophage_monocyte,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,PCL18,GSM6112254,snRNA-seq,endothelial,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,PCL18,GSM6112254,snRNA-seq,mesenchymal_hsc_myofibroblast,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,P55,GSM6112255,snRNA-seq,macrophage_monocyte,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,P55,GSM6112255,snRNA-seq,endothelial,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,P55,GSM6112255,snRNA-seq,mesenchymal_hsc_myofibroblast,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,P56,GSM6112256,snRNA-seq,macrophage_monocyte,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,P56,GSM6112256,snRNA-seq,endothelial,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,P56,GSM6112256,snRNA-seq,mesenchymal_hsc_myofibroblast,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,PHL1,GSM6112257,snRNA-seq,macrophage_monocyte,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,PHL1,GSM6112257,snRNA-seq,endothelial,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,PHL1,GSM6112257,snRNA-seq,mesenchymal_hsc_myofibroblast,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,PCL18,GSM6112258,snRNA-seq,macrophage_monocyte,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,PCL18,GSM6112258,snRNA-seq,endothelial,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,PCL18,GSM6112258,snRNA-seq,mesenchymal_hsc_myofibroblast,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,P72,GSM6112259,snRNA-seq,macrophage_monocyte,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,P72,GSM6112259,snRNA-seq,endothelial,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,P72,GSM6112259,snRNA-seq,mesenchymal_hsc_myofibroblast,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,PHL1,GSM6112260,snRNA-seq,macrophage_monocyte,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,PHL1,GSM6112260,snRNA-seq,endothelial,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,PHL1,GSM6112260,snRNA-seq,mesenchymal_hsc_myofibroblast,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,P73,GSM6112261,snRNA-seq,macrophage_monocyte,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,P73,GSM6112261,snRNA-seq,endothelial,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,P73,GSM6112261,snRNA-seq,mesenchymal_hsc_myofibroblast,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,PCL17,GSM6112262,snRNA-seq,macrophage_monocyte,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,PCL17,GSM6112262,snRNA-seq,endothelial,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,PCL17,GSM6112262,snRNA-seq,mesenchymal_hsc_myofibroblast,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,PHL1,GSM6112263,snRNA-seq,macrophage_monocyte,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,PHL1,GSM6112263,snRNA-seq,endothelial,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,PHL1,GSM6112263,snRNA-seq,mesenchymal_hsc_myofibroblast,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,PCL17,GSM6112264,snRNA-seq,macrophage_monocyte,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,PCL17,GSM6112264,snRNA-seq,endothelial,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,PCL17,GSM6112264,snRNA-seq,mesenchymal_hsc_myofibroblast,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,PCL17,GSM6112265,snRNA-seq,macrophage_monocyte,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,PCL17,GSM6112265,snRNA-seq,endothelial,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,PCL17,GSM6112265,snRNA-seq,mesenchymal_hsc_myofibroblast,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,P84,GSM6112266,snRNA-seq,macrophage_monocyte,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,P84,GSM6112266,snRNA-seq,endothelial,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,P84,GSM6112266,snRNA-seq,mesenchymal_hsc_myofibroblast,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,PCL18,GSM6112267,snRNA-seq,macrophage_monocyte,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,PCL18,GSM6112267,snRNA-seq,endothelial,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE202379,PCL18,GSM6112267,snRNA-seq,mesenchymal_hsc_myofibroblast,yes,not computed in Phase 0,pending,whole-liver snRNA; ≥9 advanced/cirrhosis donors; per-state ≥30 audit pending
+GSE210077_Watson6,AM042,GSM6416567/Liver-13,snRNA-seq + MERFISH,macrophage_monocyte,yes,not computed in Phase 0,pending,matched snRNA/MERFISH; lineage labels in object
+GSE210077_Watson6,AM042,GSM6416567/Liver-13,snRNA-seq + MERFISH,endothelial,yes,not computed in Phase 0,pending,matched snRNA/MERFISH; lineage labels in object
+GSE210077_Watson6,AM042,GSM6416567/Liver-13,snRNA-seq + MERFISH,mesenchymal_hsc_myofibroblast,yes,not computed in Phase 0,pending,matched snRNA/MERFISH; lineage labels in object
+GSE210077_Watson6,AM061,GSM6416578/Liver-18,snRNA-seq + MERFISH,macrophage_monocyte,yes,not computed in Phase 0,pending,matched snRNA/MERFISH; lineage labels in object
+GSE210077_Watson6,AM061,GSM6416578/Liver-18,snRNA-seq + MERFISH,endothelial,yes,not computed in Phase 0,pending,matched snRNA/MERFISH; lineage labels in object
+GSE210077_Watson6,AM061,GSM6416578/Liver-18,snRNA-seq + MERFISH,mesenchymal_hsc_myofibroblast,yes,not computed in Phase 0,pending,matched snRNA/MERFISH; lineage labels in object
+GSE210077_Watson6,AM048,GSM6416569/Liver-14,snRNA-seq + MERFISH,macrophage_monocyte,yes,not computed in Phase 0,pending,matched snRNA/MERFISH; lineage labels in object
+GSE210077_Watson6,AM048,GSM6416569/Liver-14,snRNA-seq + MERFISH,endothelial,yes,not computed in Phase 0,pending,matched snRNA/MERFISH; lineage labels in object
+GSE210077_Watson6,AM048,GSM6416569/Liver-14,snRNA-seq + MERFISH,mesenchymal_hsc_myofibroblast,yes,not computed in Phase 0,pending,matched snRNA/MERFISH; lineage labels in object
+GSE210077_Watson6,AM031,GSM8493744/Liver-32,snRNA-seq + MERFISH,macrophage_monocyte,yes,not computed in Phase 0,pending,matched snRNA/MERFISH; lineage labels in object
+GSE210077_Watson6,AM031,GSM8493744/Liver-32,snRNA-seq + MERFISH,endothelial,yes,not computed in Phase 0,pending,matched snRNA/MERFISH; lineage labels in object
+GSE210077_Watson6,AM031,GSM8493744/Liver-32,snRNA-seq + MERFISH,mesenchymal_hsc_myofibroblast,yes,not computed in Phase 0,pending,matched snRNA/MERFISH; lineage labels in object
+GSE210077_Watson6,AM062,GSM8493745/Liver-33,snRNA-seq + MERFISH,macrophage_monocyte,yes,not computed in Phase 0,pending,matched snRNA/MERFISH; lineage labels in object
+GSE210077_Watson6,AM062,GSM8493745/Liver-33,snRNA-seq + MERFISH,endothelial,yes,not computed in Phase 0,pending,matched snRNA/MERFISH; lineage labels in object
+GSE210077_Watson6,AM062,GSM8493745/Liver-33,snRNA-seq + MERFISH,mesenchymal_hsc_myofibroblast,yes,not computed in Phase 0,pending,matched snRNA/MERFISH; lineage labels in object
+GSE210077_Watson6,AM072,GSM8493746/Liver-34,snRNA-seq + MERFISH,macrophage_monocyte,yes,not computed in Phase 0,pending,matched snRNA/MERFISH; lineage labels in object
+GSE210077_Watson6,AM072,GSM8493746/Liver-34,snRNA-seq + MERFISH,endothelial,yes,not computed in Phase 0,pending,matched snRNA/MERFISH; lineage labels in object
+GSE210077_Watson6,AM072,GSM8493746/Liver-34,snRNA-seq + MERFISH,mesenchymal_hsc_myofibroblast,yes,not computed in Phase 0,pending,matched snRNA/MERFISH; lineage labels in object
+GSE290642_human,Fibrosis_1,GSM8818766,scRNA-seq,macrophage_monocyte,yes,not computed in Phase 0,pending,NPC scRNA; three F4; per-state ≥30 audit pending
+GSE290642_human,Fibrosis_1,GSM8818766,scRNA-seq,endothelial,yes,not computed in Phase 0,pending,NPC scRNA; three F4; per-state ≥30 audit pending
+GSE290642_human,Fibrosis_1,GSM8818766,scRNA-seq,mesenchymal_hsc_myofibroblast,yes,not computed in Phase 0,pending,NPC scRNA; three F4; per-state ≥30 audit pending
+GSE290642_human,Fibrosis_2,GSM8818767,scRNA-seq,macrophage_monocyte,yes,not computed in Phase 0,pending,NPC scRNA; three F4; per-state ≥30 audit pending
+GSE290642_human,Fibrosis_2,GSM8818767,scRNA-seq,endothelial,yes,not computed in Phase 0,pending,NPC scRNA; three F4; per-state ≥30 audit pending
+GSE290642_human,Fibrosis_2,GSM8818767,scRNA-seq,mesenchymal_hsc_myofibroblast,yes,not computed in Phase 0,pending,NPC scRNA; three F4; per-state ≥30 audit pending
+GSE290642_human,Fibrosis_3,GSM8818768,scRNA-seq,macrophage_monocyte,yes,not computed in Phase 0,pending,NPC scRNA; three F4; per-state ≥30 audit pending
+GSE290642_human,Fibrosis_3,GSM8818768,scRNA-seq,endothelial,yes,not computed in Phase 0,pending,NPC scRNA; three F4; per-state ≥30 audit pending
+GSE290642_human,Fibrosis_3,GSM8818768,scRNA-seq,mesenchymal_hsc_myofibroblast,yes,not computed in Phase 0,pending,NPC scRNA; three F4; per-state ≥30 audit pending
+GSE290642_human,Fibrosis_4,GSM8818769,scRNA-seq,macrophage_monocyte,yes,not computed in Phase 0,pending,NPC scRNA; three F4; per-state ≥30 audit pending
+GSE290642_human,Fibrosis_4,GSM8818769,scRNA-seq,endothelial,yes,not computed in Phase 0,pending,NPC scRNA; three F4; per-state ≥30 audit pending
+GSE290642_human,Fibrosis_4,GSM8818769,scRNA-seq,mesenchymal_hsc_myofibroblast,yes,not computed in Phase 0,pending,NPC scRNA; three F4; per-state ≥30 audit pending
+GSE290642_human,Fibrosis_5,GSM8818770,scRNA-seq,macrophage_monocyte,yes,not computed in Phase 0,pending,NPC scRNA; three F4; per-state ≥30 audit pending
+GSE290642_human,Fibrosis_5,GSM8818770,scRNA-seq,endothelial,yes,not computed in Phase 0,pending,NPC scRNA; three F4; per-state ≥30 audit pending
+GSE290642_human,Fibrosis_5,GSM8818770,scRNA-seq,mesenchymal_hsc_myofibroblast,yes,not computed in Phase 0,pending,NPC scRNA; three F4; per-state ≥30 audit pending
+GSE290642_human,Fibrosis_6,GSM8818771,scRNA-seq,macrophage_monocyte,yes,not computed in Phase 0,pending,NPC scRNA; three F4; per-state ≥30 audit pending
+GSE290642_human,Fibrosis_6,GSM8818771,scRNA-seq,endothelial,yes,not computed in Phase 0,pending,NPC scRNA; three F4; per-state ≥30 audit pending
+GSE290642_human,Fibrosis_6,GSM8818771,scRNA-seq,mesenchymal_hsc_myofibroblast,yes,not computed in Phase 0,pending,NPC scRNA; three F4; per-state ≥30 audit pending
+GSE290642_human,Fibrosis_7,GSM8818772,scRNA-seq,macrophage_monocyte,yes,not computed in Phase 0,pending,NPC scRNA; three F4; per-state ≥30 audit pending
+GSE290642_human,Fibrosis_7,GSM8818772,scRNA-seq,endothelial,yes,not computed in Phase 0,pending,NPC scRNA; three F4; per-state ≥30 audit pending
+GSE290642_human,Fibrosis_7,GSM8818772,scRNA-seq,mesenchymal_hsc_myofibroblast,yes,not computed in Phase 0,pending,NPC scRNA; three F4; per-state ≥30 audit pending
+GSE290642_human,Fibrosis_8,GSM8818773,scRNA-seq,macrophage_monocyte,yes,not computed in Phase 0,pending,NPC scRNA; three F4; per-state ≥30 audit pending
+GSE290642_human,Fibrosis_8,GSM8818773,scRNA-seq,endothelial,yes,not computed in Phase 0,pending,NPC scRNA; three F4; per-state ≥30 audit pending
+GSE290642_human,Fibrosis_8,GSM8818773,scRNA-seq,mesenchymal_hsc_myofibroblast,yes,not computed in Phase 0,pending,NPC scRNA; three F4; per-state ≥30 audit pending
+GSE290642_human,Fibrosis_9,GSM8818774,scRNA-seq,macrophage_monocyte,yes,not computed in Phase 0,pending,NPC scRNA; three F4; per-state ≥30 audit pending
+GSE290642_human,Fibrosis_9,GSM8818774,scRNA-seq,endothelial,yes,not computed in Phase 0,pending,NPC scRNA; three F4; per-state ≥30 audit pending
+GSE290642_human,Fibrosis_9,GSM8818774,scRNA-seq,mesenchymal_hsc_myofibroblast,yes,not computed in Phase 0,pending,NPC scRNA; three F4; per-state ≥30 audit pending
+GSE290642_human,Fibrosis_10,GSM8818775,scRNA-seq,macrophage_monocyte,yes,not computed in Phase 0,pending,NPC scRNA; three F4; per-state ≥30 audit pending
+GSE290642_human,Fibrosis_10,GSM8818775,scRNA-seq,endothelial,yes,not computed in Phase 0,pending,NPC scRNA; three F4; per-state ≥30 audit pending
+GSE290642_human,Fibrosis_10,GSM8818775,scRNA-seq,mesenchymal_hsc_myofibroblast,yes,not computed in Phase 0,pending,NPC scRNA; three F4; per-state ≥30 audit pending
+GSE290642_human,Fibrosis_11,GSM8818776,scRNA-seq,macrophage_monocyte,yes,not computed in Phase 0,pending,NPC scRNA; three F4; per-state ≥30 audit pending
+GSE290642_human,Fibrosis_11,GSM8818776,scRNA-seq,endothelial,yes,not computed in Phase 0,pending,NPC scRNA; three F4; per-state ≥30 audit pending
+GSE290642_human,Fibrosis_11,GSM8818776,scRNA-seq,mesenchymal_hsc_myofibroblast,yes,not computed in Phase 0,pending,NPC scRNA; three F4; per-state ≥30 audit pending
+GSE290642_human,Fibrosis_12,GSM8818777,scRNA-seq,macrophage_monocyte,yes,not computed in Phase 0,pending,NPC scRNA; three F4; per-state ≥30 audit pending
+GSE290642_human,Fibrosis_12,GSM8818777,scRNA-seq,endothelial,yes,not computed in Phase 0,pending,NPC scRNA; three F4; per-state ≥30 audit pending
+GSE290642_human,Fibrosis_12,GSM8818777,scRNA-seq,mesenchymal_hsc_myofibroblast,yes,not computed in Phase 0,pending,NPC scRNA; three F4; per-state ≥30 audit pending
+GSE290642_human,Fibrosis_13,GSM8818778,scRNA-seq,macrophage_monocyte,yes,not computed in Phase 0,pending,NPC scRNA; three F4; per-state ≥30 audit pending
+GSE290642_human,Fibrosis_13,GSM8818778,scRNA-seq,endothelial,yes,not computed in Phase 0,pending,NPC scRNA; three F4; per-state ≥30 audit pending
+GSE290642_human,Fibrosis_13,GSM8818778,scRNA-seq,mesenchymal_hsc_myofibroblast,yes,not computed in Phase 0,pending,NPC scRNA; three F4; per-state ≥30 audit pending
+GSE290642_human,Fibrosis_14,GSM9472816,scRNA-seq,macrophage_monocyte,yes,not computed in Phase 0,pending,NPC scRNA; three F4; per-state ≥30 audit pending
+GSE290642_human,Fibrosis_14,GSM9472816,scRNA-seq,endothelial,yes,not computed in Phase 0,pending,NPC scRNA; three F4; per-state ≥30 audit pending
+GSE290642_human,Fibrosis_14,GSM9472816,scRNA-seq,mesenchymal_hsc_myofibroblast,yes,not computed in Phase 0,pending,NPC scRNA; three F4; per-state ≥30 audit pending
+GSE290642_human,Fibrosis_15,GSM9472817,scRNA-seq,macrophage_monocyte,yes,not computed in Phase 0,pending,NPC scRNA; three F4; per-state ≥30 audit pending
+GSE290642_human,Fibrosis_15,GSM9472817,scRNA-seq,endothelial,yes,not computed in Phase 0,pending,NPC scRNA; three F4; per-state ≥30 audit pending
+GSE290642_human,Fibrosis_15,GSM9472817,scRNA-seq,mesenchymal_hsc_myofibroblast,yes,not computed in Phase 0,pending,NPC scRNA; three F4; per-state ≥30 audit pending
+GSE290642_human,Fibrosis_16,GSM9472818,scRNA-seq,macrophage_monocyte,yes,not computed in Phase 0,pending,NPC scRNA; three F4; per-state ≥30 audit pending
+GSE290642_human,Fibrosis_16,GSM9472818,scRNA-seq,endothelial,yes,not computed in Phase 0,pending,NPC scRNA; three F4; per-state ≥30 audit pending
+GSE290642_human,Fibrosis_16,GSM9472818,scRNA-seq,mesenchymal_hsc_myofibroblast,yes,not computed in Phase 0,pending,NPC scRNA; three F4; per-state ≥30 audit pending
+GSE290642_human,Fibrosis_17,GSM9472819,scRNA-seq,macrophage_monocyte,yes,not computed in Phase 0,pending,NPC scRNA; three F4; per-state ≥30 audit pending
+GSE290642_human,Fibrosis_17,GSM9472819,scRNA-seq,endothelial,yes,not computed in Phase 0,pending,NPC scRNA; three F4; per-state ≥30 audit pending
+GSE290642_human,Fibrosis_17,GSM9472819,scRNA-seq,mesenchymal_hsc_myofibroblast,yes,not computed in Phase 0,pending,NPC scRNA; three F4; per-state ≥30 audit pending
+GSE290642_human,Fibrosis_18,GSM9472820,scRNA-seq,macrophage_monocyte,yes,not computed in Phase 0,pending,NPC scRNA; three F4; per-state ≥30 audit pending
+GSE290642_human,Fibrosis_18,GSM9472820,scRNA-seq,endothelial,yes,not computed in Phase 0,pending,NPC scRNA; three F4; per-state ≥30 audit pending
+GSE290642_human,Fibrosis_18,GSM9472820,scRNA-seq,mesenchymal_hsc_myofibroblast,yes,not computed in Phase 0,pending,NPC scRNA; three F4; per-state ≥30 audit pending
+GSE290642_human,Fibrosis_19,GSM9472821,scRNA-seq,macrophage_monocyte,yes,not computed in Phase 0,pending,NPC scRNA; three F4; per-state ≥30 audit pending
+GSE290642_human,Fibrosis_19,GSM9472821,scRNA-seq,endothelial,yes,not computed in Phase 0,pending,NPC scRNA; three F4; per-state ≥30 audit pending
+GSE290642_human,Fibrosis_19,GSM9472821,scRNA-seq,mesenchymal_hsc_myofibroblast,yes,not computed in Phase 0,pending,NPC scRNA; three F4; per-state ≥30 audit pending
+GSE290642_human,Fibrosis_20,GSM9472822,scRNA-seq,macrophage_monocyte,yes,not computed in Phase 0,pending,NPC scRNA; three F4; per-state ≥30 audit pending
+GSE290642_human,Fibrosis_20,GSM9472822,scRNA-seq,endothelial,yes,not computed in Phase 0,pending,NPC scRNA; three F4; per-state ≥30 audit pending
+GSE290642_human,Fibrosis_20,GSM9472822,scRNA-seq,mesenchymal_hsc_myofibroblast,yes,not computed in Phase 0,pending,NPC scRNA; three F4; per-state ≥30 audit pending
+GSE290642_human,Fibrosis_21,GSM9472823,scRNA-seq,macrophage_monocyte,yes,not computed in Phase 0,pending,NPC scRNA; three F4; per-state ≥30 audit pending
+GSE290642_human,Fibrosis_21,GSM9472823,scRNA-seq,endothelial,yes,not computed in Phase 0,pending,NPC scRNA; three F4; per-state ≥30 audit pending
+GSE290642_human,Fibrosis_21,GSM9472823,scRNA-seq,mesenchymal_hsc_myofibroblast,yes,not computed in Phase 0,pending,NPC scRNA; three F4; per-state ≥30 audit pending
+GSE290642_human,Control_1,GSM9472824,scRNA-seq,macrophage_monocyte,yes,not computed in Phase 0,pending,NPC scRNA; three F4; per-state ≥30 audit pending
+GSE290642_human,Control_1,GSM9472824,scRNA-seq,endothelial,yes,not computed in Phase 0,pending,NPC scRNA; three F4; per-state ≥30 audit pending
+GSE290642_human,Control_1,GSM9472824,scRNA-seq,mesenchymal_hsc_myofibroblast,yes,not computed in Phase 0,pending,NPC scRNA; three F4; per-state ≥30 audit pending
+GSE290642_human,Control_2,GSM9472825,scRNA-seq,macrophage_monocyte,yes,not computed in Phase 0,pending,NPC scRNA; three F4; per-state ≥30 audit pending
+GSE290642_human,Control_2,GSM9472825,scRNA-seq,endothelial,yes,not computed in Phase 0,pending,NPC scRNA; three F4; per-state ≥30 audit pending
+GSE290642_human,Control_2,GSM9472825,scRNA-seq,mesenchymal_hsc_myofibroblast,yes,not computed in Phase 0,pending,NPC scRNA; three F4; per-state ≥30 audit pending
+GSE290642_human,Control_3,GSM9472826,scRNA-seq,macrophage_monocyte,yes,not computed in Phase 0,pending,NPC scRNA; three F4; per-state ≥30 audit pending
+GSE290642_human,Control_3,GSM9472826,scRNA-seq,endothelial,yes,not computed in Phase 0,pending,NPC scRNA; three F4; per-state ≥30 audit pending
+GSE290642_human,Control_3,GSM9472826,scRNA-seq,mesenchymal_hsc_myofibroblast,yes,not computed in Phase 0,pending,NPC scRNA; three F4; per-state ≥30 audit pending
+GSE244832,JB_288,GSM7830559,snRNA-seq,macrophage_monocyte,yes,not computed in Phase 0,pending,publication-level normal/disease totals; donor-state counts pending
+GSE244832,JB_288,GSM7830559,snRNA-seq,endothelial,yes,not computed in Phase 0,pending,publication-level normal/disease totals; donor-state counts pending
+GSE244832,JB_288,GSM7830559,snRNA-seq,mesenchymal_hsc_myofibroblast,yes,not computed in Phase 0,pending,publication-level normal/disease totals; donor-state counts pending
+GSE244832,JB_289,GSM7830560,snRNA-seq,macrophage_monocyte,yes,not computed in Phase 0,pending,publication-level normal/disease totals; donor-state counts pending
+GSE244832,JB_289,GSM7830560,snRNA-seq,endothelial,yes,not computed in Phase 0,pending,publication-level normal/disease totals; donor-state counts pending
+GSE244832,JB_289,GSM7830560,snRNA-seq,mesenchymal_hsc_myofibroblast,yes,not computed in Phase 0,pending,publication-level normal/disease totals; donor-state counts pending
+GSE244832,JB_290,GSM7830561,snRNA-seq,macrophage_monocyte,yes,not computed in Phase 0,pending,publication-level normal/disease totals; donor-state counts pending
+GSE244832,JB_290,GSM7830561,snRNA-seq,endothelial,yes,not computed in Phase 0,pending,publication-level normal/disease totals; donor-state counts pending
+GSE244832,JB_290,GSM7830561,snRNA-seq,mesenchymal_hsc_myofibroblast,yes,not computed in Phase 0,pending,publication-level normal/disease totals; donor-state counts pending
+GSE244832,JB_303,GSM7830562,snRNA-seq,macrophage_monocyte,yes,not computed in Phase 0,pending,publication-level normal/disease totals; donor-state counts pending
+GSE244832,JB_303,GSM7830562,snRNA-seq,endothelial,yes,not computed in Phase 0,pending,publication-level normal/disease totals; donor-state counts pending
+GSE244832,JB_303,GSM7830562,snRNA-seq,mesenchymal_hsc_myofibroblast,yes,not computed in Phase 0,pending,publication-level normal/disease totals; donor-state counts pending
+GSE244832,JB_304,GSM7830563,snRNA-seq,macrophage_monocyte,yes,not computed in Phase 0,pending,publication-level normal/disease totals; donor-state counts pending
+GSE244832,JB_304,GSM7830563,snRNA-seq,endothelial,yes,not computed in Phase 0,pending,publication-level normal/disease totals; donor-state counts pending
+GSE244832,JB_304,GSM7830563,snRNA-seq,mesenchymal_hsc_myofibroblast,yes,not computed in Phase 0,pending,publication-level normal/disease totals; donor-state counts pending
+GSE244832,JB_305,GSM7830564,snRNA-seq,macrophage_monocyte,yes,not computed in Phase 0,pending,publication-level normal/disease totals; donor-state counts pending
+GSE244832,JB_305,GSM7830564,snRNA-seq,endothelial,yes,not computed in Phase 0,pending,publication-level normal/disease totals; donor-state counts pending
+GSE244832,JB_305,GSM7830564,snRNA-seq,mesenchymal_hsc_myofibroblast,yes,not computed in Phase 0,pending,publication-level normal/disease totals; donor-state counts pending
+GSE244832,JB_317,GSM7830565,snRNA-seq,macrophage_monocyte,yes,not computed in Phase 0,pending,publication-level normal/disease totals; donor-state counts pending
+GSE244832,JB_317,GSM7830565,snRNA-seq,endothelial,yes,not computed in Phase 0,pending,publication-level normal/disease totals; donor-state counts pending
+GSE244832,JB_317,GSM7830565,snRNA-seq,mesenchymal_hsc_myofibroblast,yes,not computed in Phase 0,pending,publication-level normal/disease totals; donor-state counts pending
+GSE244832,JB_318,GSM7830566,snRNA-seq,macrophage_monocyte,yes,not computed in Phase 0,pending,publication-level normal/disease totals; donor-state counts pending
+GSE244832,JB_318,GSM7830566,snRNA-seq,endothelial,yes,not computed in Phase 0,pending,publication-level normal/disease totals; donor-state counts pending
+GSE244832,JB_318,GSM7830566,snRNA-seq,mesenchymal_hsc_myofibroblast,yes,not computed in Phase 0,pending,publication-level normal/disease totals; donor-state counts pending
+GSE244832,JB_319,GSM7830567,snRNA-seq,macrophage_monocyte,yes,not computed in Phase 0,pending,publication-level normal/disease totals; donor-state counts pending
+GSE244832,JB_319,GSM7830567,snRNA-seq,endothelial,yes,not computed in Phase 0,pending,publication-level normal/disease totals; donor-state counts pending
+GSE244832,JB_319,GSM7830567,snRNA-seq,mesenchymal_hsc_myofibroblast,yes,not computed in Phase 0,pending,publication-level normal/disease totals; donor-state counts pending
+GSE244832,JB_320,GSM7830568,snRNA-seq,macrophage_monocyte,yes,not computed in Phase 0,pending,publication-level normal/disease totals; donor-state counts pending
+GSE244832,JB_320,GSM7830568,snRNA-seq,endothelial,yes,not computed in Phase 0,pending,publication-level normal/disease totals; donor-state counts pending
+GSE244832,JB_320,GSM7830568,snRNA-seq,mesenchymal_hsc_myofibroblast,yes,not computed in Phase 0,pending,publication-level normal/disease totals; donor-state counts pending
+GSE244832,JB_321,GSM7830569,snRNA-seq,macrophage_monocyte,yes,not computed in Phase 0,pending,publication-level normal/disease totals; donor-state counts pending
+GSE244832,JB_321,GSM7830569,snRNA-seq,endothelial,yes,not computed in Phase 0,pending,publication-level normal/disease totals; donor-state counts pending
+GSE244832,JB_321,GSM7830569,snRNA-seq,mesenchymal_hsc_myofibroblast,yes,not computed in Phase 0,pending,publication-level normal/disease totals; donor-state counts pending
+GSE244832,JB_322,GSM7830570,snRNA-seq,macrophage_monocyte,yes,not computed in Phase 0,pending,publication-level normal/disease totals; donor-state counts pending
+GSE244832,JB_322,GSM7830570,snRNA-seq,endothelial,yes,not computed in Phase 0,pending,publication-level normal/disease totals; donor-state counts pending
+GSE244832,JB_322,GSM7830570,snRNA-seq,mesenchymal_hsc_myofibroblast,yes,not computed in Phase 0,pending,publication-level normal/disease totals; donor-state counts pending
+GSE244832,JB_336,GSM7830571,snRNA-seq,macrophage_monocyte,yes,not computed in Phase 0,pending,publication-level normal/disease totals; donor-state counts pending
+GSE244832,JB_336,GSM7830571,snRNA-seq,endothelial,yes,not computed in Phase 0,pending,publication-level normal/disease totals; donor-state counts pending
+GSE244832,JB_336,GSM7830571,snRNA-seq,mesenchymal_hsc_myofibroblast,yes,not computed in Phase 0,pending,publication-level normal/disease totals; donor-state counts pending
+GSE244832,JB_337,GSM7830572,snRNA-seq,macrophage_monocyte,yes,not computed in Phase 0,pending,publication-level normal/disease totals; donor-state counts pending
+GSE244832,JB_337,GSM7830572,snRNA-seq,endothelial,yes,not computed in Phase 0,pending,publication-level normal/disease totals; donor-state counts pending
+GSE244832,JB_337,GSM7830572,snRNA-seq,mesenchymal_hsc_myofibroblast,yes,not computed in Phase 0,pending,publication-level normal/disease totals; donor-state counts pending
+GSE244832,JB_338,GSM7830573,snRNA-seq,macrophage_monocyte,yes,not computed in Phase 0,pending,publication-level normal/disease totals; donor-state counts pending
+GSE244832,JB_338,GSM7830573,snRNA-seq,endothelial,yes,not computed in Phase 0,pending,publication-level normal/disease totals; donor-state counts pending
+GSE244832,JB_338,GSM7830573,snRNA-seq,mesenchymal_hsc_myofibroblast,yes,not computed in Phase 0,pending,publication-level normal/disease totals; donor-state counts pending
+GSE244832,JB_339,GSM7830574,snRNA-seq,macrophage_monocyte,yes,not computed in Phase 0,pending,publication-level normal/disease totals; donor-state counts pending
+GSE244832,JB_339,GSM7830574,snRNA-seq,endothelial,yes,not computed in Phase 0,pending,publication-level normal/disease totals; donor-state counts pending
+GSE244832,JB_339,GSM7830574,snRNA-seq,mesenchymal_hsc_myofibroblast,yes,not computed in Phase 0,pending,publication-level normal/disease totals; donor-state counts pending
+GSE244832,JB_340,GSM7830575,snRNA-seq,macrophage_monocyte,yes,not computed in Phase 0,pending,publication-level normal/disease totals; donor-state counts pending
+GSE244832,JB_340,GSM7830575,snRNA-seq,endothelial,yes,not computed in Phase 0,pending,publication-level normal/disease totals; donor-state counts pending
+GSE244832,JB_340,GSM7830575,snRNA-seq,mesenchymal_hsc_myofibroblast,yes,not computed in Phase 0,pending,publication-level normal/disease totals; donor-state counts pending
+GSE244832,JB_341,GSM7830576,snRNA-seq,macrophage_monocyte,yes,not computed in Phase 0,pending,publication-level normal/disease totals; donor-state counts pending
+GSE244832,JB_341,GSM7830576,snRNA-seq,endothelial,yes,not computed in Phase 0,pending,publication-level normal/disease totals; donor-state counts pending
+GSE244832,JB_341,GSM7830576,snRNA-seq,mesenchymal_hsc_myofibroblast,yes,not computed in Phase 0,pending,publication-level normal/disease totals; donor-state counts pending

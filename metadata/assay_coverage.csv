@@ -1,0 +1,12 @@
+﻿dataset_id,assay,scRNA,snRNA,spatial,processed_object,independent_of_Ramachandran_programs,phase0_use
+GSE136103,scRNA-seq,yes,no,no,yes,no,internal recovery only
+GSE181483_human,scRNA-seq,yes,no,no,yes,yes,directional support only
+E-MTAB-10553_unique,scRNA-seq,yes,no,no,yes,partially,healthy assay baseline only
+GSE202379,snRNA-seq,no,yes,no,yes,yes,yes
+GSE210077_Watson6,snRNA-seq + MERFISH,no,yes,yes,yes,yes,spatial and cross-assay support
+GSE210077_full_series,snRNA-seq,no,yes,no,yes,yes,no as one undifferentiated cohort
+GSE244832,snRNA-seq + snATAC-seq,no,yes,no,yes,yes,candidate after condition mapping
+GSE290642_human,scRNA-seq,yes,no,no,yes,yes,fibrosis-spectrum sensitivity
+PRJNA833766_new4,scRNA-seq,yes,no,no,no; raw only,yes,macrophage directional only
+GSE185477,paired scRNA-seq and snRNA-seq; Visium,yes,yes,yes,yes,yes,assay baseline only
+ALC_HBV_2023_access_pending,scRNA-seq,yes,no,no,not publicly recovered,yes,access pending

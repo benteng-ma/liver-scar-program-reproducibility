@@ -1,0 +1,11 @@
+* text=auto eol=lf
+*.png binary
+*.pdf binary
+*.parquet binary
+*.gz binary
+*.zip binary
+*.xlsx binary
+*.xls binary
+*.tif binary
+*.tiff binary
+*.h5ad binary

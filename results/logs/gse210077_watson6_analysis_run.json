@@ -1,0 +1,14 @@
+{
+  "dataset_id": "GSE210077_Watson6",
+  "normalization": "log2(CPM + 1) within donor-lineage pseudobulk",
+  "score_methods": [
+    "direction-aware singscore",
+    "standardized signed mean"
+  ],
+  "standardization_reference": "all six lineage donors passing 20-cell gate; outcome-blind",
+  "feature_space": "25476 genes measured in all six donors",
+  "endpoint": "three healthy versus F2/F3/F4 fibrosis; sensitivity only",
+  "effect_rows": 38,
+  "effect_file_sha256": "5939C0CB201A614858706253C54F0ED479273D85028C764D2815701C8F4A05F4",
+  "score_file_sha256": "BC502B37E83AACFA3570DE2553F38591B809209E9D186C2CC5A52174692102A1"
+}

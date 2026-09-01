@@ -1,0 +1,26 @@
+{
+  "verified": true,
+  "implementation": "method-equivalent isolated Python",
+  "python": "3.13.11 | packaged by Anaconda, Inc. | (main, Dec 10 2025, 21:21:58) [MSC v.1929 64 bit (AMD64)]",
+  "executable": "<LOCAL_ISOLATED_ENVIRONMENT>/python",
+  "executable_sha256": "FC8E53730B35B085EF0C0E3B4222625A0C9042C1C05EEC453D2E3536592B6D80",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "isolated_from_system_site_packages": true,
+  "packages": {
+    "anndata": "0.12.7",
+    "h5py": "3.15.1",
+    "matplotlib": "3.10.8",
+    "numpy": "2.5.1",
+    "openpyxl": "3.1.5",
+    "pandas": "2.3.3",
+    "yaml": "6.0.3",
+    "requests": "2.32.5",
+    "sklearn": "1.8.0",
+    "scipy": "1.16.3",
+    "seaborn": "0.13.2",
+    "statsmodels": "0.14.6"
+  },
+  "requirements_sha256": "1CF3A281C2256CFB14575C1777B8BDEFE0C558DD89F23CD99FBC3C6B3A1537BC",
+  "frozen_random_seed": 20260830,
+  "frozen_random_modules_per_program_dataset_state": 1000
+}

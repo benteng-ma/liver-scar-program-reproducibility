@@ -1,0 +1,13 @@
+{
+  "dataset_id": "GSE244832",
+  "normalization": "log2(CPM + 1) within donor-lineage pseudobulk",
+  "score_methods": [
+    "direction-aware singscore",
+    "standardized signed mean"
+  ],
+  "standardization_reference": "all lineage donors passing 20-cell gate; outcome-blind",
+  "contrast": "MASH F2-F4 group versus normal; sensitivity only",
+  "effect_rows": 38,
+  "effect_file_sha256": "E24F6661575400520E5E8EA439D45130E261A8DD155E9BB580586DFFE8B81C87",
+  "score_file_sha256": "6796557AF14BCFDC89CA85D1358624C8536D346BDE4E8D438260AFB89FCF99E9"
+}

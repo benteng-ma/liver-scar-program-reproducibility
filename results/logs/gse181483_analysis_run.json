@@ -1,0 +1,15 @@
+{
+  "dataset_id": "GSE181483_human",
+  "normalization": "log2(CPM + 1) within donor-lineage pseudobulk",
+  "score_methods": [
+    "direction-aware singscore",
+    "standardized signed mean"
+  ],
+  "standardization_reference": "all four lineage donors passing 20-cell gate; outcome-blind",
+  "endpoint": "two healthy versus two cirrhosis donors; directional display only",
+  "formal_p_values": "not computed",
+  "formal_intervals": "not computed",
+  "effect_rows": 38,
+  "effect_file_sha256": "98EDE3085D18DCBA87C22C4ACC6BB31D4B9633C5BF080FBF5B5C871EC82CD35C",
+  "score_file_sha256": "3C9245ECA1F18FB3C8B1CC682859605DB21BEC84E1F02236328E03C38A563463"
+}

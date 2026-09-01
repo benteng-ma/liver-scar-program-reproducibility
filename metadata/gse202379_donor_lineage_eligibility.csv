@@ -1,0 +1,142 @@
+group_id,donor_id,canonical_donor_id,harmonized_lineage,n_cells,eligible_primary_30,eligible_sensitivity_20,orig.ident,manuscript.expt,Disease.status,Fibrosis.score..F0.4.,Steatosis,Ballooning,Inflammation,Age,Gender
+G0001,11,P11,endothelial,41,True,True,SLX-19693-SIGAH11,CG,NASH w/o cirrhosis,3,2,2,2,63,M
+G0002,11,P11,macrophage_monocyte,6,False,False,SLX-19693-SIGAH11,CG,NASH w/o cirrhosis,3,2,2,2,63,M
+G0003,11,P11,mesenchymal_hsc_myofibroblast,13,False,False,SLX-19693-SIGAH11,CG,NASH w/o cirrhosis,3,2,2,2,63,M
+G0004,12,P12,endothelial,39,True,True,SLX-20270-SITTD8,CG,NASH with cirrhosis,4,2,2,1,48,F
+G0005,12,P12,macrophage_monocyte,15,False,False,SLX-20270-SITTD8,CG,NASH with cirrhosis,4,2,2,1,48,F
+G0006,12,P12,mesenchymal_hsc_myofibroblast,26,False,True,SLX-20270-SITTD8,CG,NASH with cirrhosis,4,2,2,1,48,F
+G0007,15,P15,endothelial,33,True,True,SLX-20793-SITTF5,CG,NASH w/o cirrhosis,3,2,2,2,65,M
+G0008,15,P15,macrophage_monocyte,20,False,True,SLX-20793-SITTF5,CG,NASH w/o cirrhosis,3,2,2,2,65,M
+G0009,15,P15,mesenchymal_hsc_myofibroblast,21,False,True,SLX-20793-SITTF5,CG,NASH w/o cirrhosis,3,2,2,2,65,M
+G0010,16,P16,endothelial,107,True,True,SLX-20793-SITTG5,CG,NASH w/o cirrhosis,3,1,2,2,70,F
+G0011,16,P16,macrophage_monocyte,39,True,True,SLX-20793-SITTG5,CG,NASH w/o cirrhosis,3,1,2,2,70,F
+G0012,16,P16,mesenchymal_hsc_myofibroblast,58,True,True,SLX-20793-SITTG5,CG,NASH w/o cirrhosis,3,1,2,2,70,F
+G0013,19,P19,endothelial,66,True,True,SLX-20793-SITTB6,CG,NASH w/o cirrhosis,3,1,2,2,76,M
+G0014,19,P19,macrophage_monocyte,27,False,True,SLX-20793-SITTB6,CG,NASH w/o cirrhosis,3,1,2,2,76,M
+G0015,19,P19,mesenchymal_hsc_myofibroblast,35,True,True,SLX-20793-SITTB6,CG,NASH w/o cirrhosis,3,1,2,2,76,M
+G0016,20,P20,endothelial,460,True,True,SLX-20793-SITTC6,CG,NASH w/o cirrhosis,3,2,2,1,71,F
+G0017,20,P20,macrophage_monocyte,109,True,True,SLX-20793-SITTC6,CG,NASH w/o cirrhosis,3,2,2,1,71,F
+G0018,20,P20,mesenchymal_hsc_myofibroblast,140,True,True,SLX-20793-SITTC6,CG,NASH w/o cirrhosis,3,2,2,1,71,F
+G0019,21,P21,endothelial,526,True,True,SLX-20793-SITTD6,CG,NASH w/o cirrhosis,2,2,2,1,60,M
+G0020,21,P21,macrophage_monocyte,124,True,True,SLX-20793-SITTD6,CG,NASH w/o cirrhosis,2,2,2,1,60,M
+G0021,21,P21,mesenchymal_hsc_myofibroblast,209,True,True,SLX-20793-SITTD6,CG,NASH w/o cirrhosis,2,2,2,1,60,M
+G0022,22,P22,endothelial,141,True,True,SLX-20270-SITTE8,CG,NASH with cirrhosis,4,1,2,1,55,M
+G0023,22,P22,macrophage_monocyte,10,False,False,SLX-20270-SITTE8,CG,NASH with cirrhosis,4,1,2,1,55,M
+G0024,22,P22,mesenchymal_hsc_myofibroblast,28,False,True,SLX-20270-SITTE8,CG,NASH with cirrhosis,4,1,2,1,55,M
+G0025,30,P30,endothelial,74,True,True,SLX-21151-SITTB7,CG,Healthy control,0,0,0,1,49,M
+G0026,30,P30,macrophage_monocyte,8,False,False,SLX-21151-SITTB7,CG,Healthy control,0,0,0,1,49,M
+G0027,30,P30,mesenchymal_hsc_myofibroblast,16,False,False,SLX-21151-SITTB7,CG,Healthy control,0,0,0,1,49,M
+G0028,3,P3,endothelial,28,False,True,SLX-19693-SIGAH3,CG,NASH w/o cirrhosis,1,2,2,1,56,M
+G0029,3,P3,macrophage_monocyte,18,False,False,SLX-19693-SIGAH3,CG,NASH w/o cirrhosis,1,2,2,1,56,M
+G0030,3,P3,mesenchymal_hsc_myofibroblast,20,False,True,SLX-19693-SIGAH3,CG,NASH w/o cirrhosis,1,2,2,1,56,M
+G0031,48,P48,endothelial,33,True,True,SLX-20270-SITTA8,CG,NASH w/o cirrhosis,2,1,1,1,44,F
+G0032,48,P48,macrophage_monocyte,7,False,False,SLX-20270-SITTA8,CG,NASH w/o cirrhosis,2,1,1,1,44,F
+G0033,48,P48,mesenchymal_hsc_myofibroblast,4,False,False,SLX-20270-SITTA8,CG,NASH w/o cirrhosis,2,1,1,1,44,F
+G0034,49,P49,endothelial,139,True,True,SLX-20290-SITTA9,CG,NASH w/o cirrhosis,2,1,2,1,55,F
+G0035,49,P49,macrophage_monocyte,31,True,True,SLX-20290-SITTA9,CG,NASH w/o cirrhosis,2,1,2,1,55,F
+G0036,49,P49,mesenchymal_hsc_myofibroblast,23,False,True,SLX-20290-SITTA9,CG,NASH w/o cirrhosis,2,1,2,1,55,F
+G0037,50,P50,endothelial,281,True,True,SLX-20290-SITTB9,CG,NASH w/o cirrhosis,2,3,2,1,45,M
+G0038,50,P50,macrophage_monocyte,63,True,True,SLX-20290-SITTB9,CG,NASH w/o cirrhosis,2,3,2,1,45,M
+G0039,50,P50,mesenchymal_hsc_myofibroblast,97,True,True,SLX-20290-SITTB9,CG,NASH w/o cirrhosis,2,3,2,1,45,M
+G0040,51,P51,endothelial,345,True,True,SLX-20290-SITTC9,CG,NAFLD,1,1,1,0,57,M
+G0041,51,P51,macrophage_monocyte,52,True,True,SLX-20290-SITTC9,CG,NAFLD,1,1,1,0,57,M
+G0042,51,P51,mesenchymal_hsc_myofibroblast,79,True,True,SLX-20290-SITTC9,CG,NAFLD,1,1,1,0,57,M
+G0043,52,P52,endothelial,133,True,True,SLX-20289-SITTD9,CG,NASH w/o cirrhosis,1,2,1,1,49,M
+G0044,52,P52,macrophage_monocyte,24,False,True,SLX-20289-SITTD9,CG,NASH w/o cirrhosis,1,2,1,1,49,M
+G0045,52,P52,mesenchymal_hsc_myofibroblast,21,False,True,SLX-20289-SITTD9,CG,NASH w/o cirrhosis,1,2,1,1,49,M
+G0046,53,P53,endothelial,144,True,True,SLX-20289-SITTE9,CG,NASH w/o cirrhosis,3,2,2,2,57,M
+G0047,53,P53,macrophage_monocyte,11,False,False,SLX-20289-SITTE9,CG,NASH w/o cirrhosis,3,2,2,2,57,M
+G0048,53,P53,mesenchymal_hsc_myofibroblast,13,False,False,SLX-20289-SITTE9,CG,NASH w/o cirrhosis,3,2,2,2,57,M
+G0049,54,P54,endothelial,155,True,True,SLX-20289-SITTF9,CG,NASH w/o cirrhosis,2,3,2,1,61,F
+G0050,54,P54,macrophage_monocyte,20,False,True,SLX-20289-SITTF9,CG,NASH w/o cirrhosis,2,3,2,1,61,F
+G0051,54,P54,mesenchymal_hsc_myofibroblast,37,True,True,SLX-20289-SITTF9,CG,NASH w/o cirrhosis,2,3,2,1,61,F
+G0052,55,P55,endothelial,222,True,True,SLX-20150-SITTA5,CG,NAFLD,2,1,0,1,21,M
+G0053,55,P55,macrophage_monocyte,22,False,True,SLX-20150-SITTA5,CG,NAFLD,2,1,0,1,21,M
+G0054,55,P55,mesenchymal_hsc_myofibroblast,56,True,True,SLX-20150-SITTA5,CG,NAFLD,2,1,0,1,21,M
+G0055,56,P56,endothelial,348,True,True,SLX-20150-SITTB5,CG,NAFLD,1,1,0,1,47,F
+G0056,56,P56,macrophage_monocyte,30,True,True,SLX-20150-SITTB5,CG,NAFLD,1,1,0,1,47,F
+G0057,56,P56,mesenchymal_hsc_myofibroblast,120,True,True,SLX-20150-SITTB5,CG,NAFLD,1,1,0,1,47,F
+G0058,57,P57,endothelial,254,True,True,SLX-19591-SIGAA4,CG,NASH w/o cirrhosis,2,2,2,1,53,F
+G0059,57,P57,macrophage_monocyte,60,True,True,SLX-19591-SIGAA4,CG,NASH w/o cirrhosis,2,2,2,1,53,F
+G0060,57,P57,mesenchymal_hsc_myofibroblast,98,True,True,SLX-19591-SIGAA4,CG,NASH w/o cirrhosis,2,2,2,1,53,F
+G0061,60,P60,endothelial,132,True,True,SLX-20290-SITTG5,CG,NAFLD,0,1,1,0,53,M
+G0062,60,P60,macrophage_monocyte,1,False,False,SLX-20290-SITTG5,CG,NAFLD,0,1,1,0,53,M
+G0063,60,P60,mesenchymal_hsc_myofibroblast,31,True,True,SLX-20290-SITTG5,CG,NAFLD,0,1,1,0,53,M
+G0064,62,P62,endothelial,7,False,False,SLX-20270-SITTD3,CG,NASH w/o cirrhosis,3,2,2,1,60,M
+G0065,62,P62,macrophage_monocyte,2,False,False,SLX-20270-SITTD3,CG,NASH w/o cirrhosis,3,2,2,1,60,M
+G0066,62,P62,mesenchymal_hsc_myofibroblast,7,False,False,SLX-20270-SITTD3,CG,NASH w/o cirrhosis,3,2,2,1,60,M
+G0067,64,P64,endothelial,99,True,True,SLX-20290-SITTA6,CG,NASH w/o cirrhosis,1,3,1,2,55,F
+G0068,64,P64,macrophage_monocyte,11,False,False,SLX-20290-SITTA6,CG,NASH w/o cirrhosis,1,3,1,2,55,F
+G0069,64,P64,mesenchymal_hsc_myofibroblast,38,True,True,SLX-20290-SITTA6,CG,NASH w/o cirrhosis,1,3,1,2,55,F
+G0070,67,P67,endothelial,40,True,True,SLX-20270-SITTF3,CG,NASH w/o cirrhosis,3,2,1,1,67,F
+G0071,67,P67,macrophage_monocyte,3,False,False,SLX-20270-SITTF3,CG,NASH w/o cirrhosis,3,2,1,1,67,F
+G0072,67,P67,mesenchymal_hsc_myofibroblast,25,False,True,SLX-20270-SITTF3,CG,NASH w/o cirrhosis,3,2,1,1,67,F
+G0073,68,P68,endothelial,289,True,True,SLX-20290-SITTD5,CG,NASH with cirrhosis,4,1,2,1,66,F
+G0074,68,P68,macrophage_monocyte,22,False,True,SLX-20290-SITTD5,CG,NASH with cirrhosis,4,1,2,1,66,F
+G0075,68,P68,mesenchymal_hsc_myofibroblast,52,True,True,SLX-20290-SITTD5,CG,NASH with cirrhosis,4,1,2,1,66,F
+G0076,6,P6,endothelial,394,True,True,SLX-20290-SITTA7,CG,NAFLD,1,1,0,1,57,M
+G0077,6,P6,macrophage_monocyte,35,True,True,SLX-20290-SITTA7,CG,NAFLD,1,1,0,1,57,M
+G0078,6,P6,mesenchymal_hsc_myofibroblast,90,True,True,SLX-20290-SITTA7,CG,NAFLD,1,1,0,1,57,M
+G0079,70,P70,endothelial,120,True,True,SLX-20270-SITTA3,CG,NASH w/o cirrhosis,3,2,2,1,59,M
+G0080,70,P70,macrophage_monocyte,29,False,True,SLX-20270-SITTA3,CG,NASH w/o cirrhosis,3,2,2,1,59,M
+G0081,70,P70,mesenchymal_hsc_myofibroblast,25,False,True,SLX-20270-SITTA3,CG,NASH w/o cirrhosis,3,2,2,1,59,M
+G0082,71,P71,endothelial,14,False,False,SLX-20289-SITTG1,CG,NASH w/o cirrhosis,2,2,2,2,32,F
+G0083,71,P71,macrophage_monocyte,4,False,False,SLX-20289-SITTG1,CG,NASH w/o cirrhosis,2,2,2,2,32,F
+G0084,71,P71,mesenchymal_hsc_myofibroblast,1,False,False,SLX-20289-SITTG1,CG,NASH w/o cirrhosis,2,2,2,2,32,F
+G0085,72,P72,endothelial,553,True,True,SLX-19750-SITTC3,CG,NASH w/o cirrhosis,3,2,2,1,41,M
+G0086,72,P72,macrophage_monocyte,250,True,True,SLX-19750-SITTC3,CG,NASH w/o cirrhosis,3,2,2,1,41,M
+G0087,72,P72,mesenchymal_hsc_myofibroblast,216,True,True,SLX-19750-SITTC3,CG,NASH w/o cirrhosis,3,2,2,1,41,M
+G0088,73,P73,endothelial,603,True,True,SLX-19750-SITTD3,CG,NASH w/o cirrhosis,1,2,2,1,59,F
+G0089,73,P73,macrophage_monocyte,135,True,True,SLX-19750-SITTD3,CG,NASH w/o cirrhosis,1,2,2,1,59,F
+G0090,73,P73,mesenchymal_hsc_myofibroblast,152,True,True,SLX-19750-SITTD3,CG,NASH w/o cirrhosis,1,2,2,1,59,F
+G0091,75,P75,endothelial,301,True,True,SLX-20290-SITTE5,CG,NASH with cirrhosis,4,1,2,1,60,M
+G0092,75,P75,macrophage_monocyte,39,True,True,SLX-20290-SITTE5,CG,NASH with cirrhosis,4,1,2,1,60,M
+G0093,75,P75,mesenchymal_hsc_myofibroblast,95,True,True,SLX-20290-SITTE5,CG,NASH with cirrhosis,4,1,2,1,60,M
+G0094,76,P76,endothelial,359,True,True,SLX-20290-SITTF5,CG,NASH w/o cirrhosis,2,1,2,1,55,M
+G0095,76,P76,macrophage_monocyte,132,True,True,SLX-20290-SITTF5,CG,NASH w/o cirrhosis,2,1,2,1,55,M
+G0096,76,P76,mesenchymal_hsc_myofibroblast,35,True,True,SLX-20290-SITTF5,CG,NASH w/o cirrhosis,2,1,2,1,55,M
+G0097,77,P77,endothelial,110,True,True,SLX-20270-SITTB8,CG,NASH w/o cirrhosis,2,1,2,1,62,F
+G0098,77,P77,macrophage_monocyte,44,True,True,SLX-20270-SITTB8,CG,NASH w/o cirrhosis,2,1,2,1,62,F
+G0099,77,P77,mesenchymal_hsc_myofibroblast,12,False,False,SLX-20270-SITTB8,CG,NASH w/o cirrhosis,2,1,2,1,62,F
+G0100,78,P78,endothelial,45,True,True,SLX-20270-SITTC8,CG,NAFLD,0,1,1,0,53,M
+G0101,78,P78,macrophage_monocyte,5,False,False,SLX-20270-SITTC8,CG,NAFLD,0,1,1,0,53,M
+G0102,78,P78,mesenchymal_hsc_myofibroblast,5,False,False,SLX-20270-SITTC8,CG,NAFLD,0,1,1,0,53,M
+G0103,7,P7,endothelial,95,True,True,SLX-20793-SITTB5,CG,NASH w/o cirrhosis,2,3,2,2,47,M
+G0104,7,P7,macrophage_monocyte,32,True,True,SLX-20793-SITTB5,CG,NASH w/o cirrhosis,2,3,2,2,47,M
+G0105,7,P7,mesenchymal_hsc_myofibroblast,99,True,True,SLX-20793-SITTB5,CG,NASH w/o cirrhosis,2,3,2,2,47,M
+G0106,83,P83,endothelial,118,True,True,SLX-20270-SITTF12,CG,NASH w/o cirrhosis,2,2,2,2,56,M
+G0107,83,P83,macrophage_monocyte,5,False,False,SLX-20270-SITTF12,CG,NASH w/o cirrhosis,2,2,2,2,56,M
+G0108,83,P83,mesenchymal_hsc_myofibroblast,9,False,False,SLX-20270-SITTF12,CG,NASH w/o cirrhosis,2,2,2,2,56,M
+G0109,84,P84,endothelial,131,True,True,SLX-20266-SITTG12,CG,NAFLD,3,1,0,0,56,M
+G0110,84,P84,macrophage_monocyte,8,False,False,SLX-20266-SITTG12,CG,NAFLD,3,1,0,0,56,M
+G0111,84,P84,mesenchymal_hsc_myofibroblast,19,False,False,SLX-20266-SITTG12,CG,NAFLD,3,1,0,0,56,M
+G0112,8,P8,endothelial,357,True,True,SLX-20793-SITTC5,CG,NASH w/o cirrhosis,3,2,2,2,65,M
+G0113,8,P8,macrophage_monocyte,105,True,True,SLX-20793-SITTC5,CG,NASH w/o cirrhosis,3,2,2,2,65,M
+G0114,8,P8,mesenchymal_hsc_myofibroblast,128,True,True,SLX-20793-SITTC5,CG,NASH w/o cirrhosis,3,2,2,2,65,M
+G0115,98,P98,endothelial,293,True,True,SLX-21151-SITTF7,CG,Healthy control,1,1,0,0,57,M
+G0116,98,P98,macrophage_monocyte,66,True,True,SLX-21151-SITTF7,CG,Healthy control,1,1,0,0,57,M
+G0117,98,P98,mesenchymal_hsc_myofibroblast,35,True,True,SLX-21151-SITTF7,CG,Healthy control,1,1,0,0,57,M
+G0118,9,P9,endothelial,345,True,True,SLX-20793-SITTD5,CG,NASH w/o cirrhosis,1,2,1,1,50,M
+G0119,9,P9,macrophage_monocyte,94,True,True,SLX-20793-SITTD5,CG,NASH w/o cirrhosis,1,2,1,1,50,M
+G0120,9,P9,mesenchymal_hsc_myofibroblast,149,True,True,SLX-20793-SITTD5,CG,NASH w/o cirrhosis,1,2,1,1,50,M
+G0121,CL103,PCL103,endothelial,907,True,True,SLX-20793-SITTE9;SLX-20793-SITTF9;SLX-20985-SITTD3,CG,end stage,4,end stage,end stage,end stage,59,M
+G0122,CL103,PCL103,macrophage_monocyte,344,True,True,SLX-20793-SITTE9;SLX-20793-SITTF9;SLX-20985-SITTD3,CG,end stage,4,end stage,end stage,end stage,59,M
+G0123,CL103,PCL103,mesenchymal_hsc_myofibroblast,327,True,True,SLX-20793-SITTE9;SLX-20793-SITTF9;SLX-20985-SITTD3,CG,end stage,4,end stage,end stage,end stage,59,M
+G0124,CL104,PCL104,endothelial,343,True,True,SLX-21155-SITTD1;SLX-21155-SITTE1;SLX-21155-SITTF1,CG,end stage,4,end stage,end stage,end stage,59,F
+G0125,CL104,PCL104,macrophage_monocyte,141,True,True,SLX-21155-SITTD1;SLX-21155-SITTE1;SLX-21155-SITTF1,CG,end stage,4,end stage,end stage,end stage,59,F
+G0126,CL104,PCL104,mesenchymal_hsc_myofibroblast,134,True,True,SLX-21155-SITTD1;SLX-21155-SITTE1;SLX-21155-SITTF1,CG,end stage,4,end stage,end stage,end stage,59,F
+G0127,CL16,PCL16,endothelial,157,True,True,SLX-21153-SITTB12;SLX-21153-SITTC12;SLX-21153-SITTD12,CG,end stage,4,end stage,end stage,end stage,63,M
+G0128,CL16,PCL16,macrophage_monocyte,192,True,True,SLX-21153-SITTB12;SLX-21153-SITTC12;SLX-21153-SITTD12,CG,end stage,4,end stage,end stage,end stage,63,M
+G0129,CL16,PCL16,mesenchymal_hsc_myofibroblast,101,True,True,SLX-21153-SITTB12;SLX-21153-SITTC12;SLX-21153-SITTD12,CG,end stage,4,end stage,end stage,end stage,63,M
+G0130,CL17,PCL17,endothelial,245,True,True,SLX-19940-SITTE11;SLX-19940-SITTF11;SLX-19940-SITTG11,CG,end stage,4,end stage,end stage,end stage,72,M
+G0131,CL17,PCL17,macrophage_monocyte,89,True,True,SLX-19940-SITTE11;SLX-19940-SITTF11;SLX-19940-SITTG11,CG,end stage,4,end stage,end stage,end stage,72,M
+G0132,CL17,PCL17,mesenchymal_hsc_myofibroblast,137,True,True,SLX-19940-SITTE11;SLX-19940-SITTF11;SLX-19940-SITTG11,CG,end stage,4,end stage,end stage,end stage,72,M
+G0133,CL18,PCL18,endothelial,720,True,True,SLX-19940-SITTA2;SLX-19940-SITTC2;SLX-20150-SITTH12,CG,end stage,4,end stage,end stage,end stage,68,F
+G0134,CL18,PCL18,macrophage_monocyte,241,True,True,SLX-19940-SITTA2;SLX-19940-SITTC2;SLX-20150-SITTH12,CG,end stage,4,end stage,end stage,end stage,68,F
+G0135,CL18,PCL18,mesenchymal_hsc_myofibroblast,247,True,True,SLX-19940-SITTA2;SLX-19940-SITTC2;SLX-20150-SITTH12,CG,end stage,4,end stage,end stage,end stage,68,F
+G0136,HL1,PHL1,endothelial,927,True,True,SLX-20266-SITTC1;SLX-20266-SITTD1;SLX-20266-SITTE1,CG,Healthy control,0,healthy control,healthy control,healthy control,38,M
+G0137,HL1,PHL1,macrophage_monocyte,218,True,True,SLX-20266-SITTC1;SLX-20266-SITTD1;SLX-20266-SITTE1,CG,Healthy control,0,healthy control,healthy control,healthy control,38,M
+G0138,HL1,PHL1,mesenchymal_hsc_myofibroblast,252,True,True,SLX-20266-SITTC1;SLX-20266-SITTD1;SLX-20266-SITTE1,CG,Healthy control,0,healthy control,healthy control,healthy control,38,M
+G0139,HL2,PHL2,endothelial,285,True,True,SLX-20793-SITTD9,CG,Healthy control,0,healthy control,healthy control,healthy control,74,F
+G0140,HL2,PHL2,macrophage_monocyte,71,True,True,SLX-20793-SITTD9,CG,Healthy control,0,healthy control,healthy control,healthy control,74,F
+G0141,HL2,PHL2,mesenchymal_hsc_myofibroblast,58,True,True,SLX-20793-SITTD9,CG,Healthy control,0,healthy control,healthy control,healthy control,74,F

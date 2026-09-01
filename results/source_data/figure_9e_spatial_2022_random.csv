@@ -1,0 +1,9 @@
+label,spatial_study,gene_set_id,score_method,independent_donors,positive_donors,positive_donor_fraction,observed_median_scar_minus_parenchyma,random_median,random_95th_percentile,observed_percentile,empirical_p_one_sided,descriptive_pass_if_region_averages_substituted
+"Endo2
+Rank",Chung_2022_PMC9426406,Endo2_primary,singscore,8,8,1.0,0.0433037024613191,-0.0059691032268498,0.0305271110498792,0.9849,0.0151984801519848,True
+"Endo2
+z-mean",Chung_2022_PMC9426406,Endo2_primary,standardized_mean,8,8,1.0,1.1937121622360587,0.5543925769395233,0.9884329490301624,0.9957,0.0043995600439956,True
+"SAEndo1
+Rank",Chung_2022_PMC9426406,SAEndo1_primary,singscore,8,8,1.0,0.0290871734663927,-0.0004570422239926,0.0405871315359134,0.8839,0.1161883811618838,False
+"SAEndo1
+z-mean",Chung_2022_PMC9426406,SAEndo1_primary,standardized_mean,8,8,1.0,1.2052083508845235,0.6220345735083845,1.1477075655066975,0.9706,0.0294970502949705,True

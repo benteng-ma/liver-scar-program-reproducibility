@@ -1,0 +1,5 @@
+spatial_study,gene_set_id,dual_score_descriptive_pass,strict_frozen_spatial_pass,strict_status,reason
+Chung_2022_PMC9426406,Endo2_primary,True,False,SPATIAL_RESOURCE_PARTIALLY_EVALUABLE,"Author-processed donor-by-region average expression was public, but spot-level matrices and labels required by the frozen rule were not public."
+Chung_2022_PMC9426406,SAEndo1_primary,False,False,SPATIAL_RESOURCE_PARTIALLY_EVALUABLE,"Author-processed donor-by-region average expression was public, but spot-level matrices and labels required by the frozen rule were not public."
+Chung_2022_PMC9426406,Endo2_secondary,True,False,SPATIAL_RESOURCE_PARTIALLY_EVALUABLE,"Author-processed donor-by-region average expression was public, but spot-level matrices and labels required by the frozen rule were not public."
+Chung_2022_PMC9426406,SAEndo1_secondary,False,False,SPATIAL_RESOURCE_PARTIALLY_EVALUABLE,"Author-processed donor-by-region average expression was public, but spot-level matrices and labels required by the frozen rule were not public."

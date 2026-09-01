@@ -1,0 +1,36 @@
+{
+  "title": "Liver scar-program reproducibility benchmark",
+  "upload_type": "software",
+  "version": "1.0.0",
+  "publication_date": "2026-09-01",
+  "description": "Code, frozen specifications, and derived results for a donor-level benchmark of published human liver scar-cell programs.",
+  "access_right": "open",
+  "creators": [
+    {
+      "name": "Chen, Bing",
+      "orcid": "0000-0001-8828-9678"
+    },
+    {
+      "name": "Ma, Benteng",
+      "orcid": "0000-0001-8795-7291"
+    },
+    {
+      "name": "Cai, Ting",
+      "orcid": "0000-0002-8910-3289"
+    },
+    {
+      "name": "Liu, Xiao-ming"
+    },
+    {
+      "name": "Wang, Fen"
+    }
+  ],
+  "keywords": [
+    "liver fibrosis",
+    "cirrhosis",
+    "single-cell RNA sequencing",
+    "reproducibility",
+    "endothelial cells"
+  ],
+  "license": "mit"
+}

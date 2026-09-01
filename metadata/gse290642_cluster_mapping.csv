@@ -1,0 +1,41 @@
+dataset_id,cluster,provisional_label,harmonized_lineage,target_included,mapping_status,marker_evidence,notes
+GSE290642_human,0,neutrophil,excluded_neutrophil,no,frozen_reconstructed,"FCGR3B/S100A8/S100A9 panel; automatic identity rule passed",Excluded from frozen target lineages.
+GSE290642_human,1,t_nk,excluded_lymphocyte,no,frozen_reconstructed,"CD3/NKG7 panel; automatic identity rule passed",Excluded from frozen target lineages.
+GSE290642_human,2,b_plasma,excluded_lymphocyte,no,frozen_reconstructed,"CD79/MS4A1 or plasma panel; automatic identity rule passed",Excluded from frozen target lineages.
+GSE290642_human,3,endothelial,endothelial,yes,frozen_reconstructed,"PECAM1 VWF KDR EMCN CDH5; 11 anchors above z=0.5; margin 2.92",Passed the fixed automatic target-lineage rule.
+GSE290642_human,4,macrophage_monocyte,macrophage_monocyte,yes,frozen_reconstructed,"LST1 TYROBP FCER1G C1QA CD163; 14 anchors above z=0.5; margin 1.42",Passed the fixed automatic target-lineage rule.
+GSE290642_human,5,ambiguous,excluded_ambiguous,no,frozen_reconstructed,"top T/NK margin 0.48 below 0.5",Excluded under the fixed ambiguity rule.
+GSE290642_human,6,t_nk,excluded_lymphocyte,no,frozen_reconstructed,"CD3/NKG7 panel; automatic identity rule passed",Excluded from frozen target lineages.
+GSE290642_human,7,endothelial,endothelial,yes,frozen_reconstructed,"KDR EMCN CDH5 endothelial panel; 10 anchors above z=0.5; margin 1.94",Passed the fixed automatic target-lineage rule.
+GSE290642_human,8,t_nk,excluded_lymphocyte,no,frozen_reconstructed,"CD3/NKG7 panel; automatic identity rule passed",Excluded from frozen target lineages.
+GSE290642_human,9,ambiguous,excluded_ambiguous,no,frozen_reconstructed,"top B/plasma margin 0.18 and one anchor",Excluded under the fixed ambiguity rule.
+GSE290642_human,10,dendritic,excluded_dendritic,no,frozen_reconstructed,"FCER1A/CD1C/CLEC panel; automatic identity rule passed",Excluded from frozen target lineages.
+GSE290642_human,11,mesenchymal_hsc_myofibroblast,mesenchymal_hsc_myofibroblast,yes,frozen_reconstructed,"COL1A1 COL1A2 DCN LUM PDGFRB RGS5 ACTA2 LRAT RBP1; 17 anchors above z=0.5; margin 4.31",Passed the fixed automatic target-lineage rule.
+GSE290642_human,12,b_plasma,excluded_lymphocyte,no,frozen_reconstructed,"CD79/MS4A1 or plasma panel; automatic identity rule passed",Excluded from frozen target lineages.
+GSE290642_human,13,dendritic,excluded_dendritic,no,frozen_reconstructed,"FCER1A/CD1C/CLEC panel; automatic identity rule passed",Excluded from frozen target lineages.
+GSE290642_human,14,b_plasma,excluded_lymphocyte,no,frozen_reconstructed,"CD79/MS4A1 or plasma panel; automatic identity rule passed",Excluded from frozen target lineages.
+GSE290642_human,15,ambiguous,excluded_ambiguous,no,frozen_reconstructed,"mesenchymal score only -0.23; margin 0.03; zero anchors above z=0.5",Explicitly excluded rather than used to increase mesenchymal cell counts.
+GSE290642_human,16,t_nk,excluded_lymphocyte,no,frozen_reconstructed,"CD3/NKG7 panel; automatic identity rule passed",Excluded from frozen target lineages.
+GSE290642_human,17,macrophage_monocyte,macrophage_monocyte,yes,frozen_reconstructed,"LST1 TYROBP FCER1G C1QA CD163; 13 anchors above z=0.5; margin 2.85",Passed the fixed automatic target-lineage rule.
+GSE290642_human,18,neutrophil,excluded_neutrophil,no,frozen_reconstructed,"FCGR3B/S100A8/S100A9 panel; automatic identity rule passed",Excluded from frozen target lineages.
+GSE290642_human,19,t_nk,excluded_lymphocyte,no,frozen_reconstructed,"CD3/NKG7 panel; automatic identity rule passed",Excluded from frozen target lineages.
+GSE290642_human,20,neutrophil,excluded_neutrophil,no,frozen_reconstructed,"FCGR3B/S100A8/S100A9 panel; automatic identity rule passed",Excluded from frozen target lineages.
+GSE290642_human,21,ambiguous,excluded_ambiguous,no,frozen_reconstructed,"macrophage/monocyte score first with 8 anchors but margin 0.40 below 0.5",Excluded under the frozen margin rule despite plausible monocyte identity.
+GSE290642_human,22,ambiguous,excluded_ambiguous,no,frozen_reconstructed,"top T/NK margin 0.44 below 0.5",Excluded under the fixed ambiguity rule.
+GSE290642_human,23,endothelial,endothelial,yes,frozen_reconstructed,"KDR CDH5 endothelial panel; 7 anchors above z=0.5; margin 0.83",Passed the fixed automatic target-lineage rule.
+GSE290642_human,24,neutrophil,excluded_neutrophil,no,frozen_reconstructed,"FCGR3B/S100A8/S100A9 panel; automatic identity rule passed",Excluded from frozen target lineages.
+GSE290642_human,25,macrophage_monocyte,macrophage_monocyte,yes,frozen_reconstructed,"LST1 TYROBP FCER1G C1QA CD163; 14 anchors above z=0.5; margin 2.37",Passed the fixed automatic target-lineage rule.
+GSE290642_human,26,t_nk,excluded_lymphocyte,no,frozen_reconstructed,"CD3/NKG7 panel; automatic identity rule passed",Excluded from frozen target lineages.
+GSE290642_human,27,neutrophil,excluded_neutrophil,no,frozen_reconstructed,"FCGR3B/S100A8/S100A9 panel; automatic identity rule passed",Excluded from frozen target lineages.
+GSE290642_human,28,t_nk,excluded_lymphocyte,no,frozen_reconstructed,"CD3/NKG7 panel; automatic identity rule passed",Excluded from frozen target lineages.
+GSE290642_human,29,mesenchymal_hsc_myofibroblast,mesenchymal_hsc_myofibroblast,yes,frozen_reconstructed,"COL1A2 DCN PDGFRB RGS5 ACTA2; 10 anchors above z=0.5; margin 1.63",Passed the fixed automatic target-lineage rule.
+GSE290642_human,30,ambiguous,excluded_ambiguous,no,frozen_reconstructed,"top T/NK margin 0.27",Excluded under the fixed ambiguity rule.
+GSE290642_human,31,t_nk,excluded_lymphocyte,no,frozen_reconstructed,"CD3/NKG7 panel; automatic identity rule passed",Excluded from frozen target lineages.
+GSE290642_human,32,b_plasma,excluded_lymphocyte,no,frozen_reconstructed,"CD79/MS4A1 or plasma panel; automatic identity rule passed",Excluded from frozen target lineages.
+GSE290642_human,33,t_nk,excluded_lymphocyte,no,frozen_reconstructed,"CD3/NKG7 panel; automatic identity rule passed",Excluded from frozen target lineages.
+GSE290642_human,34,endothelial,endothelial,yes,frozen_reconstructed,"PECAM1 VWF KDR EMCN CDH5; 12 anchors above z=0.5; margin 2.15",Passed the fixed automatic target-lineage rule.
+GSE290642_human,35,t_nk,excluded_lymphocyte,no,frozen_reconstructed,"CD3/NKG7 panel; automatic identity rule passed",Excluded from frozen target lineages.
+GSE290642_human,36,epithelial,excluded_epithelial,no,frozen_reconstructed,"EPCAM/KRT/ALB panel; automatic identity rule passed",Excluded from frozen target lineages.
+GSE290642_human,37,dendritic,excluded_dendritic,no,frozen_reconstructed,"FCER1A/CD1C/CLEC panel; automatic identity rule passed",Excluded from frozen target lineages.
+GSE290642_human,38,epithelial,excluded_epithelial,no,frozen_reconstructed,"EPCAM/KRT/ALB panel; automatic identity rule passed",Excluded from frozen target lineages.
+GSE290642_human,39,dendritic,excluded_dendritic,no,frozen_reconstructed,"FCER1A/CD1C/CLEC panel; automatic identity rule passed",Excluded from frozen target lineages.

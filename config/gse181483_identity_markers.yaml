@@ -1,0 +1,92 @@
+macrophage_monocyte:
+  - LST1
+  - TYROBP
+  - FCER1G
+  - AIF1
+  - CTSS
+  - C1QA
+  - C1QB
+  - C1QC
+  - CD68
+  - CD163
+  - FCGR3A
+  - MARCO
+  - SPP1
+  - TREM2
+  - GPNMB
+endothelial:
+  - PECAM1
+  - VWF
+  - KDR
+  - EMCN
+  - ESAM
+  - EGFL7
+  - ENG
+  - CDH5
+  - RAMP2
+  - PLVAP
+  - KLF2
+  - CA4
+  - FCN3
+mesenchymal_hsc_myofibroblast:
+  - COL1A1
+  - COL1A2
+  - COL3A1
+  - DCN
+  - LUM
+  - COL6A1
+  - COL6A2
+  - COL6A3
+  - PDGFRB
+  - RGS5
+  - CSPG4
+  - ACTA2
+  - DES
+  - LRAT
+  - RBP1
+  - RELN
+  - PDGFRA
+t_nk:
+  - CD3D
+  - CD3E
+  - TRBC1
+  - TRBC2
+  - NKG7
+  - GNLY
+  - PRF1
+  - GZMB
+  - IL7R
+b_plasma:
+  - CD79A
+  - CD79B
+  - MS4A1
+  - CD19
+  - CD37
+  - CD74
+  - MZB1
+  - JCHAIN
+  - CD38
+epithelial:
+  - EPCAM
+  - KRT19
+  - KRT7
+  - KRT8
+  - KRT18
+  - KRT17
+  - KRT23
+  - ALB
+  - HNF4A
+neutrophil:
+  - FCGR3B
+  - CSF3R
+  - S100A8
+  - S100A9
+  - CEACAM8
+  - MPO
+  - ELANE
+dendritic:
+  - FCER1A
+  - CD1C
+  - CLEC10A
+  - CLEC9A
+  - XCR1

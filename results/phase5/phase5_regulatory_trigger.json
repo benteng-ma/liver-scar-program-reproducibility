@@ -1,0 +1,17 @@
+{
+  "decision_date": "2026-09-01",
+  "frozen_rule": "E-MTAB-13131 snATAC-seq is analyzed only if at least one primary endothelial program is both STATE_SUPPORTED_POST_LOCK and SPATIALLY_REPLICATED_POST_LOCK.",
+  "primary_programs": {
+    "RAM2019_ENDO_2": {
+      "state_status": "NOT_STATE_SUPPORTED_POST_LOCK",
+      "spatial_status": "NOT_SPATIALLY_REPLICATED_POST_LOCK"
+    },
+    "RAM2019_ENDO_6_SAENDO1": {
+      "state_status": "NOT_STATE_SUPPORTED_POST_LOCK",
+      "spatial_status": "NOT_SPATIALLY_REPLICATED_POST_LOCK"
+    }
+  },
+  "regulatory_status": "NOT_TRIGGERED_BY_FROZEN_RULE",
+  "outcome_search_performed": false,
+  "rationale": "Neither primary endothelial program met both prerequisite gates; no E-MTAB-13131 snATAC outcome was inspected."
+}

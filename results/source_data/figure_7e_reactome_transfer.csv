@@ -1,0 +1,17 @@
+lineage,context_left,context_right,shared_pathways,spearman_rho_nes,sign_agreement_nes,median_absolute_nes_difference,comparison
+endothelial,GSE256398_human::alcohol_cirrhosis_vs_healthy,GSE256398_human::mash_cirrhosis_vs_healthy,1338,0.6309872649065779,0.7301943198804185,0.3130592686770538,"Same-cohort
+cirrhosis etiologies"
+macrophage_monocyte,GSE256398_human::alcohol_cirrhosis_vs_healthy,GSE256398_human::mash_cirrhosis_vs_healthy,1326,0.7850609304796698,0.7865761689291101,0.29343546758894,"Same-cohort
+cirrhosis etiologies"
+mesenchymal_hsc_myofibroblast,GSE256398_human::alcohol_cirrhosis_vs_healthy,GSE256398_human::mash_cirrhosis_vs_healthy,1342,0.648774900960573,0.7473919523099851,0.338429254784634,"Same-cohort
+cirrhosis etiologies"
+endothelial,GSE244832::mash_f2f4_group_vs_normal_sensitivity,GSE256398_human::mash_cirrhosis_vs_healthy,1334,0.3717298284991588,0.5502248875562219,0.8648608601657878,"Cross-cohort
+MASH"
+macrophage_monocyte,GSE244832::mash_f2f4_group_vs_normal_sensitivity,GSE256398_human::mash_cirrhosis_vs_healthy,1298,0.2469812183032632,0.5893682588597843,0.6709690765286088,"Cross-cohort
+MASH"
+mesenchymal_hsc_myofibroblast,GSE244832::mash_f2f4_group_vs_normal_sensitivity,GSE256398_human::mash_cirrhosis_vs_healthy,1324,0.1733749459607448,0.5324773413897281,0.7689175740206973,"Cross-cohort
+MASH"
+endothelial,GSE202379::advanced_f3f4_vs_f0_non_end_stage,GSE256398_human::mash_cirrhosis_vs_healthy,1317,0.05852440610389,0.4912680334092635,1.4703907667016036,"Cross-cohort
+cirrhosis"
+mesenchymal_hsc_myofibroblast,GSE202379::advanced_f3f4_vs_f0_non_end_stage,GSE256398_human::mash_cirrhosis_vs_healthy,1308,-0.4183155165666274,0.3402140672782874,2.0505156101734947,"Cross-cohort
+cirrhosis"
